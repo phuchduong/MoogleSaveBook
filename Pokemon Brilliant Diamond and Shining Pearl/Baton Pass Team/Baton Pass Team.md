@@ -104,6 +104,11 @@ This team is built around a **Baton Pass chain**. The goal is to accumulate Evas
     * `Blizzard`
     * `Hail` (Stack with abilities Snow Cloak or Ice Body)
     * `Ice Beam` / `Ice Shard` / `Freeze-Dry`
+* [Leafeon](https://pokemondb.net/pokedex/leafeon/moves/8)
+    * `Baton Pass`
+    * `Sword Stance`
+    * `Leaf Blade`
+    * `Leech Seed` / `Synthesis` / `Sunny Day` / `Iron Tail` / `Dig` / `Aerial Ace` / `X-Scissor`
 * [Palkia](https://pokemondb.net/pokedex/palkia/moves/8)
     * `Aqua Ring`
     * `Surf`
