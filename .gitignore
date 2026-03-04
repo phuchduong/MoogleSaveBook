@@ -205,3 +205,22 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- Windows System Files ---
+[Thumbs.db]        # Database for folder thumbnail previews
+[ehthumbs.db]      # Media Center thumbnail database
+[Desktop.ini]      # Folder customization settings
+[Recycle.bin/]     # Deleted files
+[*.lnk]            # Windows shortcuts
+
+# --- Gaming & Generic Data ---
+*.log              # Game error logs (usually not needed)
+*.tmp              # Temporary files
+*.bak              # Backup files created by editors or games
+*.old              # Old versions of files
+*.patch            # Patch files
+
+# --- Text Editor / IDE Clutter ---
+.vscode/           # VS Code settings 
+.idea/             # JetBrains/PyCharm settings [cite: 16]
+*.swp              # Vim swap files
