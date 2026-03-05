@@ -66,7 +66,7 @@ This team is built around a **Baton Pass chain**. The goal is to accumulate Evas
     * `Baton Pass`
     * `Stealth Rock` (Field Hazard)
     * `Earthquake` (Physical STAB)
-    * `Roost` (Instant Recovery) / `Agility` / `Sandstorm` / `Swords Dance` / `Acrobatics` / `Taunt`
+    * `Agility` / `Roost` (Instant Recovery) / `Sandstorm` / `Swords Dance` / `Acrobatics` / `Taunt`
 
 ### 6. [Absol](https://pokemondb.net/pokedex/absol/moves/8) (The Physical Finisher)
 * **Role:** Critical Hit Sweeper
@@ -86,8 +86,8 @@ This team is built around a **Baton Pass chain**. The goal is to accumulate Evas
 * **Item:** Leftovers or Kings Rock (for extra flinch chance)
 * **Moveset:**
     * `Baton Pass`
-    * `Air Slash` (High Crit Dark STAB)
-    * `Tri Attack` (Attack Scaling)
+    * `Air Slash` (60% Flinch chance; the core of the build.)
+    * `Tri Attack` (40% Status chance (Burn/Freeze/Paralyze).)
     * `Dazzling Gleam` / `Water Pulse` / `Ancient Power` / `Nasty Plot` / `Stored Power` / `Protect` / `Roost`
 
 ---
