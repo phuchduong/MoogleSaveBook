@@ -1,6 +1,7 @@
 # BDSP Baton Pass Team
 
 **Team Code:** `P11Wh2h7RxC15g13B74M1r9xQgC4pN6C9x93Ch7VfC9xWjCRy90C9x7gC7zscC9xhNC3wwzC9x5NChk9NCX12t93153ggVqGRC`
+
 **Marriland Link:** [View Team on Marriland](https://marriland.com/tools/team-builder/gen-8/P11Wh2h7RxC15g13B74M1r9xQgC4pN6C9x93Ch7VfC9xWjCRy90C9x7gC7zscC9xhNC3wwzC9x5NChk9NCX12t93153ggVqGRC/)
 
 ---
@@ -18,10 +19,10 @@ This team is built around a **Baton Pass chain**. The goal is to accumulate Evas
 * **Nature:** Timid (+Speed, -Attack)
 * **Item:** Sitrus Berry
 * **Moveset:**
+    * `Baton Pass`
     * `Minimize` (Maxes Evasion)
     * `Stockpile` (Boosts Def/SpDef)
     * `Strength Sap` (Healing + Attack Debuff)
-    * `Baton Pass`
 
 ### 2. [Vaporeon](https://pokemondb.net/pokedex/vaporeon/moves/8) (The Physical Wall)
 * **Role:** Defense & Passive Healing
@@ -29,10 +30,10 @@ This team is built around a **Baton Pass chain**. The goal is to accumulate Evas
 * **Nature:** Bold (+Defense, -Attack)
 * **Item:** Leftovers
 * **Moveset:**
+    * `Baton Pass`
     * `Acid Armor` (+2 Defense)
     * `Aqua Ring` (Transferable Healing)
     * `Scald` (STAB + Burn Chance)
-    * `Baton Pass`
 
 ### 3. [Espeon](https://pokemondb.net/pokedex/espeon/moves/8) (The Magic Shield)
 * **Role:** Anti-Status & Special Sweeper
@@ -40,10 +41,10 @@ This team is built around a **Baton Pass chain**. The goal is to accumulate Evas
 * **Nature:** Timid (+Speed, -Attack)
 * **Item:** Focus Sash
 * **Moveset:**
+    * `Baton Pass`
     * `Calm Mind` (+SpAtk/SpDef)
     * `Substitute` (Transferable Shield)
     * `Stored Power` (Massive Stat-based Damage)
-    * `Baton Pass`
 
 ### 4. [Umbreon](https://pokemondb.net/pokedex/umbreon/moves/8) (The Safety Pivot)
 * **Role:** Mixed Wall & Stall
@@ -51,10 +52,10 @@ This team is built around a **Baton Pass chain**. The goal is to accumulate Evas
 * **Nature:** Calm (+SpDef, -Attack)
 * **Item:** Mental Herb
 * **Moveset:**
+    * `Baton Pass`
     * `Toxic` (Status Chipping)
     * `Moonlight` (Reliable Recovery)
     * `Protect` (Scouting/Stall)
-    * `Baton Pass`
 
 ### 5. [Gliscor](https://pokemondb.net/pokedex/gliscor/moves/8) (The Hazard Setter)
 * **Role:** Physical Tank & Focus Sash Breaker
@@ -77,6 +78,17 @@ This team is built around a **Baton Pass chain**. The goal is to accumulate Evas
     * `Night Slash` (High Crit Dark STAB)
     * `Swords Dance` (Attack Scaling)
     * `False Swipe` / `Thief` / `Play Rough` / `Zen Headbutt` / `Megahorn` / `Stone Edge` / `X-Scissor` / `Shadow Claw` / `Iron Tail`
+
+### 7. [Togekiss](https://pokemondb.net/pokedex/togekiss/moves/8) (The Physical Finisher)
+* **Role:** Status Disruptor & Mixed Sweeper
+* **Ability:** Serene Grace
+* **Nature:** (+Speed, -Attack) — Crucial for outspeeding enemies to get the flinch.
+* **Item:** Leftovers or Kings Rock (for extra flinch chance)
+* **Moveset:**
+    * `Baton Pass`
+    * `Air Slash` (High Crit Dark STAB)
+    * `Tri Attack` (Attack Scaling)
+    * `Dazzling Gleam` / `Water Pulse` / `Ancient Power` / `Nasty Plot` / `Stored Power` / `Protect` / `Roost`
 
 ---
 
