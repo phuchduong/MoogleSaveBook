@@ -1,3 +1,8 @@
+---
+layout: default
+title: Mega Team
+---
+
 # Pokémon Let's Go: Mega / GO Team
 
 ---
