@@ -5,13 +5,13 @@ title: Mega GO Team
 
 # Pokémon Let's Go: Mega GO Team
 
-**Website:** ![https://phuchduong.github.io/MoogleSaveBook/pokemon-lets-go/](https://phuchduong.github.io/MoogleSaveBook/pokemon-lets-go/)
+**Website:** [https://phuchduong.github.io/MoogleSaveBook/pokemon-lets-go/](https://phuchduong.github.io/MoogleSaveBook/pokemon-lets-go/)
 
 ---
 
-![Mega Team Roster](./mega_team_roster.png)
-
 ## 🛡️ The Roster
+
+![Mega Team Roster](./mega_team_roster.png)
 
 ### 1. [Alolan Ninetales](https://pokemondb.net/pokedex/ninetales/moves/7) (The Special Specialist)
 * **Role:** Fast Special Attacker
@@ -109,35 +109,35 @@ title: Mega GO Team
 
 ## 🛡️ Elite Four & Champion Matchup Table
 
-![Elite Four & Champion Matchup](./elite_4_versus.png)
+![Elite Four & Champion Matchup 2](./elite_4_versus2.jpg)
 
 | Opponent & Pokémon | Best Counter | Super Effective Moves to Avoid | Best Offensive Move |
 | :--- | :--- | :--- | :--- |
-| **Lorelei (Ice/Water)** | | | |
+| **Lorelei, The Ice Breath (Ice/Water)** | | | |
 | Dewgong | **Melmetal** / **Pinsir** | None (Resists Ice) | `Thunder Punch` |
 | Jynx | **Melmetal** / **Blastoise** | None (Resists Ice/Psychic) | `Double Iron Bash` |
 | Cloyster | **Melmetal** / **Pinsir** | None (Resists Ice) | `Thunder Punch` |
 | Slowbro | **Blastoise** | None (Resist Water) | `Dark Pulse` |
 | Lapras | **Melmetal** / **Pinsir** | None (Resists Ice) | `Thunder Punch` |
-| **Bruno (Fighting/Rock)** | | | |
+| **Bruno, The Self-Proclaimed King (Fighting/Rock)** | | | |
 | Onix | **Pinsir** / **Blastoise** | None (Resists Ground) | `Superpower` |
 | Hitmonlee | **Alakazam** | None | `Psychic` |
 | Hitmonchan | **Alakazam** | None | `Psychic` |
 | Poliwrath | **Alolan Ninetales** / **Alakazam** | None | `Dazzling Gleam` / `Psychic` |
 | Machamp | **Alakazam** | None | `Psychic` |
-| **Agatha (Ghost/Poison)** | | | |
+| **Agatha, The Oldest Elite (Ghost/Poison)** | | | |
 | Arbok | **Melmetal** | None (Immune to Poison) | `Earthquake` |
 | Gengar (Lvl 53) | **Melmetal** | None (Immune to Poison) | `Earthquake` |
 | Golbat | **Melmetal** | None (Resists Flying) | `Thunder Punch` |
 | Weezing | **Melmetal** / **Alakazam** | None (Immune to Poison) | `Earthquake` |
 | Gengar (Lvl 54) | **Melmetal** | None (Immune to Poison) | `Earthquake` |
-| **Lance (Dragon)** | | | |
+| **Lance, The Dragon Master (Dragon)** | | | |
 | Seadra | **Melmetal** | None (Resists Dragon) | `Thunder Punch` |
 | Aerodactyl | **Blastoise** | None | `Scald` |
 | Gyarados | **Melmetal** | None | `Thunder Punch` (4x) |
 | Charizard | **Aerodactyl** / **Blastoise** | None | `Rock Slide` (4x) |
 | Dragonite | **Aerodactyl** | None (Resists Fire Punch) | `Rock Slide` |
-| **Rival (Champion)** | | | |
+| **Rival Blue, The World's Greatest (Champion)** | | | |
 | Mega Pidgeot | **Aerodactyl** | None (Resists Flying) | `Rock Slide` |
 | Vileplume | **Aerodactyl** | None (Resists Poison) | `Wing Attack` |
 | Marowak | **Blastoise** | None | `Scald` |
@@ -145,3 +145,4 @@ title: Mega GO Team
 | Slowbro | **Pinsir** | None | `X-Scissor` |
 | Raichu | **Melmetal** | None | `Earthquake` |
 
+![Elite Four & Champion Matchup](./elite_4_versus.png)
