@@ -19,6 +19,7 @@ title: Mega GO Team
     * `Dazzling Gleam` (Fairy STAB)
     * `Nasty Plot` (Boosts Special Attack to sweeping levels) / `Hypnosis` / `Calm Mind`
     * `Confuse Ray` / `Dark Pulse` / `Reflect` / `Dream Eater`
+
 ![Alolan Ninetales](./alolan_ninetales.jpg)
 
 ### 2. [Melmetal](https://pokemondb.net/pokedex/melmetal/moves/7) (The Iron Wall)
@@ -29,6 +30,8 @@ title: Mega GO Team
     * `Thunder Punch` (Hits Water types hard)
     * `Superpower` / `Brick Break`
     * `Earthquake` (Ground coverage) / `Thunder Wave`
+
+![Melmetal](./melmetal.png)
 
 ### 3. [Mega Aerodactyl](https://pokemondb.net/pokedex/aerodactyl/moves/7) (The Speed King & Mega Lead)
 * **Role:** Hazards & Fast Physical Attacker
