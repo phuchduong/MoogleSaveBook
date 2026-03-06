@@ -1,4 +1,9 @@
-# Pokémon Leaf Green: Legendary Power Team
+---
+layout: default
+title: Pokémon Leaf Green Team
+---
+
+# Pokémon Leaf Green Team
 
 **Marriland Link  & Code:** [P9G7CCcqdsCctjqCM1r5mCCCD400kC1xkpC3qddCD1mCCCD2brQCD2mCCCD](https://marriland.com/tools/team-builder/gen-3/P9G7CCcqdsCctjqCM1r5mCCCD400kC1xkpC3qddCD1mCCCD2brQCD2mCCCD/)
 

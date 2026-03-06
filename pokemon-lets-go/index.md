@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Mega GO Team
+title: Pokémon Let's Go Eevee Team
 ---
 
-# Pokémon Let's Go: Mega GO Team
+# Pokémon Let's Go Eevee Team
 
 **Website:** [https://phuchduong.github.io/MoogleSaveBook/pokemon-lets-go/](https://phuchduong.github.io/MoogleSaveBook/pokemon-lets-go/)
 
