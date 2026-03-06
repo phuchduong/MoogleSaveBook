@@ -14,3 +14,5 @@ This repository serves as a **central vault** for all my gaming data. Instead of
 
 ---
 *Safe travels, traveler!*
+
+* 📜 **Guides**: [Pokémon Let's Go: Mega Team](./Pokemon%20Let's%20Go%20Pikachu%20and%20Let's%20Go%20Eevee/Mega%20Team.md)
