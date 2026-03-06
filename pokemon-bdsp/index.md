@@ -11,6 +11,8 @@ This team is built around a **Baton Pass chain**. The goal is to accumulate Evas
 
 ---
 
+![BDSP Baton Pass Team](./baton_pass_roster.jpg)
+
 ## 🛡️ The Roster
 
 ### 1. [Drifblim](https://pokemondb.net/pokedex/drifblim/moves/8) (The Lead Engine)
