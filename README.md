@@ -15,4 +15,7 @@ This repository serves as a **central vault** for all my gaming data. Instead of
 ---
 *Safe travels, traveler!*
 
-* 📜 **Guides**: [Pokémon Let's Go: Mega Team](./Pokemon%20Let's%20Go%20Pikachu%20and%20Let's%20Go%20Eevee/Mega%20Team.md)
+### 📜 **Pokemon Team Rosters:** 
+* [Pokemon Leaf Green Roster](./pokemon-frlg/index.md)
+* [Pokemon Shining Pearl Roster](./pokemon-bdsp/index.md)
+* [Pokémon Let's Go Eevee Roster](./pokemon-lets-go/index.md)
