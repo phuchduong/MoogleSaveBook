@@ -16,6 +16,6 @@ This repository serves as a **central vault** for all my gaming data. Instead of
 *Safe travels, traveler!*
 
 ### 📜 **Pokemon Team Rosters:** 
-* [Pokemon Leaf Green Roster](./pokemon-frlg/index.md)
-* [Pokemon Shining Pearl Roster](./pokemon-bdsp/index.md)
-* [Pokémon Let's Go Eevee Roster](./pokemon-lets-go/index.md)
+* [Pokemon Leaf Green Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-frlg/)
+* [Pokemon Shining Pearl Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp/)
+* [Pokémon Let's Go Eevee Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-lets-go/)
