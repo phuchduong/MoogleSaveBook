@@ -2,6 +2,8 @@
 
 ---
 
+![Mega Team](./Mega%20Team.png)
+
 ## 🛡️ The Roster
 
 ### 1. [Alolan Ninetales](https://pokemondb.net/pokedex/ninetales/moves/7) (The Special Specialist)
@@ -22,7 +24,7 @@
     * `Superpower` / `Brick Break`
     * `Earthquake` (Ground coverage) / `Thunder Wave`
 
-### 3. [Aerodactyl](https://pokemondb.net/pokedex/aerodactyl/moves/7) (The Speed King & Mega Lead)
+### 3. [Mega Aerodactyl](https://pokemondb.net/pokedex/aerodactyl/moves/7) (The Speed King & Mega Lead)
 * **Role:** Hazards & Fast Physical Attacker
 * **Mega Evolution:** Primary Mega choice for the team.
 * **Nature:** Jolly (+Speed, -SpAtk)
@@ -32,7 +34,7 @@
     * `Wing Attack`
     * `Earthquake` (Coverage for Electric/Steel) / `Crunch` / `Roost`
 
-### 4. [Pinsir](https://pokemondb.net/pokedex/pinsir/moves/7) (The Backup Mega / Wallbreaker)
+### 4. [Mega Pinsir](https://pokemondb.net/pokedex/pinsir/moves/7) (The Backup Mega / Wallbreaker)
 * **Role:** Physical Sweeper
 * **Mega Evolution:** Secondary Mega choice (use if Aerodactyl isn't needed).
 * **Nature:** Jolly (+Speed, -SpAtk)
@@ -42,7 +44,7 @@
     * `Superpower` (Strong Fighting coverage) / `Brick Break`
     * `Stealth Rock` / `Focus Energy` / `Rock Slide`
 
-### 5. [Blastoise](https://pokemondb.net/pokedex/blastoise/moves/7) (The Defensive Pivot)
+### 5. [Mega Blastoise](https://pokemondb.net/pokedex/blastoise/moves/7) (The Defensive Pivot)
 * **Role:** Special Attacker & Fire/Ground Wall
 * **Mega Evolution:** Tertiary Mega choice; use if a bulky Water-type is needed for sustainability.
 * **Nature:** Modest (+Special Attack, -Attack)
@@ -52,7 +54,7 @@
     * `Flash Cannon`
     * `Brick Break` / `Waterfall` / `Dragon Pulse` / `Ice Beam` / `Earthquake`
 
-### 6. [Alakazam](https://pokemondb.net/pokedex/alakazam/moves/7) (The Special Sweeper)
+### 6. [Mega Alakazam](https://pokemondb.net/pokedex/alakazam/moves/7) (The Special Sweeper)
 * **Role:** Glass Cannon & Fighting-type Specialist
 * **Mega Evolution:** Strong alternative Mega choice; use specifically for Bruno's team.
 * **Nature:** Timid (+Speed, -Attack)
