@@ -5,6 +5,8 @@ title: Mega GO Team
 
 # Pokémon Let's Go: Mega GO Team
 
+**Website:** ![https://phuchduong.github.io/MoogleSaveBook/pokemon-lets-go/](https://phuchduong.github.io/MoogleSaveBook/pokemon-lets-go/)
+
 ---
 
 ![Mega Team Roster](./mega_team_roster.png)
@@ -43,6 +45,8 @@ title: Mega GO Team
     * `Wing Attack`
     * `Earthquake` (Coverage for Electric/Steel) / `Crunch` / `Roost`
 
+![Mega Aerodactyl](./mega_aerodactyl.png)
+
 ### 4. [Mega Pinsir](https://pokemondb.net/pokedex/pinsir/moves/7) (The Backup Mega / Wallbreaker)
 * **Role:** Physical Sweeper
 * **Mega Evolution:** Secondary Mega choice (use if Aerodactyl isn't needed).
@@ -52,6 +56,8 @@ title: Mega GO Team
     * `X-Scissor` (Primary Bug STAB)
     * `Superpower` (Strong Fighting coverage) / `Brick Break`
     * `Stealth Rock` / `Focus Energy` / `Rock Slide`
+
+![Mega Pinsir](./mega_pinsir.png)
 
 ### 5. [Mega Blastoise](https://pokemondb.net/pokedex/blastoise/moves/7) (The Defensive Pivot)
 * **Role:** Special Attacker & Fire/Ground Wall
@@ -63,6 +69,8 @@ title: Mega GO Team
     * `Flash Cannon`
     * `Brick Break` / `Waterfall` / `Dragon Pulse` / `Ice Beam` / `Earthquake`
 
+![Mega Blastoise](./mega_blastoise.png)
+
 ### 6. [Mega Alakazam](https://pokemondb.net/pokedex/alakazam/moves/7) (The Special Sweeper)
 * **Role:** Glass Cannon & Fighting-type Specialist
 * **Mega Evolution:** Strong alternative Mega choice; use specifically for Bruno's team.
@@ -72,6 +80,8 @@ title: Mega GO Team
     * `Recover` (Sustainability to keep it sweeping)
     * `Tri Attack` / `Shadow Ball`
     * `Dazzling Gleam` / `Barrier` / `Calm Mind` / `Reflect` / `Thunder Wave`
+
+![Mega Alakazam](./mega_alakazam.png)
 
 ---
 
@@ -98,6 +108,8 @@ title: Mega GO Team
 ---
 
 ## 🛡️ Elite Four & Champion Matchup Table
+
+![Elite Four & Champion Matchup](./elite_4_versus.png)
 
 | Opponent & Pokémon | Best Counter | Super Effective Moves to Avoid | Best Offensive Move |
 | :--- | :--- | :--- | :--- |
