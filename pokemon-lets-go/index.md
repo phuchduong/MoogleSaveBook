@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Mega Team
+title: Mega GO Team
 ---
 
-# Pokémon Let's Go: Mega / GO Team
+# Pokémon Let's Go: Mega GO Team
 
 ---
 
-![Mega Team](./Mega%20Team.png)
+![Mega Team Roster](./mega_team_roster.png)
 
 ## 🛡️ The Roster
 
@@ -19,6 +19,7 @@ title: Mega Team
     * `Dazzling Gleam` (Fairy STAB)
     * `Nasty Plot` (Boosts Special Attack to sweeping levels) / `Hypnosis` / `Calm Mind`
     * `Confuse Ray` / `Dark Pulse` / `Reflect` / `Dream Eater`
+![Alolan Ninetales](./alolan_ninetales.jpg)
 
 ### 2. [Melmetal](https://pokemondb.net/pokedex/melmetal/moves/7) (The Iron Wall)
 * **Role:** Physical Tank & Flinch Specialist
