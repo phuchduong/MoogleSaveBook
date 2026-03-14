@@ -5,6 +5,8 @@ title: Pokémon Leaf Green Team
 
 # Pokémon Leaf Green Team
 
+**Back to Main:** [https://phuchduong.github.io/MoogleSaveBook/](https://phuchduong.github.io/MoogleSaveBook/)
+
 **Website:** [https://phuchduong.github.io/MoogleSaveBook/pokemon-frlg/](https://phuchduong.github.io/MoogleSaveBook/pokemon-frlg/)
 
 **Marriland Link  & Code:** [P9G7CCcqdsCctjqCM1r5mCCCD400kC1xkpC3qddCD1mCCCD2brQCD2mCCCD](https://marriland.com/tools/team-builder/gen-3/P9G7CCcqdsCctjqCM1r5mCCCD400kC1xkpC3qddCD1mCCCD2brQCD2mCCCD/)
@@ -12,6 +14,8 @@ title: Pokémon Leaf Green Team
 ---
 
 ## 🛡️ The Roster
+
+![leafgreen_roster](./leafgreen_roster.PNG)
 
 ### 1. Venusaur (The Leech Seed Tank)
 * **Role:** Bulky Support & Hazard Control

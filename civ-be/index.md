@@ -1,9 +1,12 @@
-# 🚀 Steam Achievement Checklist: Civilization Beyond Earth
+# 🚀 Civilization Beyond Earth
 
+
+## Steam Achievement Checklist
 A tracking list for the remaining victories and milestones needed to 100% the game.
 
 **Back to Main:** [https://phuchduong.github.io/MoogleSaveBook/](https://phuchduong.github.io/MoogleSaveBook/)
-**URL:** [https://phuchduong.github.io/MoogleSaveBook/civ-be/](https://phuchduong.github.io/MoogleSaveBook/civ-be/)
+
+**Website:** [https://phuchduong.github.io/MoogleSaveBook/civ-be/](https://phuchduong.github.io/MoogleSaveBook/civ-be/)
 
 ## 🏆 General Victories
 

@@ -1,5 +1,7 @@
 # 📔 Moogle's Save Book
 
+**Website:** [https://phuchduong.github.io/MoogleSaveBook/](https://phuchduong.github.io/MoogleSaveBook/)
+
 > "Let me record your tale, kupo! Don't forget to write back to the other Moogles."
 
 This repository serves as a **central vault** for all my gaming data. Instead of hunting through local AppData folders, everything is backed up here for easy syncing and reference.
