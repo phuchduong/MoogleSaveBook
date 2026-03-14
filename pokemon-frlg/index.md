@@ -15,7 +15,7 @@ title: Pokémon Leaf Green Team
 
 ## 🛡️ The Roster
 
-![leafgreen_roster](./leafgreen_roster.PNG)
+![leafgreen_roster](./leafgreen_roster.png)
 
 ### 1. Venusaur (The Leech Seed Tank)
 * **Role:** Bulky Support & Hazard Control
