@@ -1,0 +1,190 @@
+{
+  "difficulty victory":
+  [
+    "gemini",
+    "soyuz",
+    "apollo"
+  ],
+  "map size victory":
+  [
+    "dwarf",
+    "small",
+  ],
+  "map type difficulty":
+  [
+    "EQUATORIAL",
+    "PROTEAN",
+    "TAIGAN"
+  ],
+  "sponsor victory":
+  {
+    "Al Falah":
+    {
+      "specialty":
+      [
+        "???"
+      ],
+      "sponsor": "Arshia Kishk",
+      "trait":
+      {
+        "level 1":
+        [
+          "Yield from City Developments increased by 150%"
+        ],
+        "level 2":
+        [
+          "Yield from City Developments increased by 175%"
+        ],
+        "level 3":
+        [
+          "Yield from City Developments increased by 200%"
+        ]
+      }
+    },
+    "Daoming Sochua":
+    {
+      "specialty":
+      [
+        "+10% Production Production towards Wonders",
+        "+25% Worker speed"
+      ],
+      "sponsor": "Pan-Asian Cooperative",
+      "trait":
+      {
+        "level 1":
+        [
+          "The first Wonder built in every City is free. +1 Diplomatic Capital from Wonders."
+        ],
+        "level 2":
+        [
+          "The first Wonder built in every City is free. +2 Diplomatic Capital from Wonders."
+        ],
+        "level 3":
+        [
+          "The first Wonder built in every City is free. +3 Diplomatic Capital from Wonders."
+        ]
+      }
+    },
+    "Elodie":
+    {
+      "specialty":
+      [
+        "Gain a free Virtue for every 10 Virtues earned normally through Culture Culture"
+      ],
+      "sponsor": "People's African Union (PAU)",
+      "trait":
+      {
+        "level 1":
+        [
+          "Gain 1 free Virtue for every 10 Virtues earned with Culture"
+        ],
+        "level 2":
+        [
+          "Gain 1 free Virtue for every  9 Virtues earned with Culture"
+        ],
+        "level 3":
+        [
+          "Gain 1 free Virtue for every  8 Virtues earned with Culture"
+        ]
+      }
+    },
+    "INTEGR":
+    {
+      "specialty":
+      [
+        "???"
+      ],
+      "sponsor": "Lena Ebner",
+      "trait":
+      {
+        "level 1":
+        [
+          "Agreements cost 50% less Diplomatic Capital",
+          "Purchasing Units and buildings cost 25% less Diplomatic Capital"
+        ],
+        "level 2":
+        [
+          "Agreements cost 60% less Diplomatic Capital",
+          "Purchasing Units and buildings cost 50% less Diplomatic Capital"
+        ],
+        "level 3":
+        [
+          "Agreements cost 75% less Diplomatic Capital",
+          "Purchasing Units and buildings cost 75% less Diplomatic Capital"
+        ]
+      }
+    },
+    "Kavitha Thakur":
+    {
+      "specialty":
+      [
+        "Cities and Outposts acquire new tiles twice as fast"
+      ],
+      "sponsor": "Kavithan Protectorate (KP)",
+      "trait":
+      {
+        "level 1":
+        [
+          "Culture and Energy costs to acquire new City plots are reduced by 30%."
+        ],
+        "level 2":
+        [
+          "Culture and Energy costs to acquire new City plots are reduced by 40%."
+        ],
+        "level 3":
+        [
+          "Culture and Energy costs to acquire new City plots are reduced by 50%."
+        ]
+      }
+    },
+    "Samatar Jama Barre":
+    {
+      "specialty":
+      [
+        "+10% Food Food in growing cities when Health Healthy",
+        "All cities start with an Old Earth Relic"
+      ],
+      "sponsor": "People's African Union (PAU)",
+      "trait":
+      {
+        "level 1":
+        [
+          "+10 Food Growth in Cities when Healthy. All Population Specialist Citizens produce 1 extra yield"
+        ],
+        "level 2":
+        [
+          "+15 Food Growth in Cities when Healthy. All Population Specialist Citizens produce 1 extra yield"
+        ],
+        "level 3":
+        [
+          "+25 Food Growth in Cities when Healthy. All Population Specialist Citizens produce 2 extra yield"
+        ]
+      }
+    },
+    "Vadim Koslov":
+    {
+      "specialty":
+      [
+        "Orbital units stay in orbit 50% longer",
+        "+50% Petroleum Petroleum resources"
+      ],
+      "sponsor": "Slavic Federation",
+      "trait":
+      {
+        "level 1":
+        [
+          "All Orbital Units Strategic Resource requirements reduced by 1.",
+          "Start with 4 Petroleum, Titanium, and Geothermal resources."
+        ],
+        "level 2":
+        [
+          "Gain 2 Petroleum, Titanium, and Geothermal resources."
+        ],
+        "level 3":
+        [
+          "All Orbital Units Strategic Resource requirements reduced by 2."
+        ]
+      }
+    }
+  }
+}

@@ -15,6 +15,9 @@ This repository serves as a **central vault** for all my gaming data. Instead of
 ---
 *Safe travels, traveler!*
 
+## 📜 **Civilization Beyond Earth:**
+* [Beyond Earth Achievements Checklist](https://phuchduong.github.io/MoogleSaveBook/civ-be/)
+
 ## 📜 **Pokemon Team Rosters:** 
 * [Pokemon Leaf Green Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-frlg/)
 * [Pokemon Shining Pearl Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp/)
