@@ -2,9 +2,9 @@
 
 **Back to Main:** [https://phuchduong.github.io/MoogleSaveBook/](https://phuchduong.github.io/MoogleSaveBook/)
 
-**Website:** [https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp/](https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp/)
+**Website:** [https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp-baton/](https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp-baton/)
 
-**Team Code:** `P11Wh2h7RxC15g13B74M1r9xQgC4pN6C9x93Ch7VfC9xWjCRy90C9x7gC7zscC9xhNC3wwzC9x5NChk9NCX12t93153ggVqGRC`
+**Marriland Team Code:** `P11Wh2h7RxC15g13B74M1r9xQgC4pN6C9x93Ch7VfC9xWjCRy90C9x7gC7zscC9xhNC3wwzC9x5NChk9NCX12t93153ggVqGRC`
 
 **Marriland Link:** [View Team on Marriland](https://marriland.com/tools/team-builder/gen-8/P11Wh2h7RxC15g13B74M1r9xQgC4pN6C9x93Ch7VfC9xWjCRy90C9x7gC7zscC9xhNC3wwzC9x5NChk9NCX12t93153ggVqGRC/)
 
