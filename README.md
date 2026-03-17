@@ -1,6 +1,7 @@
 # 📔 Moogle's Save Book
 
-**Website:** [https://phuchduong.github.io/MoogleSaveBook/](https://phuchduong.github.io/MoogleSaveBook/)
+* **Website:** [https://phuchduong.github.io/MoogleSaveBook/](https://phuchduong.github.io/MoogleSaveBook/)
+* **Source Code:** [https://github.com/phuchduong/MoogleSaveBook](https://github.com/phuchduong/MoogleSaveBook)
 
 > "Let me record your tale, kupo! Don't forget to write back to the other Moogles."
 
@@ -25,3 +26,8 @@ This repository serves as a **central vault** for all my gaming data. Instead of
 * [Pokemon Shining Pearl Baton Pass Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp-baton/)
 * [Pokemon Shining Pearl Starter Trio Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp-starter-trio/)
 * [Pokémon Let's Go Eevee Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-lets-go/)
+
+## 👤 Author
+**Phuc H Duong**
+* **GitHub:** [@phuchduong](https://github.com/phuchduong)
+* **LinkedIn:** [in/phuchduong](https://www.linkedin.com/in/phuchduong/)

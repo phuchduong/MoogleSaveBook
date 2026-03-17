@@ -130,3 +130,9 @@ title: Pokémon Leaf Green Team
 | Exeggutor | **Moltres** | `Flamethrower` | None |
 | Gyarados | **Zapdos** | `Thunderbolt` | None |
 | Charizard | **Zapdos** | `Thunderbolt` | None |
+
+## 👤 Author
+**Phuc H Duong**
+* **GitHub:** [@phuchduong](https://github.com/phuchduong)
+* **LinkedIn:** [in/phuchduong](https://www.linkedin.com/in/phuchduong/)
+

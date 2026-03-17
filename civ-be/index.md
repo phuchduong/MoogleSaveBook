@@ -85,3 +85,8 @@ Below are the specific sponsors and their traits required for completion.
     * Level 1: Orbital resource costs -1; start with 4 Petroleum/Titanium/Geothermal.
     * Level 2: Gain 2 Petroleum, Titanium, and Geothermal.
     * Level 3: Orbital resource costs -2.
+
+## 👤 Author
+**Phuc H Duong**
+* **GitHub:** [@phuchduong](https://github.com/phuchduong)
+* **LinkedIn:** [in/phuchduong](https://www.linkedin.com/in/phuchduong/)

@@ -140,3 +140,8 @@ This team is built around a Sinnoh Starter Core, utilizing the combined bulk and
     * `Zen Headbutt` (Secondary STAB)
     * `Stealth Rock` (Hazard Support)
     * `Magnet Rise` / `Iron Defense` / `Agility` / `Light Screen` / `Earthquake` / `Protect` / `Substitute` / `Brick Break` / `Reflect`
+
+## 👤 Author
+**Phuc H Duong**
+* **GitHub:** [@phuchduong](https://github.com/phuchduong)
+* **LinkedIn:** [in/phuchduong](https://www.linkedin.com/in/phuchduong/)

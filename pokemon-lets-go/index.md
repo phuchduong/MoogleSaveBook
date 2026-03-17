@@ -436,3 +436,9 @@ title: Pokémon Let's Go Eevee Team
     * `Earthquake` (Ground coverage)
     * `Fire Punch` (Steel type coverage)
     * `Roost` or `Agility` (Healing or speed setup)
+
+## 👤 Author
+**Phuc H Duong**
+* **GitHub:** [@phuchduong](https://github.com/phuchduong)
+* **LinkedIn:** [in/phuchduong](https://www.linkedin.com/in/phuchduong/)
+
