@@ -26,6 +26,7 @@ This repository serves as a **central vault** for all my gaming data. Instead of
 * [Pokemon Shining Pearl Baton Pass Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp-baton/)
 * [Pokemon Shining Pearl Starter Trio Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp-starter-trio/)
 * [Pokémon Let's Go Eevee Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-lets-go/)
+* [Pokémon Scarlett Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-sv/)
 
 ## 👤 Author
 **Phuc H Duong**
