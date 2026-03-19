@@ -26,6 +26,8 @@ title: Pokémon Scarlett Roster
 #### [Gallade](https://pokemondb.net/pokedex/gallade/moves/9) (The Capture Specialist)
 * **Type:** 🔮 Psychic 🔮 / 🥊 Fighting 🥊
 * **Tera Type:** 🌿 Grass 🌿
+* **Weak To:** 🕊️ Flying, 👻 Ghost, ✨ Fairy
+* **Tera Useful Against:** 💧 Water, ⛰️ Ground, 💎 Rock
 * **Role:** Wild Catching / Utility
 * **Nature:** Jolly (+Speed, -Sp. Atk)
 * **Ability:** Justified (Boosts Attack when hit by a Dark-type move)
@@ -39,6 +41,8 @@ title: Pokémon Scarlett Roster
 #### [Hisuian Zoroark (Event)](https://pokemondb.net/pokedex/zoroark/moves/9) (Money Farmer)
 * **Type:** ⚪ Normal ⚪ / 👻 Ghost 👻
 * **Tera Type:** 🌙 Dark 🌙
+* **Weak To:** 🌙 Dark
+* **Tera Useful Against:** 🔮 Psychic, 👻 Ghost
 * **Role:** Money Farming / Special Support
 * **Nature:** Modest (+Sp. Atk, -Attack)
 * **Ability:** Illusion (Enters battle disguised as the last Pokemon in the party)
@@ -66,6 +70,8 @@ title: Pokémon Scarlett Roster
 #### [Armarouge](https://pokemondb.net/pokedex/armarouge/moves/9) (The Mystical Shield)
 * **Type:** 🔥 Fire 🔥 / 🔮 Psychic 🔮
 * **Tera Type:** 🔥 Fire 🔥
+* **Weak To:** 💧 Water, ⛰️ Ground, 💎 Rock, 👻 Ghost, 🌙 Dark
+* **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel
 * **Role:** STAB Fire Debuffer / Special Support
 * **Nature:** Modest (+Sp. Atk, -Attack)
 * **Ability:** Flash Fire
@@ -84,6 +90,8 @@ title: Pokémon Scarlett Roster
 #### [Gastrodon](https://pokemondb.net/pokedex/gastrodon/moves/9) (The Storm Tank)
 * **Type:** 💧 Water 💧 / ⛰️ Ground ⛰️
 * **Tera Type:** 💧 Water 💧
+* **Weak To:** 🌿 Grass (4x)
+* **Tera Useful Against:** 🔥 Fire, ⛰️ Ground, 💎 Rock
 * **Role:** Support / Physical Debuffer / Stat Reset
 * **Nature:** Bold (+Defense, -Attack)
 * **Ability:** Storm Drain (Draws in all Water-type moves and boosts Special Attack)
@@ -97,6 +105,8 @@ title: Pokémon Scarlett Roster
 #### [Slowbro](https://pokemondb.net/pokedex/slowbro/moves/9) (The Iron Bulwark)
 * **Type:** 💧 Water 💧 / 🔮 Psychic 🔮
 * **Tera Type:** 💧 Water 💧
+* **Weak To:** 🌿 Grass, ⚡ Electric, 🐛 Bug, 👻 Ghost, 🌙 Dark
+* **Tera Useful Against:** 🔥 Fire, ⛰️ Ground, 💎 Rock
 * **Role:** Physical Tank / Rain Setter
 * **Nature:** Modest (+Sp. Atk, -Attack)
 * **Ability:** Own Tempo (Prevents confusion)
@@ -112,6 +122,8 @@ title: Pokémon Scarlett Roster
 #### [Bellibolt](https://pokemondb.net/pokedex/bellibolt/moves/9) (The Static Engine)
 * **Type:** ⚡ Electric ⚡
 * **Tera Type:** ⚡ Electric ⚡
+* **Weak To:** ⛰️ Ground
+* **Tera Useful Against:** 💧 Water, 🕊️ Flying
 * **Role:** STAB Sustain Electric / Debuffer
 * **Nature:** Modest (+Sp. Atk, -Attack)
 * **Ability:** Electromorphosis (Boosts Electric moves when hit by an attack)
@@ -133,6 +145,8 @@ title: Pokémon Scarlett Roster
 ####  [Tsareena](https://pokemondb.net/pokedex/tsareena/moves/9) (The Trop Queen)
 * **Type:** 🌿 Grass 🌿
 * **Tera Type:** 🌿 Grass 🌿
+* **Weak To:** 🔥 Fire, ❄️ Ice, ☠️ Poison, 🕊️ Flying, 🐛 Bug
+* **Tera Useful Against:** 💧 Water, ⛰️ Ground, 💎 Rock
 * **Role:** STAB Grass Debuffer / Sleep Defense
 * **Nature:** Adamant (+Attack, -Sp. Atk)
 * **Ability:** Sweet Veil (Prevents self and allies from falling asleep)
@@ -160,6 +174,8 @@ title: Pokémon Scarlett Roster
 #### [Toxapex](https://pokemondb.net/pokedex/toxapex/moves/9) (The Unkillable Bunker)
 * **Type:** ☠️ Poison ☠️ / 💧 Water 💧
 * **Tera Type:** ☠️ Poison ☠️
+* **Weak To:** ⚡ Electric, ⛰️ Ground, 🔮 Psychic
+* **Tera Useful Against:** 🌿 Grass, ✨ Fairy
 * **Role:** STAB Attacker Poison / Defensive Wall / Sp. Def Debuffer
 * **Nature:** Bold (+Defense, -Attack)
 * **Ability:** Limber (Prevents paralysis)
@@ -184,6 +200,8 @@ title: Pokémon Scarlett Roster
 #### [Walking Wake](https://pokemondb.net/pokedex/walking-wake/moves/9) (Hurricane Rain Dancer)
 * **Type:** 💧 Water 💧 / 🐲 Dragon 🐲
 * **Tera Type:** 🌪️ Flying 🌪️
+* **Weak To:** 🐲 Dragon, ✨ Fairy
+* **Tera Useful Against:** 🌿 Grass, 🥊 Fighting, 🐛 Bug
 * **Role:** Special Attacker / Rain Support
 * **Nature:** Modest (+Sp. Atk, -Attack)
 * **Ability:** Protosynthesis (Boosts highest stat in Sun or with Booster Energy)
@@ -211,6 +229,8 @@ title: Pokémon Scarlett Roster
 #### [Slither Wing](https://pokemondb.net/pokedex/slither-wing/moves/9) (The Sunny Striker)
 * **Type:** 🐛 Bug 🐛 / 🥊 Fighting 🥊
 * **Tera Type:** 🐛 Bug 🐛
+* **Weak To:** 🕊️ Flying (4x), 🔥 Fire, 🔮 Psychic, ✨ Fairy
+* **Tera Useful Against:** 🌿 Grass, 🔮 Psychic, 🌙 Dark
 * **Role:** STAB Bug Debuffer / Sun Setter
 * **Nature:** Adamant (+Attack, -Sp. Atk)
 * **Ability:** Protosynthesis
@@ -235,6 +255,8 @@ title: Pokémon Scarlett Roster
 #### [Hisuian Zoroark](https://pokemondb.net/pokedex/zoroark/moves/9) (The Illusion Sweeper)
 * **Type:** ⚪ Normal ⚪ / 👻 Ghost 👻
 * **Tera Type:** 👻 Ghost 👻
+* **Weak To:** 🌙 Dark
+* **Tera Useful Against:** 🔮 Psychic, 👻 Ghost
 * **Role:** STAB Debuffer Ghost
 * **Nature:** Lonely (+Attack, -Defense)
 * **Ability:** Illusion (Enters battle disguised as the last Pokemon in the party)
@@ -253,6 +275,8 @@ title: Pokémon Scarlett Roster
 #### [Haxorus](https://pokemondb.net/pokedex/haxorus/moves/9) (The Shield Breaker)
 * **Type:** 🐲 Dragon 🐲
 * **Tera Type:** 🐲 Dragon 🐲
+* **Weak To:** ❄️ Ice, 🐲 Dragon, ✨ Fairy
+* **Tera Useful Against:** 🐲 Dragon
 * **Role:** STAB Debuffer Dragon / Screen Breaker
 * **Nature:** Adamant (+Attack, -Sp. Atk)
 * **Ability:** Mold Breaker (Moves can be used regardless of Abilities)
@@ -271,6 +295,8 @@ title: Pokémon Scarlett Roster
 #### [Hydreigon](https://pokemondb.net/pokedex/hydreigon/moves/9) (The Dark Dragon)
 * **Type:** 🌙 Dark 🌙 / 🐲 Dragon 🐲
 * **Tera Type:** 🌙 Dark 🌙
+* **Weak To:** ✨ Fairy (4x), 🥊 Fighting, 🐛 Bug, ❄️ Ice, 🐲 Dragon
+* **Tera Useful Against:** 🔮 Psychic, 👻 Ghost
 * **Role:** STAB Dark Debuffer / Special Support
 * **Nature:** Modest (+Sp. Atk, -Attack)
 * **Ability:** Levitate
@@ -284,6 +310,8 @@ title: Pokémon Scarlett Roster
 #### [Iron Jugulis](https://pokemondb.net/pokedex/iron-jugulis/moves/9) (The Snarl Striker)
 * **Type:** 🌙 Dark 🌙 / 🌪️ Flying 🌪️
 * **Tera Type:** 🌙 Dark 🌙
+* **Weak To:** ⚡ Electric, ❄️ Ice, 💎 Rock, ✨ Fairy
+* **Tera Useful Against:** 🔮 Psychic, 👻 Ghost
 * **Role:** STAB Dark Debuffer / Special Support
 * **Nature:** Modest (+Sp. Atk, -Attack)
 * **Ability:** Quark Drive
