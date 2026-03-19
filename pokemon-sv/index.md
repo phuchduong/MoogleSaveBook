@@ -62,7 +62,19 @@ title: Pokémon Scarlett Roster
 -
 
 ### 🔥📉 STAB Debuffer Fire 🔥
--
+
+#### [Armarouge](https://pokemondb.net/pokedex/armarouge/moves/9) (The Mystical Shield)
+* **Type:** 🔥 Fire 🔥 / 🔮 Psychic 🔮
+* **Tera Type:** 🔥 Fire 🔥
+* **Role:** STAB Fire Debuffer / Special Support
+* **Nature:** Modest (+Sp. Atk, -Attack)
+* **Ability:** Flash Fire
+* **Held Item:** Shell Bell
+* **Moveset:**
+    * `Mystical Fire` (Guaranteed Sp. Atk Drop)
+    * `Clear Smog` (Resets Stats)
+    * `Reflect` (Physical Shield)
+    * `Taunt` (Anti-Status)
 
 ### 💧⚔️ STAB Attacker Water 💧
 -
@@ -195,7 +207,19 @@ title: Pokémon Scarlett Roster
 -
 
 ### 🐛📉 STAB Debuffer Bug 🐛
--
+
+#### [Slither Wing](https://pokemondb.net/pokedex/slither-wing/moves/9) (The Sunny Striker)
+* **Type:** 🐛 Bug 🐛 / 🥊 Fighting 🥊
+* **Tera Type:** 🐛 Bug 🐛
+* **Role:** STAB Bug Debuffer / Sun Setter
+* **Nature:** Adamant (+Attack, -Sp. Atk)
+* **Ability:** Protosynthesis
+* **Held Item:** Shell Bell
+* **Moveset:**
+    * `Leech Life` (Sustain STAB)
+    * `Bulk Up` (Setup)
+    * `Lunge` (Attack Drop Debuff)
+    * `Sunny Day` (Ability Trigger)
 
 ### 💎⚔️ STAB Attacker Rock 💎
 -
@@ -243,7 +267,32 @@ title: Pokémon Scarlett Roster
 -
 
 ### 🌙📉 STAB Debuffer Dark 🌙
--
+
+#### [Hydreigon](https://pokemondb.net/pokedex/hydreigon/moves/9) (The Dark Dragon)
+* **Type:** 🌙 Dark 🌙 / 🐲 Dragon 🐲
+* **Tera Type:** 🌙 Dark 🌙
+* **Role:** STAB Dark Debuffer / Special Support
+* **Nature:** Modest (+Sp. Atk, -Attack)
+* **Ability:** Levitate
+* **Held Item:** Shell Bell
+* **Moveset:**
+    * `Snarl` (Sp. Atk Drop Debuff)
+    * `Nasty Plot` (Setup)
+    * `Reflect` (Physical Shield)
+    * `Tri Attack` (Coverage)
+
+#### [Iron Jugulis](https://pokemondb.net/pokedex/iron-jugulis/moves/9) (The Snarl Striker)
+* **Type:** 🌙 Dark 🌙 / 🌪️ Flying 🌪️
+* **Tera Type:** 🌙 Dark 🌙
+* **Role:** STAB Dark Debuffer / Special Support
+* **Nature:** Modest (+Sp. Atk, -Attack)
+* **Ability:** Quark Drive
+* **Held Item:** Shell Bell
+* **Moveset:**
+    * `Snarl` (Sp. Atk Drop Debuff)
+    * `Tri Attack` (Coverage)
+    * `Dark Pulse` (STAB)
+    * `Electric Terrain` (Ability Trigger)
 
 ### ⚙️⚔️ STAB Attacker Steel ⚙️
 -
