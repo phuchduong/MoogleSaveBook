@@ -10,10 +10,9 @@ title: Pokémon Scarlett Roster
 **Website:** [https://phuchduong.github.io/MoogleSaveBook/pokemon-sv/](https://phuchduong.github.io/MoogleSaveBook/pokemon-sv/)
 
 **Terra Raid Quicklinks:**
-| | | | | | | | | |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Normal](#%EF%B8%8F-stab-attacker-normal-) | [Fire](#%EF%B8%8F-stab-attacker-fire-) | [Water](#%EF%B8%8F-stab-attacker-water-) | [Electric](#%EF%B8%8F-stab-attacker-electric-) | [Grass](#%EF%B8%8F-stab-attacker-grass-) | [Ice](#%EF%B8%8F%EF%B8%8F-stab-attacker-ice-%EF%B8%8F) | [Fighting](#%EF%B8%8F-stab-attacker-fighting-) | [Poison](#%EF%B8%8F%EF%B8%8F-stab-attacker-poison-%EF%B8%8F) | [Ground](#%EF%B8%8F%EF%B8%8F-stab-attacker-ground-%EF%B8%8F) |
-| [Flying](#%EF%B8%8F%EF%B8%8F-stab-attacker-flying-%EF%B8%8F) | [Psychic](#%EF%B8%8F-stab-attacker-psychic-) | [Bug](#%EF%B8%8F-stab-attacker-bug-) | [Rock](#%EF%B8%8F-stab-attacker-rock-) | [Ghost](#%EF%B8%8F-stab-attacker-ghost-) | [Dragon](#%EF%B8%8F-stab-attacker-dragon-) | [Dark](#%EF%B8%8F-stab-attacker-dark-) | [Steel](#%EF%B8%8F%EF%B8%8F-stab-attacker-steel-%EF%B8%8F) | [Fairy](#%EF%B8%8F-stab-attacker-fairy-) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| [**Flying**](#%EF%B8%8F%EF%B8%8F-stab-attacker-flying-%EF%B8%8F) | [**Psychic**](#%EF%B8%8F-stab-attacker-psychic-) | [**Bug**](#%EF%B8%8F-stab-attacker-bug-) | [**Rock**](#%EF%B8%8F-stab-attacker-rock-) | [**Ghost**](#%EF%B8%8F-stab-attacker-ghost-) | [**Dragon**](#%EF%B8%8F-stab-attacker-dragon-) | [**Dark**](#%EF%B8%8F-stab-attacker-dark-) | [**Steel**](#%EF%B8%8F%EF%B8%8F-stab-attacker-steel-%EF%B8%8F) | [**Fairy**](#%EF%B8%8F-stab-attacker-fairy-) |
 
 ---
 
