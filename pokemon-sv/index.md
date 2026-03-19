@@ -15,8 +15,22 @@ title: Pokémon Scarlett Roster
 
 <!-- ![Scarlett Roster](./pokemon-sv.png) -->
 
+
+#### [Gallade](https://pokemondb.net/pokedex/gallade/moves/9) (The Capture Specialist)
+* **Type:** 🔮 Psychic 🔮 / 🥊 Fighting 🥊
+* **Tera Type:** 🌿 Grass 🌿
+* **Role:** Wild Catching / Utility
+* **Nature:** Jolly (+Speed, -Sp. Atk)
+* **Ability:** Justified (Boosts Attack when hit by a Dark-type move)
+* **Held Item:** None
+* **Moveset:**
+    * `False Swipe` (Leaves 1 HP)
+    * `Hypnosis` (Inflicts Sleep)
+    * `Mean Look` (Prevents Escape)
+    * `Double Team` (Evasion Buff)
+
 #### [Hisuian Zoroark (Event)](https://pokemondb.net/pokedex/zoroark/moves/9) (Money Farmer)
-* **Type:** Normal / Ghost
+* **Type:** ⚪ Normal ⚪ / 👻 Ghost 👻
 * **Tera Type:** 🌙 Dark 🌙
 * **Role:** Money Farming / Special Support
 * **Nature:** Modest (+Sp. Atk, -Attack)
@@ -29,43 +43,28 @@ title: Pokémon Scarlett Roster
     * `Burning Jealousy` (Fire Coverage)
 
 
-#### [Gallade](https://pokemondb.net/pokedex/gallade/moves/9) (The Capture Specialist)
-* **Type:** Psychic / Fighting
-* **Tera Type:** 🌿 Grass 🌿
-* **Role:** Wild Catching / Utility
-* **Nature:** Jolly (+Speed, -Sp. Atk)
-* **Ability:** Justified (Boosts Attack when hit by a Dark-type move)
-* **Held Item:** None
-* **Moveset:**
-    * `False Swipe` (Leaves 1 HP)
-    * `Hypnosis` (Inflicts Sleep)
-    * `Mean Look` (Prevents Escape)
-    * `Double Team` (Evasion Buff)
-
-
 ## 💎 Terra Raid Roster
 -
 
-### ⚪⚔️ STAB Attacker Normal
+### ⚪⚔️ STAB Attacker Normal ⚪
 -
 
-### ⚪📉 STAB Debuffer Normal
+### ⚪📉 STAB Debuffer Normal ⚪
 -
 
-### 🔥⚔️ STAB Attacker Fire
+### 🔥⚔️ STAB Attacker Fire 🔥
 -
 
-### 🔥📉 STAB Debuffer Fire
+### 🔥📉 STAB Debuffer Fire 🔥
 -
 
-### 💧⚔️ STAB Attacker Water
+### 💧⚔️ STAB Attacker Water 💧
 -
 
-### 💧📉 STAB Debuffer Water
--
+### 💧📉 STAB Debuffer Water 💧
 
 #### [Gastrodon](https://pokemondb.net/pokedex/gastrodon/moves/9) (The Storm Tank)
-* **Type:** 💧 Water 💧 / Ground
+* **Type:** 💧 Water 💧 / ⛰️ Ground ⛰️
 * **Tera Type:** 💧 Water 💧
 * **Role:** Support / Physical Debuffer / Stat Reset
 * **Nature:** Bold (+Defense, -Attack)
@@ -78,7 +77,7 @@ title: Pokémon Scarlett Roster
     * `Clear Smog` (Clearing Stat Boosts)
 
 #### [Slowbro](https://pokemondb.net/pokedex/slowbro/moves/9) (The Iron Bulwark)
-* **Type:** 💧 Water 💧 / Psychic
+* **Type:** 💧 Water 💧 / 🔮 Psychic 🔮
 * **Tera Type:** 💧 Water 💧
 * **Role:** Physical Tank / Rain Setter
 * **Nature:** Modest (+Sp. Atk, -Attack)
@@ -90,7 +89,7 @@ title: Pokémon Scarlett Roster
     * `Rain Dance` (Weather Control)
     * `Slack Off` (Reliable Recovery)
 
-### ⚡⚔️ STAB Attacker Electric
+### ⚡⚔️ STAB Attacker Electric ⚡
 
 #### [Bellibolt](https://pokemondb.net/pokedex/bellibolt/moves/9) (The Static Engine)
 * **Type:** ⚡ Electric ⚡
@@ -105,14 +104,13 @@ title: Pokémon Scarlett Roster
     * `Acid Spray` (Preps Sp. Def Drops)
     * `Slack Off` (Reliable Recovery)
 
-### ⚡📉 STAB Debuffer Electric
+### ⚡📉 STAB Debuffer Electric ⚡
 -
 
-### 🌿⚔️ STAB Attacker Grass
+### 🌿⚔️ STAB Attacker Grass 🌿
 -
 
-### 🌿📉 STAB Debuffer Grass
--
+### 🌿📉 STAB Debuffer Grass 🌿
 
 ####  [Tsareena](https://pokemondb.net/pokedex/tsareena/moves/9) (The Trop Queen)
 * **Type:** 🌿 Grass 🌿
@@ -127,22 +125,22 @@ title: Pokémon Scarlett Roster
     * `Taunt` (Utility)
     * `Synthesis` (Nature-based Healing)
 
-### ❄️⚔️ STAB Attacker Ice
+### ❄️⚔️ STAB Attacker Ice ❄️
 -
 
-### ❄️📉 STAB Debuffer Ice
+### ❄️📉 STAB Debuffer Ice ❄️
 -
 
-### 🥊⚔️ STAB Attacker Fighting
+### 🥊⚔️ STAB Attacker Fighting 🥊
 -
 
-### 🥊📉 STAB Debuffer Fighting
+### 🥊📉 STAB Debuffer Fighting 🥊
 -
 
-### ☠️⚔️ STAB Attacker Poison
+### ☠️⚔️ STAB Attacker Poison ☠️
 
 #### [Toxapex](https://pokemondb.net/pokedex/toxapex/moves/9) (The Unkillable Bunker)
-* **Type:** ☠️ Poison ☠️ / Water
+* **Type:** ☠️ Poison ☠️ / 💧 Water 💧
 * **Tera Type:** ☠️ Poison ☠️
 * **Role:** STAB Attacker Poison / Defensive Wall / Sp. Def Debuffer
 * **Nature:** Bold (+Defense, -Attack)
@@ -154,19 +152,19 @@ title: Pokémon Scarlett Roster
     * `Sludge Bomb` (Poison Chance STAB)
     * `Recover` (Standard Recovery)
 
-### ☠️📉 STAB Debuffer Poison
+### ☠️📉 STAB Debuffer Poison ☠️
 -
 
-### ⛰️⚔️ STAB Attacker Ground
+### ⛰️⚔️ STAB Attacker Ground ⛰️
 -
 
-### ⛰️📉 STAB Debuffer Ground
+### ⛰️📉 STAB Debuffer Ground ⛰️
 -
 
-### 🌪️⚔️ STAB Attacker Flying
+### 🌪️⚔️ STAB Attacker Flying 🌪️
 
 #### [Walking Wake](https://pokemondb.net/pokedex/walking-wake/moves/9) (Hurricane Rain Dancer)
-* **Type:** 💧 Water 💧 / Dragon
+* **Type:** 💧 Water 💧 / 🐲 Dragon 🐲
 * **Tera Type:** 🌪️ Flying 🌪️
 * **Role:** Special Attacker / Rain Support
 * **Nature:** Modest (+Sp. Atk, -Attack)
@@ -178,34 +176,34 @@ title: Pokémon Scarlett Roster
     * `Chilling Water` (Attack Debuffer)
     * `Hydro Steam` (Sun/Rain Scalable STAB)
 
-### 🌪️📉 STAB Debuffer Flying
+### 🌪️📉 STAB Debuffer Flying 🌪️
 -
 
-### 🔮⚔️ STAB Attacker Psychic
+### 🔮⚔️ STAB Attacker Psychic 🔮
 -
 
-### 🔮📉 STAB Debuffer Psychic
+### 🔮📉 STAB Debuffer Psychic 🔮
 -
 
-### 🐛⚔️ STAB Attacker Bug
+### 🐛⚔️ STAB Attacker Bug 🐛
 -
 
-### 🐛📉 STAB Debuffer Bug
+### 🐛📉 STAB Debuffer Bug 🐛
 -
 
-### 💎⚔️ STAB Attacker Rock
+### 💎⚔️ STAB Attacker Rock 💎
 -
 
-### 💎📉 STAB Debuffer Rock
+### 💎📉 STAB Debuffer Rock 💎
 -
 
-### 👻⚔️ STAB Attacker Ghost
+### 👻⚔️ STAB Attacker Ghost 👻
 -
 
-### 👻📉 STAB Debuffer Ghost
+### 👻📉 STAB Debuffer Ghost 👻
 
 #### [Hisuian Zoroark](https://pokemondb.net/pokedex/zoroark/moves/9) (The Illusion Sweeper)
-* **Type:** Normal / Ghost
+* **Type:** ⚪ Normal ⚪ / 👻 Ghost 👻
 * **Tera Type:** 👻 Ghost 👻
 * **Role:** STAB Debuffer Ghost
 * **Nature:** Lonely (+Attack, -Defense)
@@ -217,14 +215,14 @@ title: Pokémon Scarlett Roster
     * `Taunt` (Prevents Status Moves)
     * `Nasty Plot` (Sharp Sp. Atk Boost)
 
-### 🐲⚔️ STAB Attacker Dragon
+### 🐲⚔️ STAB Attacker Dragon 🐲
 -
 
-### 🐲📉 STAB Debuffer Dragon
+### 🐲📉 STAB Debuffer Dragon 🐲
 
 #### [Haxorus](https://pokemondb.net/pokedex/haxorus/moves/9) (The Shield Breaker)
-* **Type:** Dragon
-* **Tera Type:** Dragon
+* **Type:** 🐲 Dragon 🐲
+* **Tera Type:** 🐲 Dragon 🐲
 * **Role:** STAB Debuffer Dragon / Screen Breaker
 * **Nature:** Adamant (+Attack, -Sp. Atk)
 * **Ability:** Mold Breaker (Moves can be used regardless of Abilities)
@@ -235,22 +233,22 @@ title: Pokémon Scarlett Roster
     * `Brick Break` (Shield/Screen Breaker)
     * `Taunt` (Prevents Status Moves)
 
-### 🌙⚔️ STAB Attacker Dark
+### 🌙⚔️ STAB Attacker Dark 🌙
 -
 
-### 🌙📉 STAB Debuffer Dark
+### 🌙📉 STAB Debuffer Dark 🌙
 -
 
-### ⚙️⚔️ STAB Attacker Steel
+### ⚙️⚔️ STAB Attacker Steel ⚙️
 -
 
-### ⚙️📉 STAB Debuffer Steel
+### ⚙️📉 STAB Debuffer Steel ⚙️
 -
 
-### ✨⚔️ STAB Attacker Fairy
+### ✨⚔️ STAB Attacker Fairy ✨
 -
 
-### ✨📉 STAB Debuffer Fairy
+### ✨📉 STAB Debuffer Fairy ✨
 -
 
 # 👤 Author
