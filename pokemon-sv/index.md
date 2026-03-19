@@ -13,7 +13,7 @@ title: Pokémon Scarlett Roster
 
 ## 🛡️ The Roster
 
-![Scarlett Roster](./mega_team_roster.png)
+![Scarlett Roster](./pokemon-sv.png)
 
 ### 1. [Gastrodon](https://pokemondb.net/pokedex/gastrodon/moves/9) (The Storm Tank)
 * **Type:** Water / Ground
