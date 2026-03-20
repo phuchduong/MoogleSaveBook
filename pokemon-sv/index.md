@@ -72,9 +72,9 @@ title: Pokémon Scarlett Roster
 * **Tera Type:** 🔥 Fire 🔥
 * **Weak To:** 💧 Water, ⛰️ Ground, 💎 Rock, 👻 Ghost, 🌙 Dark
 * **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel
-* **Role:** STAB Fire Debuffer / Special Support
+* **Role:** STAB Fire Special Debuffer / Special Support
 * **Nature:** Modest (+Sp. Atk, -Attack)
-* **Ability:** Flash Fire
+* **Ability:** Flash Fire (Fire immunity; first fire hit grants 50% Fire-type damage buff)
 * **Held Item:** Shell Bell
 * **Moveset:**
     * `Mystical Fire` (Guaranteed Sp. Atk Drop)
@@ -92,7 +92,7 @@ title: Pokémon Scarlett Roster
 * **Tera Type:** 💧 Water 💧
 * **Weak To:** 🌿 Grass (4x)
 * **Tera Useful Against:** 🔥 Fire, ⛰️ Ground, 💎 Rock
-* **Role:** Support / Physical Debuffer / Stat Reset
+* **Role:** Anti-Water Attacks / Physical Debuffer / Stat Reset
 * **Nature:** Bold (+Defense, -Attack)
 * **Ability:** Storm Drain (Draws in all Water-type moves and boosts Special Attack)
 * **Held Item:** Leftovers
@@ -107,7 +107,7 @@ title: Pokémon Scarlett Roster
 * **Tera Type:** 💧 Water 💧
 * **Weak To:** 🌿 Grass, ⚡ Electric, 🐛 Bug, 👻 Ghost, 🌙 Dark
 * **Tera Useful Against:** 🔥 Fire, ⛰️ Ground, 💎 Rock
-* **Role:** Physical Tank / Rain Setter
+* **Role:** Physical Tank / Rain Setter / Anti-Confusion
 * **Nature:** Modest (+Sp. Atk, -Attack)
 * **Ability:** Own Tempo (Prevents confusion)
 * **Held Item:** Leftovers
@@ -147,7 +147,7 @@ title: Pokémon Scarlett Roster
 * **Tera Type:** 🌿 Grass 🌿
 * **Weak To:** 🔥 Fire, ❄️ Ice, ☠️ Poison, 🕊️ Flying, 🐛 Bug
 * **Tera Useful Against:** 💧 Water, ⛰️ Ground, 💎 Rock
-* **Role:** STAB Grass Debuffer / Sleep Defense
+* **Role:** STAB Grass Attack Debuffer / Sleep Guard
 * **Nature:** Adamant (+Attack, -Sp. Atk)
 * **Ability:** Sweet Veil (Prevents self and allies from falling asleep)
 * **Held Item:** Shell Bell
@@ -231,7 +231,7 @@ title: Pokémon Scarlett Roster
 * **Tera Type:** 🐛 Bug 🐛
 * **Weak To:** 🕊️ Flying (4x), 🔥 Fire, 🔮 Psychic, ✨ Fairy
 * **Tera Useful Against:** 🌿 Grass, 🔮 Psychic, 🌙 Dark
-* **Role:** STAB Bug Debuffer / Sun Setter
+* **Role:** STAB Bug Attack Debuffer / Sun Setter
 * **Nature:** Adamant (+Attack, -Sp. Atk)
 * **Ability:** Protosynthesis
 * **Held Item:** Shell Bell
@@ -257,7 +257,7 @@ title: Pokémon Scarlett Roster
 * **Tera Type:** 👻 Ghost 👻
 * **Weak To:** 🌙 Dark
 * **Tera Useful Against:** 🔮 Psychic, 👻 Ghost
-* **Role:** STAB Debuffer Ghost
+* **Role:** STAB Ghost Attack Debuffer
 * **Nature:** Lonely (+Attack, -Defense)
 * **Ability:** Illusion (Enters battle disguised as the last Pokemon in the party)
 * **Held Item:** Shell Bell
@@ -277,7 +277,7 @@ title: Pokémon Scarlett Roster
 * **Tera Type:** 🐲 Dragon 🐲
 * **Weak To:** ❄️ Ice, 🐲 Dragon, ✨ Fairy
 * **Tera Useful Against:** 🐲 Dragon
-* **Role:** STAB Debuffer Dragon / Screen Breaker
+* **Role:** STAB Dragon Attack Debuffer / Screen Breaker
 * **Nature:** Adamant (+Attack, -Sp. Atk)
 * **Ability:** Mold Breaker (Moves can be used regardless of Abilities)
 * **Held Item:** Shell Bell
@@ -297,7 +297,7 @@ title: Pokémon Scarlett Roster
 * **Tera Type:** 🌙 Dark 🌙
 * **Weak To:** ✨ Fairy (4x), 🥊 Fighting, 🐛 Bug, ❄️ Ice, 🐲 Dragon
 * **Tera Useful Against:** 🔮 Psychic, 👻 Ghost
-* **Role:** STAB Dark Debuffer / Special Support
+* **Role:** STAB Dark Special Debuffer / Special Support
 * **Nature:** Modest (+Sp. Atk, -Attack)
 * **Ability:** Levitate
 * **Held Item:** Shell Bell
@@ -312,7 +312,7 @@ title: Pokémon Scarlett Roster
 * **Tera Type:** 🌙 Dark 🌙
 * **Weak To:** ⚡ Electric, ❄️ Ice, 💎 Rock, ✨ Fairy
 * **Tera Useful Against:** 🔮 Psychic, 👻 Ghost
-* **Role:** STAB Dark Debuffer / Special Support
+* **Role:** STAB Dark Special Debuffer / Special Support
 * **Nature:** Modest (+Sp. Atk, -Attack)
 * **Ability:** Quark Drive
 * **Held Item:** Shell Bell
