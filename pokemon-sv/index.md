@@ -80,6 +80,21 @@ title: Pokémon Scarlett Roster
     * `Reflect` (Physical Shield)
     * `Taunt` (Anti-Status)
 
+#### [Torkoal](https://pokemondb.net/pokedex/torkoal/moves/9) (The Iron Shell)
+* **Type:** 🔥 Fire 🔥
+* **Tera Type:** 🔥 Fire 🔥
+* **Weak To:** 💧 Water, ⛰️ Ground, 💎 Rock
+* **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel
+* **Role:** Physical Tank / Burn Support / Stat Reset
+* **Nature:** Relaxed (+Defense, -Speed)
+* **Ability:** Shell Armor (Protects from critical hits)
+* **Held Item:** Leftovers
+* **Moveset:**
+    * `Lava Plume` (Burn Chance STAB)
+    * `Iron Defense` (Sharp Defense Boost)
+    * `Clear Smog` (Resets Stats)
+    * `Will-O-Wisp` (Guaranteed Burn)
+
 ### 💧⚔️ STAB Attacker Water 💧
 -
 
@@ -132,13 +147,57 @@ title: Pokémon Scarlett Roster
     * `Acid Spray` (Preps Sp. Def Drops)
     * `Slack Off` (Reliable Recovery)
 
+#### [Toxtricity](https://pokemondb.net/pokedex/toxtricity/moves/9) (The Punk Rocker)
+* **Type:** ⚡ Electric ⚡ / ☠️ Poison ☠️
+* **Tera Type:** ⚡ Electric ⚡
+* **Weak To:** ⛰️ Ground (4x), 🔮 Psychic
+* **Tera Useful Against:** 💧 Water, 🕊️ Flying
+* **Role:** STAB Electric Special Attacker / Sp. Def Debuffer / Paralysis
+* **Nature:** Modest (+Sp. Atk, -Attack)
+* **Ability:** Technician (Powers up weak moves)
+* **Held Item:** Leftovers
+* **Moveset:**
+    * `Acid Spray` (Sharp Sp. Def Drop)
+    * `Eerie Impulse` (Sharp Sp. Atk Drop)
+    * `Thunderbolt` (Reliable STAB)
+    * `Nuzzle` (Guaranteed Paralysis)
+
 ### ⚡📉 STAB Debuffer Electric ⚡
 -
 
 ### 🌿⚔️ STAB Attacker Grass 🌿
--
+
+#### [Wo-Chien](https://pokemondb.net/pokedex/wo-chien/moves/9) (The Tablet Tank)
+* **Type:** 🌙 Dark 🌙 / 🌿 Grass 🌿
+* **Tera Type:** 🌿 Grass 🌿
+* **Weak To:** 🐛 Bug (4x), 🔥 Fire, ❄️ Ice, 🥊 Fighting, ☠️ Poison, 🕊️ Flying, ✨ Fairy
+* **Tera Useful Against:** 💧 Water, ⛰️ Ground, 💎 Rock
+* **Role:** Passive Attack Nerfer / Sustain Tank
+* **Nature:** Impish (+Defense, -Sp. Atk)
+* **Ability:** Tablets of Ruin (Lowers Attack of all other Pokemon)
+* **Held Item:** Miracle Seed
+* **Moveset:**
+    * `Giga Drain` (Sustain STAB)
+    * `Leech Seed` (Passive Drain)
+    * `Ingrain` (Constant Recovery)
+    * `Snarl` (Sp. Atk Drop Debuff)
 
 ### 🌿📉 STAB Debuffer Grass 🌿
+
+#### [Flapple](https://pokemondb.net/pokedex/flapple/moves/9) (The Tart Tank)
+* **Type:** 🌿 Grass 🌿 / 🐲 Dragon 🐲
+* **Tera Type:** 🌿 Grass 🌿
+* **Weak To:** ❄️ Ice (4x), 🕊️ Flying, ☠️ Poison, 🐛 Bug, 🐲 Dragon, ✨ Fairy
+* **Tera Useful Against:** 💧 Water, ⛰️ Ground, 💎 Rock
+* **Role:** Physical Defense Debuffer / Sustainability
+* **Nature:** Impish (+Defense, -Sp. Atk)
+* **Ability:** Ripen (Doubles Berry effects)
+* **Held Item:** Leftovers
+* **Moveset:**
+    * `Grav Apple` (Guaranteed Defense Drop)
+    * `Leech Seed` (Passive Healing)
+    * `Acid Spray` (Sp. Def Drop)
+    * `Iron Defense` (Sharp Defense Boost)
 
 ####  [Tsareena](https://pokemondb.net/pokedex/tsareena/moves/9) (The Trop Queen)
 * **Type:** 🌿 Grass 🌿
@@ -165,7 +224,21 @@ title: Pokémon Scarlett Roster
 -
 
 ### 🥊📉 STAB Debuffer Fighting 🥊
--
+
+#### [Galarian Zapdos](https://pokemondb.net/pokedex/zapdos/moves/9) (The Thunderous Kicker)
+* **Type:** 🥊 Fighting 🥊 / 🕊️ Flying 🕊️
+* **Tera Type:** 🥊 Fighting 🥊
+* **Weak To:** 🕊️ Flying, ⚡ Electric, 🔮 Psychic, ❄️ Ice, ✨ Fairy
+* **Tera Useful Against:** ⚪ Normal, ❄️ Ice, 💎 Rock, 🌙 Dark, ⚙️ Steel
+* **Role:** STAB Fighting Physical Attacker / Defense Debuffer
+* **Nature:** Adamant (+Attack, -Sp. Atk)
+* **Ability:** Defiant (Boosts Attack when stats are lowered)
+* **Held Item:** Shell Bell
+* **Moveset:**
+    * `Thunderous Kick` (Guaranteed Defense Drop)
+    * `Bulk Up` (Attack and Defense Setup)
+    * `Taunt` (Anti-Status)
+    * `Tailwind` (Speed Support)
 
 ### ☠️⚔️ STAB Attacker Poison ☠️
 
@@ -224,6 +297,21 @@ title: Pokémon Scarlett Roster
 
 ### 🐛📉 STAB Debuffer Bug 🐛
 
+#### [Mew](https://pokemondb.net/pokedex/mew/moves/9) (The Bug-Tera Support)
+* **Type:** 🔮 Psychic 🔮
+* **Tera Type:** 🐛 Bug 🐛
+* **Weak To:** 🐛 Bug, 👻 Ghost, 🌙 Dark
+* **Tera Useful Against:** 🌿 Grass, 🔮 Psychic, 🌙 Dark
+* **Role:** Anti-Psychic / Multi-Turn Shield / Sustain Support / Sp. Atk Debuffer
+* **Nature:** Adamant (+Attack, -Sp. Atk)
+* **Ability:** Synchronize (Passes status conditions)
+* **Held Item:** Light Clay
+* **Moveset:**
+    * `Struggle Bug` (Guaranteed Sp. Atk Drop)
+    * `Leech Life` (Sustain)
+    * `Light Screen` (Extended Special Shield)
+    * `Life Dew` (Group Healing)
+
 #### [Slither Wing](https://pokemondb.net/pokedex/slither-wing/moves/9) (The Sunny Striker)
 * **Type:** 🐛 Bug 🐛 / 🥊 Fighting 🥊
 * **Tera Type:** 🐛 Bug 🐛
@@ -238,6 +326,21 @@ title: Pokémon Scarlett Roster
     * `Bulk Up` (Setup)
     * `Lunge` (Attack Drop Debuff)
     * `Sunny Day` (Ability Trigger)
+
+#### [Volcarona](https://pokemondb.net/pokedex/volcarona/moves/9) (The Sun Moth)
+* **Type:** 🐛 Bug 🐛 / 🔥 Fire 🔥
+* **Tera Type:** 🐛 Bug 🐛
+* **Weak To:** 💎 Rock (4x), 💧 Water, 🕊️ Flying
+* **Tera Useful Against:** 🌿 Grass, 🔮 Psychic, 🌙 Dark
+* **Role:** Special Tank / Sp. Def Buffer / Sustain
+* **Nature:** Modest (+Sp. Atk, -Attack)
+* **Ability:** Flame Body (Chance to burn on contact)
+* **Held Item:** Shell Bell
+* **Moveset:**
+    * `Struggle Bug` (Guaranteed Sp. Atk Drop)
+    * `Amnesia` (Sharp Sp. Def Boost)
+    * `Light Screen` (Special Shield)
+    * `Morning Sun` (Reliable Recovery)
 
 ### 💎⚔️ STAB Attacker Rock 💎
 -
@@ -320,6 +423,21 @@ title: Pokémon Scarlett Roster
     * `Dark Pulse` (STAB)
     * `Electric Terrain` (Ability Trigger)
 
+#### [Galarian Moltres](https://pokemondb.net/pokedex/moltres/moves/9) (The Malevolent Bird)
+* **Type:** 🌙 Dark 🌙 / 🕊️ Flying 🕊️
+* **Tera Type:** 🌙 Dark 🌙
+* **Weak To:** ⚡ Electric, ❄️ Ice, 💎 Rock, ✨ Fairy
+* **Tera Useful Against:** 🔮 Psychic, 👻 Ghost
+* **Role:** Special Attacker / Sp. Atk Debuffer / Setup Sweeper
+* **Nature:** Modest (+Sp. Atk, -Attack)
+* **Ability:** Berserk (Boosts Sp. Atk when HP drops below half)
+* **Held Item:** Shell Bell
+* **Moveset:**
+    * `Snarl` (Guaranteed Sp. Atk Drop)
+    * `Fiery Wrath` (STAB with Flinch chance)
+    * `Nasty Plot` (Sharp Sp. Atk Boost)
+    * `Tailwind` (Speed Support)
+
 ### ⚙️⚔️ STAB Attacker Steel ⚙️
 -
 
@@ -330,7 +448,21 @@ title: Pokémon Scarlett Roster
 -
 
 ### ✨📉 STAB Debuffer Fairy ✨
--
+
+#### [Grimmsnarl](https://pokemondb.net/pokedex/grimmsnarl/moves/9) (The Prankster Wall)
+* **Type:** 🌙 Dark 🌙 / ✨ Fairy ✨
+* **Tera Type:** ✨ Fairy ✨
+* **Weak To:** ☠️ Poison, ⚙️ Steel, ✨ Fairy
+* **Tera Useful Against:** 🥊 Fighting, 🐲 Dragon, 🌙 Dark
+* **Role:** Priority Screen Support / Attack Debuffer
+* **Nature:** Adamant (+Attack, -Sp. Atk)
+* **Ability:** Prankster (Priority Status Moves)
+* **Held Item:** Leftovers
+* **Moveset:**
+    * `Spirit Break` (Guaranteed Sp. Atk Drop)
+    * `Light Screen` (Priority Special Shield)
+    * `Misty Terrain` (Status Protection)
+    * `Taunt` (Priority Utility)
 
 # 👤 Author
 **Phuc H Duong**
