@@ -27,7 +27,6 @@ title: Pokémon Scarlett Roster
 * **Type:** 🔮 Psychic 🔮 / 🥊 Fighting 🥊
 * **Tera Type:** 🌿 Grass 🌿
 * **Weak To:** 🕊️ Flying, 👻 Ghost, ✨ Fairy
-* **Tera Useful Against:** 💧 Water, ⛰️ Ground, 💎 Rock
 * **Role:** Wild Catching / Utility
 * **Nature:** Jolly (+Speed, -Sp. Atk)
 * **Ability:** Justified (Boosts Attack when hit by a Dark-type move)
@@ -42,7 +41,6 @@ title: Pokémon Scarlett Roster
 * **Type:** ⚪ Normal ⚪ / 👻 Ghost 👻
 * **Tera Type:** 🌙 Dark 🌙
 * **Weak To:** 🌙 Dark
-* **Tera Useful Against:** 🔮 Psychic, 👻 Ghost
 * **Role:** Money Farming / Special Support
 * **Nature:** Modest (+Sp. Atk, -Attack)
 * **Ability:** Illusion (Enters battle disguised as the last Pokemon in the party)
