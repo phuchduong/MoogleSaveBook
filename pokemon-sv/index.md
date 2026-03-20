@@ -171,6 +171,21 @@ title: Pokémon Scarlett Roster
     * `Rain Dance` (Weather Control)
     * `Calm Mind` (Special Setup)
 
+#### [Walking Wake](https://pokemondb.net/pokedex/walking-wake/moves/9) (The Suicune Paradox)
+* **Type:** 💧 Water 💧 / 🐲 Dragon 🐲
+* **Tera Type:** 💧 Water 💧
+* **Weak To:** ⚡ Electric, 🌿 Grass
+* **Tera Useful Against:** 🔥 Fire, ⛰️ Ground, 💎 Rock
+* **Role:** Special Water Attacker / Sun or Rain Utility
+* **Nature:** Modest (+Sp. Atk, -Attack)
+* **Ability:** Protosynthesis (Boosts highest stat in Sun)
+* **Held Item:** None
+* **Moveset:**
+    * `Hydro Steam` (Sun-Scalable Water STAB)
+    * `Dragon Pulse` (Standard Dragon STAB)
+    * `Noble Roar` (Attack and Sp. Atk Debuff)
+    * `Flamethrower` (Fire Coverage)
+
 ### 💧📉 STAB Debuffer Water 💧
 
 #### [Gastrodon](https://pokemondb.net/pokedex/gastrodon/moves/9) (The Storm Tank)
@@ -220,6 +235,21 @@ title: Pokémon Scarlett Roster
     * `Acid Spray` (Preps Sp. Def Drops)
     * `Slack Off` (Reliable Recovery)
 
+#### [Miraidon](https://pokemondb.net/pokedex/miraidon/moves/9) (The Iron Serpent)
+* **Type:** ⚡ Electric ⚡ / 🐲 Dragon 🐲
+* **Tera Type:** ⚡ Electric ⚡
+* **Weak To:** ⛰️ Ground
+* **Tera Useful Against:** 💧 Water, 🕊️ Flying
+* **Role:** Special Electric Sweeper / Terrain Setter
+* **Nature:** Modest (+Sp. Atk, -Attack)
+* **Ability:** Hadron Engine (Sets Electric Terrain and boosts Sp. Atk)
+* **Held Item:** Shell Bell
+* **Moveset:**
+    * `Electro Drift` (Signature Electric STAB)
+    * `Parabolic Charge` (Healing Damage)
+    * `Metal Sound` (Sharp Sp. Def Drop)
+    * `Reflect` (Physical Shield)
+
 #### [Toxtricity](https://pokemondb.net/pokedex/toxtricity/moves/9) (The Punk Rocker)
 * **Type:** ⚡ Electric ⚡ / ☠️ Poison ☠️
 * **Tera Type:** ⚡ Electric ⚡
@@ -239,6 +269,21 @@ title: Pokémon Scarlett Roster
 -
 
 ### 🌿⚔️ STAB Attacker Grass 🌿
+
+#### [Lurantis](https://pokemondb.net/pokedex/lurantis/moves/9) (The Bloom Sickle)
+* **Type:** 🌿 Grass 🌿
+* **Tera Type:** 🌿 Grass 🌿
+* **Weak To:** 🔥 Fire, ❄️ Ice, ☠️ Poison, 🕊️ Flying, 🐛 Bug
+* **Tera Useful Against:** 💧 Water, ⛰️ Ground, 💎 Rock
+* **Role:** Special Contrary Sweeper / Sustain Tank
+* **Nature:** Modest (+Sp. Atk, -Attack)
+* **Ability:** Contrary (Inverts stat changes)
+* **Held Item:** Shell Bell
+* **Moveset:**
+    * `Leaf Storm` (Self-Buffing Grass STAB)
+    * `Giga Drain` (Sustain STAB)
+    * `Synthesis` (Reliable Recovery)
+    * `Ingrain` (Constant Recovery)
 
 #### [Wo-Chien](https://pokemondb.net/pokedex/wo-chien/moves/9) (The Tablet Tank)
 * **Type:** 🌙 Dark 🌙 / 🌿 Grass 🌿
@@ -494,7 +539,66 @@ title: Pokémon Scarlett Roster
 -
 
 ### 🔮⚔️ STAB Attacker Psychic 🔮
--
+
+#### [Articuno (Galarian)](https://pokemondb.net/pokedex/articuno/moves/9) (The Cruel Pokémon)
+* **Type:** 🔮 Psychic 🔮 / 🕊️ Flying 🕊️
+* **Tera Type:** 🔮 Psychic 🔮
+* **Weak To:** 🐛 Bug, 👻 Ghost, 🌙 Dark
+* **Tera Useful Against:** 🥊 Fighting, ☠️ Poison
+* **Role:** Special Psychic Attacker / Stat Drop Punisher
+* **Nature:** Modest (+Sp. Atk, -Attack)
+* **Ability:** Competitive (Sharply boosts Sp. Atk when stats are lowered)
+* **Held Item:** Shell Bell
+* **Moveset:**
+    * `Freezing Glare` (Signature Psychic STAB)
+    * `Hurricane` (Standard Flying STAB)
+    * `Reflect` (Physical Shield)
+    * `Recover` (Reliable Recovery)
+
+#### [Iron Leaves](https://pokemondb.net/pokedex/iron-leaves/moves/9) (The Virizion Paradox)
+* **Type:** 🌿 Grass 🌿 / 🔮 Psychic 🔮
+* **Tera Type:** 🔮 Psychic 🔮
+* **Weak To:** 🐛 Bug, 👻 Ghost, 🌙 Dark
+* **Tera Useful Against:** 🥊 Fighting, ☠️ Poison
+* **Role:** Physical Psychic Sweeper / Terrain Utility
+* **Nature:** Adamant (+Attack, -Sp. Atk)
+* **Ability:** Quark Drive (Boosts highest stat in Electric Terrain)
+* **Held Item:** Shell Bell
+* **Moveset:**
+    * `Psyblade` (Signature Psychic STAB)
+    * `Swords Dance` (Sharp Attack Boost)
+    * `Electric Terrain` (Ability Trigger)
+    * `Taunt` (Anti-Status)
+
+#### [Slowbro](https://pokemondb.net/pokedex/slowbro/moves/9) (The Hermit Crab Pokémon)
+* **Type:** 💧 Water 💧 / 🔮 Psychic 🔮
+* **Tera Type:** 🔮 Psychic 🔮
+* **Weak To:** 🐛 Bug, 👻 Ghost, 🌙 Dark
+* **Tera Useful Against:** 🥊 Fighting, ☠️ Poison
+* **Role:** Special Setup Tank / Stored Power Sweeper
+* **Nature:** Modest (+Sp. Atk, -Attack)
+* **Ability:** Own Tempo (Prevents confusion)
+* **Held Item:** Leftovers
+* **Moveset:**
+    * `Iron Defense` (Sharp Defense Boost)
+    * `Nasty Plot` (Sharp Sp. Atk Boost)
+    * `Slack Off` (Reliable Recovery)
+    * `Stored Power` (Scaling Psychic STAB)
+
+#### [Tsareena](https://pokemondb.net/pokedex/tsareena/moves/9) (The Trop Queen)
+* **Type:** 🌿 Grass 🌿
+* **Tera Type:** 🔮 Psychic 🔮
+* **Weak To:** 🐛 Bug, 👻 Ghost, 🌙 Dark
+* **Tera Useful Against:** 🥊 Fighting, ☠️ Poison
+* **Role:** Physical Psychic Attacker / Sleep Guard
+* **Nature:** Adamant (+Attack, -Sp. Atk)
+* **Ability:** Sweet Veil (Prevents self and allies from falling asleep)
+* **Held Item:** Shell Bell
+* **Moveset:**
+    * `Zen Headbutt` (Standard Psychic STAB)
+    * `Sunny Day` (Weather Control)
+    * `Light Screen` (Special Shield)
+    * `Synthesis` (Nature-based Healing)
 
 ### 🔮📉 STAB Debuffer Psychic 🔮
 
@@ -709,6 +813,36 @@ title: Pokémon Scarlett Roster
 
 ### ✨⚔️ STAB Attacker Fairy ✨
 
+#### [Azumarill](https://pokemondb.net/pokedex/azumarill/moves/9) (The Aqua Rabbit)
+* **Type:** 💧 Water 💧 / ✨ Fairy ✨
+* **Tera Type:** ✨ Fairy ✨
+* **Weak To:** ⚡ Electric, 🌿 Grass, ☠️ Poison
+* **Tera Useful Against:** 🥊 Fighting, 🐲 Dragon, 🌙 Dark
+* **Role:** Physical Setup Sweeper / Huge Power Attacker / Party Wide Status Protection
+* **Nature:** Adamant (+Attack, -Sp. Atk)
+* **Ability:** Huge Power (Doubles Attack stat)
+* **Held Item:** Shell Bell
+* **Moveset:**
+    * `Play Rough` (Standard Fairy STAB)
+    * `Misty Terrain` (Status Protection)
+    * `Light Screen` (Special Shield)
+    * `Belly Drum` (Maximizes Attack)
+
+#### [Sylveon](https://pokemondb.net/pokedex/sylveon/moves/9) (The Intertwining Pokémon)
+* **Type:** ✨ Fairy ✨
+* **Tera Type:** ✨ Fairy ✨
+* **Weak To:** ☠️ Poison, ⚙️ Steel
+* **Tera Useful Against:** 🥊 Fighting, 🐲 Dragon, 🌙 Dark
+* **Role:** Special Pixilate Attacker / Support / Party Wide Status Protection
+* **Nature:** Modest (+Sp. Atk, -Attack)
+* **Ability:** Pixilate (Normal-type moves become Fairy-type and boosted)
+* **Held Item:** Shell Bell
+* **Moveset:**
+    * `Hyper Voice` (Pixilate Boosted STAB)
+    * `Draining Kiss` (Sustain STAB)
+    * `Reflect` (Physical Shield)
+    * `Misty Terrain` (Status Protection)
+
 #### [Tinkaton](https://pokemondb.net/pokedex/tinkaton/moves/9) (The Hammer Maiden)
 * **Type:** ✨ Fairy ✨ / ⚙️ Steel ⚙️
 * **Tera Type:** ⚙️ Steel ⚙️
@@ -724,6 +858,7 @@ title: Pokémon Scarlett Roster
     * `Reflect` (Physical Shield)
     * `Draining Kiss` (Sustain STAB)
 
+
 ### ✨📉 STAB Debuffer Fairy ✨
 
 #### [Grimmsnarl](https://pokemondb.net/pokedex/grimmsnarl/moves/9) (The Prankster Wall)
@@ -731,7 +866,7 @@ title: Pokémon Scarlett Roster
 * **Tera Type:** ✨ Fairy ✨
 * **Weak To:** ☠️ Poison, ⚙️ Steel, ✨ Fairy
 * **Tera Useful Against:** 🥊 Fighting, 🐲 Dragon, 🌙 Dark
-* **Role:** Priority Screen Support / Attack Debuffer
+* **Role:** Priority Screen Support / Attack Debuffer / Party Wide Status Protection
 * **Nature:** Adamant (+Attack, -Sp. Atk)
 * **Ability:** Prankster (Priority Status Moves)
 * **Held Item:** Leftovers
