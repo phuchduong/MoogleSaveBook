@@ -61,7 +61,21 @@ title: Pokémon Scarlett Roster
 -
 
 ### 🔥⚔️ STAB Attacker Fire 🔥
--
+
+#### [Iron Moth](https://pokemondb.net/pokedex/iron-moth/moves/9) (The Volcarona Paradox)
+* **Type:** 🔥 Fire 🔥 / ☠️ Poison ☠️
+* **Tera Type:** 🔥 Fire 🔥
+* **Weak To:** ⛰️ Ground (4x), 💧 Water, 🔮 Psychic, 💎 Rock
+* **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel
+* **Role:** Special Sweeper / Sp. Def Debuffer
+* **Nature:** Modest (+Sp. Atk, -Attack)
+* **Ability:** Quark Drive (Boosts highest stat in Electric Terrain or with Booster Energy)
+* **Held Item:** Shell Bell
+* **Moveset:**
+    * `Acid Spray` (Sharp Sp. Def Drop)
+    * `Fiery Dance` (Sp. Atk Boost Chance)
+    * `Morning Sun` (Reliable Recovery)
+    * `Electric Terrain` (Ability Trigger)
 
 ### 🔥📉 STAB Debuffer Fire 🔥
 
@@ -184,6 +198,21 @@ title: Pokémon Scarlett Roster
 
 ### 🌿📉 STAB Debuffer Grass 🌿
 
+#### [Appletun](https://pokemondb.net/pokedex/appletun/moves/9) (The Nectar Dragon)
+* **Type:** 🌿 Grass 🌿 / 🐲 Dragon 🐲
+* **Tera Type:** 🌿 Grass 🌿
+* **Weak To:** ❄️ Ice (4x), 🕊️ Flying, ☠️ Poison, 🐛 Bug, 🐲 Dragon, ✨ Fairy
+* **Tera Useful Against:** 💧 Water, ⛰️ Ground, 💎 Rock
+* **Role:** Special Defense Debuffer / Defensive Wall
+* **Nature:** Modest (+Sp. Atk, -Attack)
+* **Ability:** Ripen (Doubles the effect of Berries)
+* **Held Item:** Leftovers
+* **Moveset:**
+    * `Apple Acid` (Guaranteed Sp. Def Drop)
+    * `Light Screen` (Special Shield)
+    * `Iron Defense` (Sharp Defense Boost)
+    * `Recover` (Reliable Recovery)
+
 #### [Flapple](https://pokemondb.net/pokedex/flapple/moves/9) (The Tart Tank)
 * **Type:** 🌿 Grass 🌿 / 🐲 Dragon 🐲
 * **Tera Type:** 🌿 Grass 🌿
@@ -221,7 +250,67 @@ title: Pokémon Scarlett Roster
 -
 
 ### 🥊⚔️ STAB Attacker Fighting 🥊
--
+
+#### [Annihilape](https://pokemondb.net/pokedex/annihilape/moves/9) (The Raging Monkey)
+* **Type:** 🥊 Fighting 🥊 / 👻 Ghost 👻
+* **Tera Type:** 🥊 Fighting 🥊
+* **Weak To:** 🕊️ Flying, 🔮 Psychic, 👻 Ghost, ✨ Fairy
+* **Tera Useful Against:** ⚪ Normal, ❄️ Ice, 💎 Rock, 🌙 Dark, ⚙️ Steel
+* **Role:** Physical Attacker / Flinch Protection
+* **Nature:** Adamant (+Attack, -Sp. Atk)
+* **Ability:** Inner Focus (Prevents flinching)
+* **Held Item:** Metronome
+* **Moveset:**
+    * `Drain Punch` (Sustain STAB)
+    * `Sunny Day` (Weather Control)
+    * `Brick Break` (Shield/Screen Breaker)
+    * `Focus Energy` (Crit Ratio Boost)
+
+#### [Dachsbun](https://pokemondb.net/pokedex/dachsbun/moves/9) (The Fireproof Hound)
+* **Type:** ✨ Fairy ✨
+* **Tera Type:** 🥊 Fighting 🥊
+* **Weak To:** ☠️ Poison, ⚙️ Steel
+* **Tera Useful Against:** ⚪ Normal, ❄️ Ice, 💎 Rock, 🌙 Dark, ⚙️ Steel
+* **Role:** Anti-Fire Attacker / Fire Immunity Support
+* **Nature:** Impish (+Defense, -Sp. Atk)
+* **Ability:** Well-Baked Body (Fire immunity; fire hits grant 2x Defense boost)
+* **Held Item:** Terrain Extender
+* **Moveset:**
+    * `Body Press` (Defense-Scaled Damage)
+    * `Mud-Slap` (Accuracy Drop)
+    * `Misty Terrain` (Status Protection)
+    * `Rain Dance` (Weather Control)
+
+#### [Iron Hands](https://pokemondb.net/pokedex/iron-hands/moves/9) (The Hariyama Paradox)
+* **Type:** 🥊 Fighting 🥊 / ⚡ Electric ⚡
+* **Tera Type:** 🥊 Fighting 🥊
+* **Weak To:** ⛰️ Ground, 🔮 Psychic, ✨ Fairy
+* **Tera Useful Against:** ⚪ Normal, ❄️ Ice, 💎 Rock, 🌙 Dark, ⚙️ Steel
+* **Role:** Physical Setup Sweeper / Drain Attacker
+* **Nature:** Adamant (+Attack, -Sp. Atk)
+* **Ability:** Quark Drive (Boosts highest stat in Electric Terrain or with Booster Energy)
+* **Held Item:** Shell Bell
+* **Moveset:**
+    * `Drain Punch` (Sustain STAB)
+    * `Force Palm` (Paralysis Chance STAB)
+    * `Brick Break` (Shield/Screen Breaker)
+    * `Belly Drum` (Maximizes Attack)
+
+#### [Koraidon](https://pokemondb.net/pokedex/koraidon/moves/9) (The Winged King)
+* **Type:** 🥊 Fighting 🥊 / 🐲 Dragon 🐲
+* **Tera Type:** 🥊 Fighting 🥊
+* **Weak To:** ✨ Fairy (4x), 🕊️ Flying, 🔮 Psychic, 🐲 Dragon, ❄️ Ice
+* **Tera Useful Against:** ⚪ Normal, ❄️ Ice, 💎 Rock, 🌙 Dark, ⚙️ Steel
+* **Role:** Physical Fighting Sweeper / Sun Setter
+* **Nature:** Adamant (+Attack, -Sp. Atk)
+* **Ability:** Orichalcum Pulse (Sets Sun and boosts Attack)
+* **Held Item:** Shell Bell
+* **Moveset:**
+    * `Collision Course` (Signature Fighting STAB)
+    * `Drain Punch` (Sustain STAB)
+    * `Swords Dance` (Sharp Attack Boost)
+    * `Breaking Swipe` (Attack Drop Debuff)
+
 
 ### 🥊📉 STAB Debuffer Fighting 🥊
 
@@ -268,6 +357,21 @@ title: Pokémon Scarlett Roster
 
 ### 🌪️⚔️ STAB Attacker Flying 🌪️
 
+#### [Rayquaza](https://pokemondb.net/pokedex/rayquaza/moves/9) (The Sky High Striker)
+* **Type:** 🐲 Dragon 🐲 / 🕊️ Flying 🕊️
+* **Tera Type:** 🕊️ Flying 🌪️
+* **Weak To:** ❄️ Ice (4x), 💎 Rock, 🐲 Dragon, ✨ Fairy
+* **Tera Useful Against:** 🌿 Grass, 🥊 Fighting, 🐛 Bug
+* **Role:** Physical Sweeper / Weather Nullifier
+* **Nature:** Adamant (+Attack, -Sp. Atk)
+* **Ability:** Air Lock (Eliminates the effects of weather)
+* **Held Item:** Shell Bell
+* **Moveset:**
+    * `Dragon Ascent` (High Power Flying STAB)
+    * `Swords Dance` (Sharp Attack Boost)
+    * `Ancient Power` (Stat Boost Chance)
+    * `Air Slash` (Flinch Chance STAB)
+
 #### [Walking Wake](https://pokemondb.net/pokedex/walking-wake/moves/9) (Hurricane Rain Dancer)
 * **Type:** 💧 Water 💧 / 🐲 Dragon 🐲
 * **Tera Type:** 🌪️ Flying 🌪️
@@ -290,7 +394,21 @@ title: Pokémon Scarlett Roster
 -
 
 ### 🔮📉 STAB Debuffer Psychic 🔮
--
+
+#### [Espathra](https://pokemondb.net/pokedex/espathra/moves/9) (The Gaze of Lumina)
+* **Type:** 🔮 Psychic 🔮
+* **Tera Type:** 🔮 Psychic 🔮
+* **Weak To:** 🐛 Bug, 👻 Ghost, 🌙 Dark
+* **Tera Useful Against:** 🥊 Fighting, ☠️ Poison
+* **Role:** Special Attacker / Stat Mimic / Support
+* **Nature:** Modest (+Sp. Atk, -Attack)
+* **Ability:** Opportunist (Copies opponent stat boosts)
+* **Held Item:** Shell Bell
+* **Moveset:**
+    * `Lumina Crash` (Sharp Sp. Def Drop)
+    * `Reflect` (Physical Shield)
+    * `Feather Dance` (Sharp Attack Drop)
+    * `Roost` (Reliable Recovery)
 
 ### 🐛⚔️ STAB Attacker Bug 🐛
 -
