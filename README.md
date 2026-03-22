@@ -23,8 +23,9 @@ This repository serves as a **central vault** for all my gaming data. Instead of
 
 ## 📜 **Pokemon Team Rosters:** 
 * [Pokemon Leaf Green Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-frlg/)
-* [Pokemon Shining Pearl Baton Pass Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp-baton/)
-* [Pokemon Shining Pearl Starter Trio Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp-starter-trio/)
+* [Pokemon Shining Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp/)
+<!-- * [Pokemon Shining Pearl Baton Pass Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp-baton/)
+* [Pokemon Shining Pearl Starter Trio Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp-starter-trio/) -->
 * [Pokémon Let's Go Eevee Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-lets-go/)
 * [Pokémon Scarlett Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-sv/)
 
