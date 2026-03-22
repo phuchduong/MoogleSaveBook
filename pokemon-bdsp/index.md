@@ -2,7 +2,7 @@
 
 **Back to Main:** [https://phuchduong.github.io/MoogleSaveBook/](https://phuchduong.github.io/MoogleSaveBook/)
 
-**Website:** [https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp-baton/](https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp/)
+**Website:** [https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp/](https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp/)
 
 **Table of Contents**
 * [Sinnoh Starter Trio Team](#%EF%B8%8F-sinnoh-starter-trio)
