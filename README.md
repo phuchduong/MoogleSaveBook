@@ -21,11 +21,10 @@ This repository serves as a **central vault** for all my gaming data. Instead of
 ## 📜 **Civilization Beyond Earth:**
 * [Beyond Earth Achievements Checklist](https://phuchduong.github.io/MoogleSaveBook/civ-be/)
 
-## 📜 **Pokemon Team Rosters:** 
-* [Pokemon Leaf Green Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-frlg/)
-* [Pokemon Shining Pearl Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp/)
-<!-- * [Pokemon Shining Pearl Baton Pass Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp-baton/) -->
-<!-- * [Pokemon Shining Pearl Starter Trio Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp-starter-trio/) -->
+## 📜 **Pokémon Team Rosters:** 
+* [Pokémon Leaf Green Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-frlg/)
+* [Pokémon Shining Pearl Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-bdsp/)
+* [Pokémon Legends: Arceus](https://phuchduong.github.io/MoogleSaveBook/pokemon-la/)
 * [Pokémon Let's Go Eevee Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-lets-go/)
 * [Pokémon Scarlett Roster](https://phuchduong.github.io/MoogleSaveBook/pokemon-sv/)
 
