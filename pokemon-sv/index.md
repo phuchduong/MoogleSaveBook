@@ -9,6 +9,16 @@ title: Pokémon Scarlett Roster
 
 **Website:** [https://phuchduong.github.io/MoogleSaveBook/pokemon-sv/](https://phuchduong.github.io/MoogleSaveBook/pokemon-sv/)
 
+**Section Links:**
+
+* [⚔️ Singles Roster](#%EF%B8%8F-singles-roster)
+* [❄️ Snow Doubles Roster](#%EF%B8%8F-snow-doubles-roster)
+* [🌧️ Rain Doubles Roster](#%EF%B8%8F-rain-doubles-roster)
+* [☀️ Sun Doubles Roster](#sun-doubles-roster)
+* [⚡ Electric Terrain Doubles Roster](#electric-terrain-doubles-roster)
+* [🏃 Baton Pass Roster](#baton-pass-roster)
+* [💎 Terra Raid Roster](#%EF%B8%8F-terra-raid-roster)
+
 **Terra Raid Quicklinks:**
 
 | Type | Type | Type | Type | Type | Type | Type | Type | Type |
@@ -169,7 +179,7 @@ title: Pokémon Scarlett Roster
     * `Shadow Ball` / `Ice Beam` / `Thunderbolt` / `Tera Blast` / `Psychic` / `Dark Pulse` / `Protect` (Free Spot)
 
 
-## 💎 Snow Doubles Roster
+## ❄️ Snow Doubles Roster
 
 ![Snow Doubles Roster](./snow_team.png)
 
@@ -259,7 +269,7 @@ title: Pokémon Scarlett Roster
     * `Mind Reader` (Next move is guaranteed to hit) / `Freeze Dry` (Water Coverage / Ice STAB)
     * `Sheer Cold` (One-Shot KO Ice Move) / `Roost`
 
-## 💎 Rain Doubles Roster
+## 🌧️ Rain Doubles Roster
 
 ![Rain Doubles Roster](./rain_team.png)
 
@@ -308,7 +318,7 @@ title: Pokémon Scarlett Roster
     * `Hurricane` (High Power Flying STAB / 100% Accuracy in Rain / Confusion chance)
     * `Weather Ball` or `Volt Switch` (Water coverage in Rain or pivoting utility)
 
-## Sun Doubles Roster
+## ☀️ Sun Doubles Roster
 
 ![Sun Doubles Roster](./sun_team.png)
 
@@ -368,7 +378,7 @@ title: Pokémon Scarlett Roster
     * `Solar Beam` (Immediate 120 BP coverage in Sun)
     * `Tailwind` / `Protect` (Speed control for the team or safety)
 
-## Electric Terrain Roster
+## ⚡ Electric Terrain Doubles Roster
 
 #### [Raging Bolt](https://pokemondb.net/pokedex/raging-bolt/moves/9) (The Paradox Pokémon)
 * **Type:** ⚡ Electric ⚡ / 🐲 Dragon 🐲
@@ -415,7 +425,7 @@ title: Pokémon Scarlett Roster
     * `Psycho Cut` (Psychic STAB)
     * `Solar Blade` / `Close Combat` (Fighting Coverage / Deletes Steel types)
 
-## Baton Pass Roster
+## 🏃 Baton Pass Roster
 
 #### [Drifblim](https://pokemondb.net/pokedex/drifblim) (The Blimp Wall)
 * **Type:** 👻 Ghost 👻 / 🎈 Flying 🎈
