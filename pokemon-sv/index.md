@@ -15,9 +15,9 @@ title: Pokémon Scarlett Roster
 * [❄️ Snow Doubles Roster](#%EF%B8%8F-snow-doubles-roster)
 * [🌧️ Rain Doubles Roster](#%EF%B8%8F-rain-doubles-roster)
 * [☀️ Sun Doubles Roster](#%EF%B8%8F-sun-doubles-roster)
-* [⚡ Electric Terrain Doubles Roster](#%EF%B8%8F-electric-terrain-doubles-roster)
-* [🏃 Baton Pass Roster](#%EF%B8%8F-baton-pass-roster)
-* [💎 Terra Raid Roster](#%EF%B8%8F-terra-raid-roster)
+* [⚡ Electric Terrain Doubles Roster](#-electric-terrain-doubles-roster)
+* [🏃 Baton Pass Roster](#-baton-pass-roster)
+* [💎 Terra Raid Roster](#-terra-raid-roster)
 
 **Terra Raid Quicklinks:**
 
