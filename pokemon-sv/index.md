@@ -18,8 +18,9 @@ title: Pokémon Scarlett Roster
 
 ---
 
-## ⚔️ Battle Roster
+## ⚔️ Singles Roster
 
+![Scarlett Roster](./scarlett_team.png)
 <!-- ![Scarlett Roster](./pokemon-sv.png) -->
 
 #### [Gallade](https://pokemondb.net/pokedex/gallade/moves/9) (The Capture Specialist)
@@ -80,20 +81,20 @@ title: Pokémon Scarlett Roster
     * `X-Scissor` (Slicing Bug STAB)
     * `Brick Break` (Fighting Coverage / Shield Breaker)
 
-#### [Raging Bolt](https://pokemondb.net/pokedex/raging-bolt/moves/9) (The Paradox Pokémon)
-* **Type:** ⚡ Electric ⚡ / 🐲 Dragon 🐲
-* **Tera Type:** ⚡ Electric ⚡
-* **Weak To:** ⛰️ Ground, ❄️ Ice, 🐲 Dragon, ✨ Fairy
-* **Tera Useful Against:** 💧 Water, 🕊️ Flying
-* **Role:** Special Electric Attacker / Weather & Status Support
-* **Nature:** Modest (+Sp. Atk, -Attack)
+#### [Gouging Fire](https://pokemondb.net/pokedex/gouging-fire/moves/9) (The Entei Paradox)
+* **Type:** 🔥 Fire 🔥 / 🐲 Dragon 🐲
+* **Tera Type:** 🔥 Fire 🔥
+* **Weak To:** ⛰️ Ground, 💎 Rock, 🐲 Dragon
+* **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel
+* **Role:** Physical Tank / Burn Support / Weather Utility
+* **Nature:** Adamant (+Attack, -Sp. Atk)
 * **Ability:** Protosynthesis (Boosts highest stat in Sun or with Booster Energy)
-* **Held Item:** Shell Bell
+* **Held Item:** Leftovers
 * **Moveset:**
-    * `Thunderclap` (Priority Electric STAB)
+    * `Heat Crash` (Physical Fire STAB / Flinch & Burn Chance)
     * `Sunny Day` (Weather Control / Ability Trigger)
-    * `Thunder Wave` (Status Support)
-    * `Charge Beam` (Electric STAB / Sp. Atk Boost Chance)
+    * `Burning Bulwark` (Signature Protection / Burns Contacting Opponents)
+    * `Breaking Swipe` / `Morning Sun` (Reliable Recovery Scaled by Sun)
 
 #### [Sandy Shocks](https://pokemondb.net/pokedex/sandy-shocks/moves/9) (The Magneton Paradox)
 * **Type:** ⚡ Electric ⚡ / ⛰️ Ground ⛰️
@@ -104,7 +105,7 @@ title: Pokémon Scarlett Roster
 * **Ability:** Protosynthesis (Boosts highest stat in Sun or with Booster Energy)
 * **Held Item:** Booster Energy
 * **Moveset:**
-    * `Tri Attack` (Normal Coverage / Status Chance)
+    * `Tri Attack` (Normal Coverage / Status Chance) / `Volt Switch`
     * `Charge Beam` (Electric STAB / Sp. Atk Boost Chance)
     * `Thunderbolt` / `Thunder Wave` (Status Support / Paralysis)
     * `Earth Power` (Ground STAB / Speed Control)
@@ -123,7 +124,6 @@ title: Pokémon Scarlett Roster
     * `Toxic Spikes` (Poison Support)
     * `Brick Break` (Standard Fighting STAB / Shield Breaker)
     * `U-turn` (Pivoting Coverage)
-
 
 #### [Ursaluna](https://pokemondb.net/pokedex/ursaluna/moves/9) (The Peat Pokémon)
 * **Type:** ⛰️ Ground ⛰️ / ⚪ Normal ⚪
@@ -149,12 +149,305 @@ title: Pokémon Scarlett Roster
 * **Ability:** Mycelium Might (Status moves go last, but ignore opponent abilities)
 * **Held Item:** None
 * **Moveset:**
+    * `Spore` (Guaranteed Sleep)
     * `Giga Drain` (Special Grass STAB)
     * `Earth Power` (Special Ground STAB)
-    * `Spore` (Guaranteed Sleep)
     * `Hex` (Ghost Coverage / Double damage on status) / `Sludge Bomb`
 
+#### [Porygon-Z](https://pokemondb.net/pokedex/porygon-z/moves/9)
+* **Type:** ⚪ Normal ⚪
+* **Tera Type:** ⚪ Normal ⚪ / 👻 Ghost 👻
+* **Weak To:** 🥊 Fighting
+* **Role:** Special Wallbreaker / Nuke
+* **Nature:** Timid (+Speed, -Attack) / Modest (+Sp. Atk, -Attack)
+* **Ability:** Adaptability (Boosts Normal moves from 1.5x to 2x)
+* **Held Item:** Life Orb / Silk Scarf / Focus Sash
+* **Moveset:**
+    * `Tri Attack` (Primary STAB / 20% Status Chance)
+    * `Nasty Plot` (Sharp Sp. Atk Boost)
+    * `Hyper Beam` (High Damage Finisher)
+    * `Shadow Ball` / `Ice Beam` / `Thunderbolt` / `Tera Blast` / `Psychic` / `Dark Pulse` / `Protect` (Free Spot)
+
+
+## 💎 Snow Doubles Roster
+
+![Snow Doubles Roster](./snow_team.png)
+
+#### [Alolan Ninetales](https://pokemondb.net/pokedex/ninetales/moves/9) (The Fox Pokémon)
+* **Type:** ❄️ Ice ❄️ / ✨ Fairy ✨
+* **Tera Type:** ❄️ Ice ❄️
+* **Weak To:** ⚙️ Steel (4x), 🔥 Fire, ☠️ Poison, 💎 Rock
+* **Tera Useful Against:** 🌿 Grass, ⛰️ Ground, 🕊️ Flying, 🐲 Dragon
+* **Role:** Special Setup Sweeper / Snow & Screen Support
+* **Nature:** Modest (+Sp. Atk, -Attack)
+* **Ability:** Snow Warning (Summons Snow upon entering battle)
+* **Held Item:** Light Clay
+* **Moveset:**
+    * `Aurora Veil` (Halves damage from Physical and Special moves)
+    * `Blizzard` (Hits Both Opponenets / High Power Ice STAB / 100% Accuracy in Snow)
+    * `Dazzling Gleam` (Standard Fairy STAB)
+    * `Icy Wind` (Hits Both Opponents / Speed decrease)
+
+#### [Sandslash (Alolan)](https://pokemondb.net/pokedex/sandslash/moves/9) (Shiny)
+* **Type:** ❄️ Ice ❄️ / ⚙️ Steel ⚙️
+* **Tera Type:** ❄️ Ice ❄️
+* **Weak To:** 🔥 Fire (4x), 🥊 Fighting (4x), ⛰️ Ground
+* **Role:** Physical Setup Sweeper / Snow Support
+* **Nature:** Adamant (+Attack, -Sp. Atk)
+* **Ability:** Snow Cloak (Boosts evasion in snow)
+* **Held Item:** King's Rock
+* **Moveset:**
+    * `Icicle Crash` (Physical Ice STAB / Flinch Chance)
+    * `Iron Head` (Physical Steel STAB / Flinch Chance)
+    * `Snowscape` (Weather Setup)
+    * `Rock Slide` (Hits Both Opponents) / `Swords Dance` (Sharp Attack Boost)
+
+#### [Glaceon](https://pokemondb.net/pokedex/glaceon/moves/9)
+* **Type:** ❄️ Ice ❄️
+* **Tera Type:** ❄️ Ice ❄️
+* **Weak To:** 🔥 Fire, 🥊 Fighting, ⛰️ Ground, ⚙️ Steel
+* **Tera Useful Against:** 🌿 Grass, ⛰️ Ground, 🪁 Flying, 🐲 Dragon
+* **Role:** Special Attacker / Snow Support
+* **Nature:** Modest (+Sp. Atk, -Attack)
+* **Ability:** Snow Cloak (Boosts evasion in snow)
+* **Held Item:** Never-Melt Ice
+* **Moveset:**
+    * `Blizzard` (High Power Ice STAB)
+    * `Freeze-Dry` (Ice STAB / Super effective on Water)
+    * `Snowscape` (Weather Setup)
+    * `Icy Wind` (Special Defense Debuff)
+
+#### [Avalugg (Hisuian)](https://pokemondb.net/pokedex/avalugg/moves/9) (Shiny)
+* **Type:** ❄️ Ice ❄️ / ⛰️ Rock ⛰️
+* **Tera Type:** 🥊 Fighting 🥊
+* **Weak To:** 🥊 Fighting (4x), ⚙️ Steel (4x), 🔥 Fire, 💧 Water, ⛰️ Ground, 🌿 Grass
+* **Role:** Physical Tank / Defensive Wallbreaker
+* **Nature:** Impish (+Defense, -Sp. Atk)
+* **Ability:** Ice Body (Heals 1/16 HP every turn in snow)
+* **Held Item:** Leftovers / Rocky Helmet
+* **Moveset:**
+    * `Mountain Gale` (Physical Ice STAB / Flinch Chance)
+    * `Body Press` (Uses Defense to calculate damage)
+    * `Rock Slide` (Hits Both Opponents / Flinch Chance)
+    * `Recover` (Reliable HP Restoration) / `Iron Defense` (Sharp Defense Boost)
+
+#### [Regice](https://pokemondb.net/pokedex/regice/moves/9) (Shiny)
+* **Type:** ❄️ Ice ❄️
+* **Tera Type:** ⚡ Electric ⚡
+* **Weak To:** 🔥 Fire, 🥊 Fighting, ⛰️ Rock, ⚙️ Steel
+* **Role:** Special Tank / Stat Booster
+* **Nature:** Modest (+Sp. Atk, -Attack)
+* **Ability:** Ice Body (Heals in snow) / Clear Body (Prevents stat drops)
+* **Held Item:** Leftovers / Assault Vest
+* **Moveset:**
+    * `Blizzard` (Hits Both Opponents / 100% Accurate in Snow)
+    * `Charge Beam` (Electric Coverage / Chance to Raise Sp. Atk)
+    * `Ancient Power` (Free Spot)
+    * `Focus Blast` / `Tera Blast` / `Thunderbolt` / `Flash Cannon` / `Icy Wind` / `Thunder Wave` / `Protect` (Free Spot)
+
+#### [Articuno](https://pokemondb.net/pokedex/articuno/moves/9) (Shiny)
+* **Type:** ❄️ Ice ❄️ / 🕊️ Flying 🕊️
+* **Tera Type:** ❄️ Ice ❄️ / 💧 Water 💧
+* **Weak To:** ⛰️ Rock (4x), 🔥 Fire, ⚡ Electric, ⚙️ Steel
+* **Role:** Speed Support / OHKO Finisher
+* **Nature:** Timid (+Speed, -Attack)
+* **Ability:** Snow Cloak (Boosts evasion in snow)
+* **Held Item:** Bright Powder / Focus Sash
+* **Moveset:**
+    * `Blizzard` (Hits Both Opponents / 100% Accurate in Snow)
+    * `Tailwind` (Doubles Team Speed for 4 turns)
+    * `Mind Reader` (Next move is guaranteed to hit) / `Freeze Dry` (Water Coverage / Ice STAB)
+    * `Sheer Cold` (One-Shot KO Ice Move) / `Roost`
+
+## 💎 Rain Doubles Roster
+
+![Rain Doubles Roster](./rain_team.png)
+
+#### [Kingdra](https://pokemondb.net/pokedex/kingdra) (The Dragon Pokémon)
+* **Type:** 💧 Water 💧 / 🐲 Dragon 🐲
+* **Tera Type:** 🐲 Dragon 🐲
+* **Weak To:** 🐲 Dragon, ✨ Fairy
+* **Tera Useful Against:** 🐲 Dragon, 💧 Water, 🔥 Fire, ⚡ Electric
+* **Role:** High-Burst Critical Hit Sweeper
+* **Nature:** Modest (+Sp. Atk, -Atk)
+* **Ability:** Sniper (Powers up Critical Hits by 1.5x)
+* **Held Item:** Scope Lens
+* **Moveset:**
+    * `Rain Dance` (Manual weather control; boosts Water moves)
+    * `Draco Meteor` (Massive Dragon STAB / Sniper Crits ignore Sp. Atk drop)
+    * `Muddy Water` (Hits Both Opponents / Rain boosted STAB / Accuracy drop chance)
+    * `Hurricane` (High Power Flying coverage / 100% Accuracy in Rain)
+
+#### [Archaludon](https://pokemondb.net/pokedex/archaludon) (The Alloy Pokémon)
+* **Type:** ⚙️ Steel ⚙️ / 🐲 Dragon 🐲
+* **Tera Type:** 🕊️ Flying 🕊️
+* **Weak To:** 👊 Fighting, ⛰️ Ground
+* **Tera Useful Against:** 🌿 Grass, 👊 Fighting, 🐜 Bug
+* **Role:** Physical Tank / Critical Hit Enabler
+* **Nature:** Modest (+Sp. Atk, -Attack)
+* **Ability:** Stamina (Raises Defense when hit by an attack)
+* **Held Item:** Power Herb
+* **Moveset:**
+    * `Dragon Cheer` (Boosts Ally Critical Hit ratio; +2 stages for Kingdra)
+    * `Electro Shot` (Raises Sp. Atk / Single turn use in Rain / High Power Electric coverage)
+    * `Flash Cannon` (Steel STAB / High consistency)
+    * `Body Press` (Fighting coverage / Damage scales with Stamina Defense boosts)
+
+#### [Zapdos](https://pokemondb.net/pokedex/zapdos) (The Electric Pokémon)
+* **Type:** ⚡ Electric ⚡ / 🕊️ Flying 🕊️
+* **Tera Type:** 💧 Water 💧 or ⚡ Electric ⚡
+* **Weak To:** ❄️ Ice, 💎 Rock
+* **Tera Useful Against:** 🔥 Fire, ⚙️ Steel, ❄️ Ice (Resists Steel/Fire as Water)
+* **Role:** Speed Control / Special Rain Attacker
+* **Nature:** Timid (+Speed, -Attack)
+* **Ability:** Static (Chance to paralyze on contact)
+* **Held Item:** Safety Goggles or Life Orb
+* **Moveset:**
+    * `Thunder` (High Power Electric STAB / 100% Accuracy in Rain)
+    * `Tailwind` (Doubles team speed for 4 turns; vital for Sniper Kingdra)
+    * `Hurricane` (High Power Flying STAB / 100% Accuracy in Rain / Confusion chance)
+    * `Weather Ball` or `Volt Switch` (Water coverage in Rain or pivoting utility)
+
+## Sun Doubles Roster
+
+![Sun Doubles Roster](./sun_team.png)
+
+#### [Ninetales](https://pokemondb.net/pokedex/ninetales) (The Fox Pokémon)
+* **Type:** 🔥 Fire 🔥
+* **Tera Type:** 🔥 Fire (Maximum Damage) or 🌿 Grass (Resists Ground/Rock/Water)
+* **Weak To:** 💧 Water, 🪨 Rock, 🏜️ Ground
+* **Role:** Sun Setter / Disruption Support
+* **Nature:** Timid (+Speed, -Attack)
+* **Ability:** Drought (Sets Sun on entry)
+* **Held Item:** Heat Rock (Extends Sun to 8 turns) or Focus Sash (Survival)
+* **Moveset:**
+    * `Heat Wave` (Spread STAB damage)
+    * `Will-O-Wisp` (Burns physical attackers)
+    * `Solar Beam` (Free Spot)
+    * `Solar Beam` / `Extrasensory` / `Shadow Ball` / `Dark Pulse` / `Protect` / `Helping Hand` (Free Spot)
+
+#### [Venusaur](https://pokemondb.net/pokedex/venusaur) (The Seed Pokémon)
+* **Type:** 🌿 Grass / 👤 Poison 👤
+* **Tera Type:** 🔥 Fire (Boosts Weather Ball) or 🏜️ Ground (Coverage for Steel/Poison)
+* **Weak To:** 🔥 Fire, ❄️ Ice, 🕊️ Flying, 🧠 Psychic
+* **Role:** Chlorophyll Setup Sweeper
+* **Nature:** Modest (+Sp. Atk, -Attack)
+* **Ability:** Chlorophyll (Doubles Speed in Sun)
+* **Held Item:** Life Orb (Power) or Focus Sash (Guarantee Sleep Powder)
+* **Moveset:**
+    * `Solar Beam` (Immediate 120 BP STAB in Sun)
+    * `Sludge Bomb` (Poison STAB for Fairy types)
+    * `Growth` (Raises Atk and Sp. Atk by two stages in Sun)
+    * `Sleep Powder` (Shuts down dangerous threats)
+
+#### [Leafeon](https://pokemondb.net/pokedex/leafeon) (The Verdant Pokémon)
+* **Type:** 🌿 Grass 🌿
+* **Tera Type:** 🔥 Fire (Coverage and Resistance) or 🪨 Rock (Hits Fire/Flying/Bug)
+* **Weak To:** 🔥 Fire, ❄️ Ice, 🕊️ Flying, 🐛 Bug, 👤 Poison
+* **Role:** Physical Setup Sweeper
+* **Nature:** Adamant (+Attack, -Sp. Atk)
+* **Ability:** Chlorophyll (Doubles Speed in Sun)
+* **Held Item:** Clear Amulet (Prevents Intimidate) or Life Orb (Power)
+* **Moveset:**
+    * `Solar Blade` (Immediate 125 BP Physical STAB in Sun)
+    * `Synthesis` (Heals 2/3 Max HP in Sun)
+    * `Razor Leaf` (Spread STAB damage)
+    * `Swords Dance` (Sharply raises Attack)
+
+#### [Moltres](https://pokemondb.net/pokedex/moltres) (The Flame Pokémon)
+* **Type:** 🔥 Fire 🔥 / 🕊️ Flying 🕊️
+* **Tera Type:** 🔥 Fire (Maximum Sun Damage) or 💎 Steel (Defensive Utility)
+* **Weak To:** 🪨 Rock (4x), ⚡ Electric, 💧 Water
+* **Role:** Special Sun Sweeper / Tailwind Supporter
+* **Nature:** Timid (+Speed, -Attack) or Modest (+Sp. Atk, -Attack)
+* **Ability:** Flame Body (30% chance to burn on contact)
+* **Held Item:** Heavy-Duty Boots (Ignore Stealth Rock) or Life Orb (Pure Power)
+* **Moveset:**
+    * `Heat Wave` (Powerful spread STAB boosted by Sun)
+    * `Hurricane` / `Air Slash` (Strong Flying STAB / Higher accuracy)
+    * `Solar Beam` (Immediate 120 BP coverage in Sun)
+    * `Tailwind` / `Protect` (Speed control for the team or safety)
+
+## Electric Terrain Roster
+
+#### [Raging Bolt](https://pokemondb.net/pokedex/raging-bolt/moves/9) (The Paradox Pokémon)
+* **Type:** ⚡ Electric ⚡ / 🐲 Dragon 🐲
+* **Tera Type:** ⚡ Electric ⚡
+* **Weak To:** ⛰️ Ground, ❄️ Ice, 🐲 Dragon, ✨ Fairy
+* **Tera Useful Against:** 💧 Water, 🕊️ Flying
+* **Role:** Special Electric Attacker / Weather & Status Support
+* **Nature:** Modest (+Sp. Atk, -Attack)
+* **Ability:** Protosynthesis (Boosts highest stat in Sun or with Booster Energy)
+* **Held Item:** Shell Bell
+* **Moveset:**
+    * `Thunderclap` (Priority Electric STAB)
+    * `Sunny Day` (Weather Control / Ability Trigger)
+    * `Ancient Power` / `Thunder Wave` (Status Support)
+    * `Charge Beam` (Electric STAB / Sp. Atk Boost Chance)
+
+#### [Iron Crown](https://pokemondb.net/pokedex/iron-crown/moves/9) (The Paradox Pokémon)
+* **Type:** ⚙️ Steel ⚙️ / 🔮 Psychic 🔮
+* **Tera Type:** 💧 Water 💧 / ⚡ Electric ⚡
+* **Weak To:** 🔥 Fire, 🌑 Dark, 👻 Ghost, ⛰️ Ground
+* **Tera Useful Against:** 🔥 Fire, ⛰️ Ground
+* **Role:** High-Speed Special Attacker / Terrain Support
+* **Nature:** Timid (+Speed, -Attack)
+* **Ability:** Quark Drive (Boosts highest stat in Electric Terrain or with Booster Energy)
+* **Held Item:** Booster Energy / Terrain Extender
+* **Moveset:**
+    * `Electric Terrain` (Field Control / Ability Trigger / Raging Bolt Support)
+    * `Tachyon Cutter` (Steel STAB / Hits Twice / Never Misses)
+    * `Psyshock` / `Psychic Noise` (Psychic STAB / Prevents Target Healing)
+    * ` Volt Switch` / `Focus Blast` / `Air Slash` / `Protect` (Free Spot)
+
+#### [Iron Boulder](https://pokemondb.net/pokedex/iron-boulder/moves/9) (The Paradox Pokémon)
+* **Type:** ⛰️ Rock ⛰️ / 🔮 Psychic 🔮
+* **Tera Type:** 👊 Fighting 👊 / 🌑 Dark 🌑
+* **Weak To:** 💧 Water, 🌿 Grass, ⛰️ Ground, 🌑 Dark, 👻 Ghost, 🐛 Bug, ⚙️ Steel
+* **Tera Useful Against:** 🌑 Dark, ⚙️ Steel
+* **Role:** Fast Physical Attacker / Terrain Support / Shield Breaker
+* **Nature:** Jolly (+Speed, -Sp. Atk)
+* **Ability:** Quark Drive (Boosts highest stat in Electric Terrain or with Booster Energy)
+* **Held Item:** Booster Energy / Focus Sash
+* **Moveset:**
+    * `Electric Terrain` (Field Control / Ability Trigger / Raging Bolt Support)
+    * `Mighty Cleave` (Rock STAB / Hits through Protect)
+    * `Psycho Cut` (Psychic STAB)
+    * `Solar Blade` / `Close Combat` (Fighting Coverage / Deletes Steel types)
+
+## Baton Pass Roster
+
+#### [Drifblim](https://pokemondb.net/pokedex/drifblim) (The Blimp Wall)
+* **Type:** 👻 Ghost 👻 / 🎈 Flying 🎈
+* **Tera Type:** 🌿 Grass (Resists Electric/Water/Ground) or 💎 Steel (Immune to Poison/Sandstorm)
+* **Weak To:** ⚡ Electric, ❄️ Ice, ⛰️ Rock, 👻 Ghost, 🌑 Dark
+* **Role:** Evasive Baton Pass Lead / Stall Support
+* **Nature:** Calm (+Sp. Def, -Attack) or Bold (+Defense, -Attack)
+* **Ability:** Unburden (Doubles Speed when the held item is consumed)
+* **Held Item:** Sitrus Berry (For longevity and Unburden activation)
+* **Moveset:**
+    * `Baton Pass` (Pivot / Pass Stat Boosts)
+    * `Strength Sap` (Healing / Attack Debuff)
+    * `Minimize` (Evasion Boost)
+    * `Stockpile` (Defense and Sp. Def Boost)
+
+#### [Vaporeon](https://pokemondb.net/pokedex/vaporeon) (The Bubble Jet)
+* **Type:** 💧 Water 💧
+* **Tera Type:** 🌿 Grass (Absorbs Spore/Grass/Electric) or 💎 Steel (Defensive Utility)
+* **Weak To:** ⚡ Electric, 🌿 Grass
+* **Role:** Defensive Stat Passer / HP Tank
+* **Nature:** Bold (+Defense, -Attack) or Calm (+Sp. Def, -Attack)
+* **Ability:** Water Absorb (Heals when hit by Water moves)
+* **Held Item:** Leftovers (Passive recovery) or Mental Herb (Avoids Taunt)
+* **Moveset:**
+    * `Baton Pass` (Pivot / Pass Stat Boosts and Effects)
+    * `Aqua Ring` (Passive HP Recovery / Passable)
+    * `Acid Armor` (Sharply Raises Defense)
+    * `Substitute` / `Calm Mind` (Protection or Sp. Atk/Sp. Def Boost)
+
 ## 💎 Terra Raid Roster
+
+![Terra Raid Roster](./terra_raid.png)
 
 ### ⚪⚔️ STAB Attacker Normal ⚪
 
@@ -192,21 +485,6 @@ title: Pokémon Scarlett Roster
     * `Swords Dance` (Sharp Attack Boost)
     * `Will-O-Wisp` (Burn Support)
     * `Clear Smog` (Resets Stats)
-
-#### [Gouging Fire](https://pokemondb.net/pokedex/gouging-fire/moves/9) (The Entei Paradox)
-* **Type:** 🔥 Fire 🔥 / 🐲 Dragon 🐲
-* **Tera Type:** 🔥 Fire 🔥
-* **Weak To:** ⛰️ Ground, 💎 Rock, 🐲 Dragon
-* **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel
-* **Role:** Physical Tank / Burn Support / Weather Utility
-* **Nature:** Adamant (+Attack, -Sp. Atk)
-* **Ability:** Protosynthesis (Boosts highest stat in Sun or with Booster Energy)
-* **Held Item:** Leftovers
-* **Moveset:**
-    * `Fire Fang` (Physical Fire STAB / Flinch & Burn Chance)
-    * `Sunny Day` (Weather Control / Ability Trigger)
-    * `Burning Bulwark` (Signature Protection / Burns Contacting Opponents)
-    * `Morning Sun` (Reliable Recovery Scaled by Sun)
 
 #### [Iron Moth](https://pokemondb.net/pokedex/iron-moth/moves/9) (The Volcarona Paradox)
 * **Type:** 🔥 Fire 🔥 / ☠️ Poison ☠️
@@ -554,20 +832,6 @@ title: Pokémon Scarlett Roster
     * `Ice Beam` (High Power Ice STAB)
     * `Snowscape` (Weather Setup)
     * `Fake Tears` (Special Defense Debuff)
-
-#### [Sandslash (Alolan)](https://pokemondb.net/pokedex/sandslash/moves/9) (Shiny)
-* **Type:** ❄️ Ice ❄️ / ⚙️ Steel ⚙️
-* **Tera Type:** ❄️ Ice ❄️
-* **Weak To:** 🔥 Fire (4x), 🥊 Fighting (4x), ⛰️ Ground
-* **Role:** Physical Setup Sweeper / Snow Support
-* **Nature:** Adamant (+Attack, -Sp. Atk)
-* **Ability:** Snow Cloak (Boosts evasion in snow)
-* **Held Item:** King's Rock
-* **Moveset:**
-    * `Icicle Crash` (Physical Ice STAB / Flinch Chance)
-    * `Iron Head` (Physical Steel STAB / Flinch Chance)
-    * `Snowscape` (Weather Setup)
-    * `Swords Dance` (Sharp Attack Boost)
 
 ### ❄️📉 STAB Debuffer Ice ❄️
 -
