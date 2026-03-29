@@ -191,7 +191,7 @@ title: Pokémon Scarlett Roster
 * **Role:** Special Setup Sweeper / Snow & Screen Support
 * **Nature:** Modest (+Sp. Atk, -Attack)
 * **Ability:** Snow Warning (Summons Snow upon entering battle)
-* **Held Item:** Light Clay
+* **Held Item:** Icy Rock / Light Clay
 * **Moveset:**
     * `Aurora Veil` (Halves damage from Physical and Special moves)
     * `Blizzard` (Hits Both Opponenets / High Power Ice STAB / 100% Accuracy in Snow)
@@ -205,7 +205,7 @@ title: Pokémon Scarlett Roster
 * **Role:** Physical Setup Sweeper / Snow Support
 * **Nature:** Adamant (+Attack, -Sp. Atk)
 * **Ability:** Snow Cloak (Boosts evasion in snow)
-* **Held Item:** King's Rock
+* **Held Item:** Leftovers
 * **Moveset:**
     * `Icicle Crash` (Physical Ice STAB / Flinch Chance)
     * `Iron Head` (Physical Steel STAB / Flinch Chance)
@@ -296,12 +296,12 @@ title: Pokémon Scarlett Roster
 * **Role:** Physical Tank / Critical Hit Enabler
 * **Nature:** Modest (+Sp. Atk, -Attack)
 * **Ability:** Stamina (Raises Defense when hit by an attack)
-* **Held Item:** Power Herb
+* **Held Item:** Leftovers / Power Herb
 * **Moveset:**
     * `Dragon Cheer` (Boosts Ally Critical Hit ratio; +2 stages for Kingdra)
     * `Electro Shot` (Raises Sp. Atk / Single turn use in Rain / High Power Electric coverage)
     * `Flash Cannon` (Steel STAB / High consistency)
-    * `Body Press` (Fighting coverage / Damage scales with Stamina Defense boosts)
+    * `Body Press` (Fighting coverage / Damage scales with Stamina Defense boosts) / `Breaking Swipe`
 
 #### [Zapdos](https://pokemondb.net/pokedex/zapdos) (The Electric Pokémon)
 * **Type:** ⚡ Electric ⚡ / 🕊️ Flying 🕊️
