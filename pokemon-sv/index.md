@@ -36,7 +36,7 @@ title: Pokémon Scarlett Roster
 #### [Gallade](https://pokemondb.net/pokedex/gallade/moves/9) (The Capture Specialist)
 * **Type:** 🔮 Psychic 🔮 / 🥊 Fighting 🥊
 * **Tera Type:** 🌿 Grass 🌿
-* **Weak To:** 🕊️ Flying, 👻 Ghost, ✨ Fairy
+* **Weak To:** 🌪️ Flying, 👻 Ghost, ✨ Fairy
 * **Role:** Wild Catching / Utility
 * **Nature:** Jolly (+Speed, -Sp. Atk)
 * **Ability:** Justified (Boosts Attack when hit by a Dark-type move)
@@ -94,7 +94,7 @@ title: Pokémon Scarlett Roster
 #### [Sneasler](https://pokemondb.net/pokedex/sneasler/moves/9) (Toxic Spike Setter)
 * **Type:** 🥊 Fighting 🥊 / ☠️ Poison ☠️
 * **Tera Type:** 🥊 Fighting 🥊
-* **Weak To:** 🔮 Psychic (4x), 🕊️ Flying, ⛰️ Ground
+* **Weak To:** 🔮 Psychic (4x), 🌪️ Flying, ⛰️ Ground
 * **Tera Useful Against:** ⚪ Normal, ❄️ Ice, 💎 Rock, 🌙 Dark, ⚙️ Steel
 * **Role:** Physical Status Inflictor / Pivot
 * **Nature:** Adamant (+Attack, -Sp. Atk)
@@ -106,7 +106,7 @@ title: Pokémon Scarlett Roster
     * `Brick Break` (Standard Fighting STAB / Shield Breaker)
     * `U-turn` (Pivoting Coverage)
 
-#### [Toedscruel](https://pokemondb.net/pokedex/toedscruel/moves/9)
+#### [Toedscruel](https://pokemondb.net/pokedex/toedscruel/moves/9) (The Fungal Speedster)
 * **Type:** ⛰️ Ground ⛰️ / 🌿 Grass 🌿
 * **Tera Type:** 🌿 Grass 🌿
 * **Weak To:** ❄️ Ice (4x), 🔥 Fire, 🪁 Flying, 🐜 Bug
@@ -124,7 +124,7 @@ title: Pokémon Scarlett Roster
 * **Type:** ⚙️ Steel ⚙️ / ☠️ Poison ☠️
 * **Tera Type:** ⚡ Electric ⚡ / 🔥 Fire 🔥
 * **Weak To:** ⛰️ Ground (4x), 🔥 Fire
-* **Tera Useful Against:** 💧 Water, 🕊️ Flying, ⚙️ Steel, ❄️ Ice
+* **Tera Useful Against:** 💧 Water, 🌪️ Flying, ⚙️ Steel, ❄️ Ice
 * **Role:** Physical Setup Sweeper / Terrain Support / Pivot
 * **Nature:** Adamant (+Attack, -Sp. Atk)
 * **Ability:** Filter (Reduces super-effective damage)
@@ -143,7 +143,7 @@ title: Pokémon Scarlett Roster
 * **Type:** ❄️ Ice ❄️ / ✨ Fairy ✨
 * **Tera Type:** ❄️ Ice ❄️
 * **Weak To:** ⚙️ Steel (4x), 🔥 Fire, ☠️ Poison, 💎 Rock
-* **Tera Useful Against:** 🌿 Grass, ⛰️ Ground, 🕊️ Flying, 🐲 Dragon
+* **Tera Useful Against:** 🌿 Grass, ⛰️ Ground, 🌪️ Flying, 🐲 Dragon
 * **Role:** Special Setup Sweeper / Snow & Screen Support
 * **Nature:** Modest (+Sp. Atk, -Attack)
 * **Ability:** Snow Warning (Summons Snow upon entering battle)
@@ -198,7 +198,7 @@ title: Pokémon Scarlett Roster
     * `Focus Blast` / `Snowscape` /  `Tera Blast` / `Thunderbolt` / `Flash Cannon` / `Icy Wind` / `Thunder Wave` / `Protect` (Free Spot)
 
 #### [Articuno](https://pokemondb.net/pokedex/articuno/moves/9) (Shiny)
-* **Type:** ❄️ Ice ❄️ / 🕊️ Flying 🕊️
+* **Type:** ❄️ Ice ❄️ / 🌪️ Flying 🌪️
 * **Tera Type:** ❄️ Ice ❄️ / 💧 Water 💧
 * **Weak To:** ⛰️ Rock (4x), 🔥 Fire, ⚡ Electric, ⚙️ Steel
 * **Role:** Speed Support / OHKO Finisher
@@ -215,7 +215,7 @@ title: Pokémon Scarlett Roster
 * **Type:** 🐛 Bug 🐛 / ❄️ Ice ❄️
 * **Tera Type:** ❄️ Ice ❄️
 * **Weak To:** 🔥 Fire (4x), 💎 Rock (4x), 🥊 Fighting, ⚙️ Steel
-* **Tera Useful Against:** ⛰️ Ground, 🕊️ Flying, 🌿 Grass, 🐲 Dragon
+* **Tera Useful Against:** ⛰️ Ground, 🌪️ Flying, 🌿 Grass, 🐲 Dragon
 * **Role:** Snow Sweeper / Special Tank / Setup
 * **Nature:** Modest (+Sp. Atk, -Attack)
 * **Ability:** Ice Scales (Halves damage from special moves)
@@ -247,7 +247,7 @@ title: Pokémon Scarlett Roster
 
 #### [Archaludon](https://pokemondb.net/pokedex/archaludon) (The Alloy Pokémon)
 * **Type:** ⚙️ Steel ⚙️ / 🐲 Dragon 🐲
-* **Tera Type:** 🕊️ Flying 🕊️
+* **Tera Type:** 🌪️ Flying 🌪️
 * **Weak To:** 👊 Fighting, ⛰️ Ground
 * **Tera Useful Against:** 🌿 Grass, 👊 Fighting, 🐜 Bug
 * **Role:** Physical Tank / Critical Hit Enabler
@@ -261,7 +261,7 @@ title: Pokémon Scarlett Roster
     * `Body Press` (Fighting coverage / Damage scales with Stamina Defense boosts) / `Breaking Swipe`
 
 #### [Zapdos](https://pokemondb.net/pokedex/zapdos) (The Electric Pokémon)
-* **Type:** ⚡ Electric ⚡ / 🕊️ Flying 🕊️
+* **Type:** ⚡ Electric ⚡ / 🌪️ Flying 🌪️
 * **Tera Type:** 💧 Water 💧 or ⚡ Electric ⚡
 * **Weak To:** ❄️ Ice, 💎 Rock
 * **Tera Useful Against:** 🔥 Fire, ⚙️ Steel, ❄️ Ice (Resists Steel/Fire as Water)
@@ -281,7 +281,7 @@ title: Pokémon Scarlett Roster
 * **Weak To:** 🐲 Dragon, ✨ Fairy, ❄️ Ice
 * **Role:** Special Tank / Rain Utility Attacker
 * **Nature:** Modest (+Sp. Atk, -Atk) or Calm (+Sp. Def, -Atk)
-* **Ability:** Hydration (Heals status conditions at the end of each turn in rain) or Sap Sipper (Immunity to Grass moves)
+* **Ability:** Hydration (Heals status conditions at the end of each turn in rain) / Sap Sipper (Immunity to Grass moves)
 * **Held Item:** Leftovers or Assault Vest (For maximum special bulk)
 * **Moveset:**
     * `Rain Dance`
@@ -295,7 +295,7 @@ title: Pokémon Scarlett Roster
 * **Weak To:** 👊 Fighting, ⛰️ Ground
 * **Role:** Special Tank / Rain Utility Attacker
 * **Nature:** Modest (+Sp. Atk, -Atk) or Quiet (+Sp. Atk, -Speed)
-* **Ability:** **Hydration** (Heals all status conditions at the end of each turn while it is raining)
+* **Ability:** Hydration (Heals all status conditions at the end of each turn while it is raining)
 * **Held Item:** Leftovers or Assault Vest (For extreme special bulk)
 * **Moveset:**
     * `Rain Dance` / `Shelter` (Signature move; raises Defense by two stages)
@@ -325,7 +325,7 @@ title: Pokémon Scarlett Roster
 #### [Venusaur](https://pokemondb.net/pokedex/venusaur/moves/9) (The Seed Pokémon)
 * **Type:** 🌿 Grass 🌿 / ☠️ Poison ☠️
 * **Tera Type:** 🔥 Fire 🔥 (Boosts Weather Ball) / ⛰️ Ground ⛰️ (Coverage for Steel/Poison)
-* **Weak To:** 🔥 Fire, ❄️ Ice, 🕊️ Flying, 🔮 Psychic
+* **Weak To:** 🔥 Fire, ❄️ Ice, 🌪️ Flying, 🔮 Psychic
 * **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel, ⚡ Electric, ☠️ Poison, 💎 Rock
 * **Role:** Special Chlorophyll Setup Sweeper
 * **Nature:** Modest (+Sp. Atk, -Attack)
@@ -340,8 +340,8 @@ title: Pokémon Scarlett Roster
 #### [Leafeon](https://pokemondb.net/pokedex/leafeon/moves/9) (The Verdant Pokémon)
 * **Type:** 🌿 Grass 🌿
 * **Tera Type:** 🔥 Fire 🔥 (Coverage and Resistance) / 💎 Rock 💎 (Hits Fire/Flying/Bug)
-* **Weak To:** 🔥 Fire, ❄️ Ice, 🕊️ Flying, 🐛 Bug, ☠️ Poison
-* **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel, 🔥 Fire, 🕊️ Flying
+* **Weak To:** 🔥 Fire, ❄️ Ice, 🌪️ Flying, 🐛 Bug, ☠️ Poison
+* **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel, 🔥 Fire, 🌪️ Flying
 * **Role:** Physical Setup Sweeper
 * **Nature:** Adamant (+Attack, -Sp. Atk)
 * **Ability:** Chlorophyll (Doubles Speed in Sun)
@@ -353,7 +353,7 @@ title: Pokémon Scarlett Roster
     * `Swords Dance` (Sharply raises Attack) / `Sunny Day`
 
 #### [Moltres](https://pokemondb.net/pokedex/moltres/moves/9) (The Flame Pokémon)
-* **Type:** 🔥 Fire 🔥 / 🕊️ Flying 🕊️
+* **Type:** 🔥 Fire 🔥 / 🌪️ Flying 🌪️
 * **Tera Type:** 🔥 Fire 🔥 (Maximum Sun Damage) / ⚙️ Steel ⚙️ (Defensive Utility)
 * **Weak To:** 💎 Rock (4x), ⚡ Electric, 💧 Water
 * **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel, 💎 Rock, ✨ Fairy
@@ -370,7 +370,7 @@ title: Pokémon Scarlett Roster
 #### [Volcarona](https://pokemondb.net/pokedex/volcarona/moves/9) (The Sun Moth)
 * **Type:** 🐛 Bug 🐛 / 🔥 Fire 🔥
 * **Tera Type:** 🔥 Fire 🔥 (Maximum Power)
-* **Weak To:** 💎 Rock (4x), 💧 Water, 🕊️ Flying
+* **Weak To:** 💎 Rock (4x), 💧 Water, 🌪️ Flying
 * **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel
 * **Role:** Sun Sweeper / Sp. Atk Setup / Sustain
 * **Nature:** Modest (+Sp. Atk, -Attack)
@@ -418,7 +418,7 @@ title: Pokémon Scarlett Roster
 * **Type:** ⚡ Electric ⚡ / 🐲 Dragon 🐲
 * **Tera Type:** ⚡ Electric ⚡
 * **Weak To:** ⛰️ Ground, ❄️ Ice, 🐲 Dragon, ✨ Fairy
-* **Tera Useful Against:** 💧 Water, 🕊️ Flying
+* **Tera Useful Against:** 💧 Water, 🌪️ Flying
 * **Role:** Special Electric Attacker / Weather & Status Support
 * **Nature:** Modest (+Sp. Atk, -Attack)
 * **Ability:** Protosynthesis (Boosts highest stat in Sun or with Booster Energy)
@@ -594,7 +594,7 @@ title: Pokémon Scarlett Roster
 #### [Sinistcha](https://pokemondb.net/pokedex/sinistcha/moves/9) (The Matcha Pokémon)
 * **Type:** 🌿 Grass 🌿 / 👻 Ghost 👻
 * **Tera Type:** 🌿 Grass 🌿
-* **Weak To:** 🔥 Fire, ❄️ Ice, 🕊️ Flying, 👻 Ghost, 🌙 Dark
+* **Weak To:** 🔥 Fire, ❄️ Ice, 🌪️ Flying, 👻 Ghost, 🌙 Dark
 * **Tera Useful Against:** 💧 Water, ⛰️ Ground, 💎 Rock
 * **Role:** Special Sustain Attacker / Attack Debuffer
 * **Nature:** Timid (+Speed, -Attack)
@@ -607,8 +607,9 @@ title: Pokémon Scarlett Roster
     * `Strength Sap` (Healing / Lowers Opponent's Attack) / `Trick Room`
 
 #### [Kommo-o](https://pokemondb.net/pokedex/kommo-o) (The Clangorous Sweeper)
-* **Type:** 🐲 Dragon / 🥊 Fighting
-* **Tera Type:** ⚪ Normal (Boosts Boomburst) or 🥊 Fighting (Boosts Close Combat)
+* **Type:** 🐲 Dragon 🐲 / 🥊 Fighting 🥊
+* **Tera Type:** ⚪ Normal ⚪ (Boosts Boomburst) or 🥊 Fighting 🥊 (Boosts Close Combat)
+* **Weak To:** ✨ Fairy (4x), 🐲 Dragon, 🔮 Psychic, 🌪️ Flying, ❄️ Ice
 * **Role:** Mixed Setup Sweeper
 * **Nature:** Naive (+Speed, -Sp. Def)
 * **Ability:** Soundproof (Immunity to sound moves) or Bulletproof (Immunity to ball/bomb moves)
@@ -636,9 +637,9 @@ title: Pokémon Scarlett Roster
 ## 🏃 Baton Pass Roster
 
 #### [Drifblim](https://pokemondb.net/pokedex/drifblim) (The Blimp Wall)
-* **Type:** 👻 Ghost 👻 / 🎈 Flying 🎈
-* **Tera Type:** 🌿 Grass (Resists Electric/Water/Ground) or 💎 Steel (Immune to Poison/Sandstorm)
-* **Weak To:** ⚡ Electric, ❄️ Ice, ⛰️ Rock, 👻 Ghost, 🌑 Dark
+* **Type:** 👻 Ghost 👻 / 🌪️ Flying 🌪️
+* **Tera Type:** 🌿 Grass 🌿 (Resists Electric/Water/Ground) or ⚙️ Steel ⚙️ (Immune to Poison/Sandstorm)
+* **Weak To:** ⚡ Electric, ❄️ Ice, 💎 Rock, 👻 Ghost, 🌙 Dark
 * **Role:** Evasive Baton Pass Lead / Stall Support
 * **Nature:** Calm (+Sp. Def, -Attack) or Bold (+Defense, -Attack)
 * **Ability:** Unburden (Doubles Speed when the held item is consumed)
@@ -882,7 +883,7 @@ title: Pokémon Scarlett Roster
 * **Type:** ⚡ Electric ⚡
 * **Tera Type:** ⚡ Electric ⚡
 * **Weak To:** ⛰️ Ground
-* **Tera Useful Against:** 💧 Water, 🕊️ Flying
+* **Tera Useful Against:** 💧 Water, 🌪️ Flying
 * **Role:** STAB Sustain Electric / Debuffer
 * **Nature:** Modest (+Sp. Atk, -Attack)
 * **Ability:** Electromorphosis (Boosts Electric moves when hit by an attack)
@@ -897,7 +898,7 @@ title: Pokémon Scarlett Roster
 * **Type:** ⚡ Electric ⚡ / 🐲 Dragon 🐲
 * **Tera Type:** ⚡ Electric ⚡
 * **Weak To:** ⛰️ Ground
-* **Tera Useful Against:** 💧 Water, 🕊️ Flying
+* **Tera Useful Against:** 💧 Water, 🌪️ Flying
 * **Role:** Special Electric Sweeper / Terrain Setter
 * **Nature:** Modest (+Sp. Atk, -Attack)
 * **Ability:** Hadron Engine (Sets Electric Terrain and boosts Sp. Atk)
@@ -912,7 +913,7 @@ title: Pokémon Scarlett Roster
 * **Type:** ⚡ Electric ⚡ / ☠️ Poison ☠️
 * **Tera Type:** ⚡ Electric ⚡
 * **Weak To:** ⛰️ Ground (4x), 🔮 Psychic
-* **Tera Useful Against:** 💧 Water, 🕊️ Flying
+* **Tera Useful Against:** 💧 Water, 🌪️ Flying
 * **Role:** STAB Electric Special Attacker / Sp. Def Debuffer / Paralysis
 * **Nature:** Modest (+Sp. Atk, -Attack)
 * **Ability:** Technician (Powers up weak moves)
@@ -946,7 +947,7 @@ title: Pokémon Scarlett Roster
 #### [Lurantis](https://pokemondb.net/pokedex/lurantis/moves/9) (The Bloom Sickle)
 * **Type:** 🌿 Grass 🌿
 * **Tera Type:** 🌿 Grass 🌿
-* **Weak To:** 🔥 Fire, ❄️ Ice, ☠️ Poison, 🕊️ Flying, 🐛 Bug
+* **Weak To:** 🔥 Fire, ❄️ Ice, ☠️ Poison, 🌪️ Flying, 🐛 Bug
 * **Tera Useful Against:** 💧 Water, ⛰️ Ground, 💎 Rock
 * **Role:** Special Contrary Sweeper / Sustain Tank
 * **Nature:** Modest (+Sp. Atk, -Attack)
@@ -961,7 +962,7 @@ title: Pokémon Scarlett Roster
 #### [Ogerpon](https://pokemondb.net/pokedex/ogerpon/moves/9) (The Mask Pokémon)
 * **Type:** 🌿 Grass 🌿
 * **Tera Type:** 🌿 Grass 🌿
-* **Weak To:** 🔥 Fire, ❄️ Ice, 🕊️ Flying, 🐛 Bug, ☠️ Poison
+* **Weak To:** 🔥 Fire, ❄️ Ice, 🌪️ Flying, 🐛 Bug, ☠️ Poison
 * **Tera Useful Against:** 💧 Water, ⛰️ Ground, 💎 Rock
 * **Role:** Physical Setup Sweeper / Critical Hit Utility
 * **Nature:** Adamant (+Attack, -Sp. Atk)
@@ -976,7 +977,7 @@ title: Pokémon Scarlett Roster
 #### [Wo-Chien](https://pokemondb.net/pokedex/wo-chien/moves/9) (The Tablet Tank)
 * **Type:** 🌙 Dark 🌙 / 🌿 Grass 🌿
 * **Tera Type:** 🌿 Grass 🌿
-* **Weak To:** 🐛 Bug (4x), 🔥 Fire, ❄️ Ice, 🥊 Fighting, ☠️ Poison, 🕊️ Flying, ✨ Fairy
+* **Weak To:** 🐛 Bug (4x), 🔥 Fire, ❄️ Ice, 🥊 Fighting, ☠️ Poison, 🌪️ Flying, ✨ Fairy
 * **Tera Useful Against:** 💧 Water, ⛰️ Ground, 💎 Rock
 * **Role:** Passive Attack Nerfer / Sustain Tank
 * **Nature:** Impish (+Defense, -Sp. Atk)
@@ -993,7 +994,7 @@ title: Pokémon Scarlett Roster
 #### [Appletun](https://pokemondb.net/pokedex/appletun/moves/9) (The Nectar Dragon)
 * **Type:** 🌿 Grass 🌿 / 🐲 Dragon 🐲
 * **Tera Type:** 🌿 Grass 🌿
-* **Weak To:** ❄️ Ice (4x), 🕊️ Flying, ☠️ Poison, 🐛 Bug, 🐲 Dragon, ✨ Fairy
+* **Weak To:** ❄️ Ice (4x), 🌪️ Flying, ☠️ Poison, 🐛 Bug, 🐲 Dragon, ✨ Fairy
 * **Tera Useful Against:** 💧 Water, ⛰️ Ground, 💎 Rock
 * **Role:** Special Defense Debuffer / Defensive Wall
 * **Nature:** Modest (+Sp. Atk, -Attack)
@@ -1008,7 +1009,7 @@ title: Pokémon Scarlett Roster
 #### [Flapple](https://pokemondb.net/pokedex/flapple/moves/9) (The Tart Tank)
 * **Type:** 🌿 Grass 🌿 / 🐲 Dragon 🐲
 * **Tera Type:** 🌿 Grass 🌿
-* **Weak To:** ❄️ Ice (4x), 🕊️ Flying, ☠️ Poison, 🐛 Bug, 🐲 Dragon, ✨ Fairy
+* **Weak To:** ❄️ Ice (4x), 🌪️ Flying, ☠️ Poison, 🐛 Bug, 🐲 Dragon, ✨ Fairy
 * **Tera Useful Against:** 💧 Water, ⛰️ Ground, 💎 Rock
 * **Role:** Physical Defense Debuffer / Sustainability
 * **Nature:** Impish (+Defense, -Sp. Atk)
@@ -1023,7 +1024,7 @@ title: Pokémon Scarlett Roster
 ####  [Tsareena](https://pokemondb.net/pokedex/tsareena/moves/9) (The Trop Queen)
 * **Type:** 🌿 Grass 🌿
 * **Tera Type:** 🌿 Grass 🌿
-* **Weak To:** 🔥 Fire, ❄️ Ice, ☠️ Poison, 🕊️ Flying, 🐛 Bug
+* **Weak To:** 🔥 Fire, ❄️ Ice, ☠️ Poison, 🌪️ Flying, 🐛 Bug
 * **Tera Useful Against:** 💧 Water, ⛰️ Ground, 💎 Rock
 * **Role:** STAB Grass Attack Debuffer / Sleep Guard
 * **Nature:** Adamant (+Attack, -Sp. Atk)
@@ -1041,7 +1042,7 @@ title: Pokémon Scarlett Roster
 * **Type:** ❄️ Ice ❄️ / ✨ Fairy ✨
 * **Tera Type:** ❄️ Ice ❄️
 * **Weak To:** ⚙️ Steel (4x), 🔥 Fire, ☠️ Poison, 💎 Rock
-* **Tera Useful Against:** 🌿 Grass, ⛰️ Ground, 🕊️ Flying, 🐲 Dragon
+* **Tera Useful Against:** 🌿 Grass, ⛰️ Ground, 🌪️ Flying, 🐲 Dragon
 * **Role:** Special Setup Sweeper / Snow & Screen Support
 * **Nature:** Modest (+Sp. Atk, -Attack)
 * **Ability:** Snow Warning (Summons Snow upon entering battle)
@@ -1052,7 +1053,7 @@ title: Pokémon Scarlett Roster
     * `Aurora Veil` (Halves damage from Physical and Special moves)
     * `Nasty Plot` (Sharp Sp. Atk Boost)
 
-#### [Glaceon](https://pokemondb.net/pokedex/glaceon/moves/9)
+#### [Glaceon](https://pokemondb.net/pokedex/glaceon/moves/9) (The Frozen Mirror)
 * **Type:** ❄️ Ice ❄️
 * **Tera Type:** ❄️ Ice ❄️
 * **Weak To:** 🔥 Fire, 🥊 Fighting, ⛰️ Ground, ⚙️ Steel
@@ -1075,7 +1076,7 @@ title: Pokémon Scarlett Roster
 #### [Annihilape](https://pokemondb.net/pokedex/annihilape/moves/9) (The Raging Monkey)
 * **Type:** 🥊 Fighting 🥊 / 👻 Ghost 👻
 * **Tera Type:** 🥊 Fighting 🥊
-* **Weak To:** 🕊️ Flying, 🔮 Psychic, 👻 Ghost, ✨ Fairy
+* **Weak To:** 🌪️ Flying, 🔮 Psychic, 👻 Ghost, ✨ Fairy
 * **Tera Useful Against:** ⚪ Normal, ❄️ Ice, 💎 Rock, 🌙 Dark, ⚙️ Steel
 * **Role:** Physical Attacker / Flinch Protection
 * **Nature:** Adamant (+Attack, -Sp. Atk)
@@ -1120,7 +1121,7 @@ title: Pokémon Scarlett Roster
 #### [Koraidon](https://pokemondb.net/pokedex/koraidon/moves/9) (The Winged King)
 * **Type:** 🥊 Fighting 🥊 / 🐲 Dragon 🐲
 * **Tera Type:** 🥊 Fighting 🥊
-* **Weak To:** ✨ Fairy (4x), 🕊️ Flying, 🔮 Psychic, 🐲 Dragon, ❄️ Ice
+* **Weak To:** ✨ Fairy (4x), 🌪️ Flying, 🔮 Psychic, 🐲 Dragon, ❄️ Ice
 * **Tera Useful Against:** ⚪ Normal, ❄️ Ice, 💎 Rock, 🌙 Dark, ⚙️ Steel
 * **Role:** Physical Fighting Sweeper / Sun Setter
 * **Nature:** Adamant (+Attack, -Sp. Atk)
@@ -1136,9 +1137,9 @@ title: Pokémon Scarlett Roster
 ### 🥊📉 STAB Debuffer Fighting 🥊
 
 #### [Galarian Zapdos](https://pokemondb.net/pokedex/zapdos/moves/9) (The Thunderous Kicker)
-* **Type:** 🥊 Fighting 🥊 / 🕊️ Flying 🕊️
+* **Type:** 🥊 Fighting 🥊 / 🌪️ Flying 🌪️
 * **Tera Type:** 🥊 Fighting 🥊
-* **Weak To:** 🕊️ Flying, ⚡ Electric, 🔮 Psychic, ❄️ Ice, ✨ Fairy
+* **Weak To:** 🌪️ Flying, ⚡ Electric, 🔮 Psychic, ❄️ Ice, ✨ Fairy
 * **Tera Useful Against:** ⚪ Normal, ❄️ Ice, 💎 Rock, 🌙 Dark, ⚙️ Steel
 * **Role:** STAB Fighting Physical Attacker / Defense Debuffer
 * **Nature:** Adamant (+Attack, -Sp. Atk)
@@ -1224,8 +1225,8 @@ title: Pokémon Scarlett Roster
 ### 🌪️⚔️ STAB Attacker Flying 🌪️
 
 #### [Rayquaza](https://pokemondb.net/pokedex/rayquaza/moves/9) (The Sky High Striker)
-* **Type:** 🐲 Dragon 🐲 / 🕊️ Flying 🕊️
-* **Tera Type:** 🕊️ Flying 🌪️
+* **Type:** 🐲 Dragon 🐲 / 🌪️ Flying 🌪️
+* **Tera Type:** 🌪️ Flying 🌪️
 * **Weak To:** ❄️ Ice (4x), 💎 Rock, 🐲 Dragon, ✨ Fairy
 * **Tera Useful Against:** 🌿 Grass, 🥊 Fighting, 🐛 Bug
 * **Role:** Physical Sweeper / Weather Nullifier
@@ -1259,7 +1260,7 @@ title: Pokémon Scarlett Roster
 ### 🔮⚔️ STAB Attacker Psychic 🔮
 
 #### [Articuno (Galarian)](https://pokemondb.net/pokedex/articuno/moves/9) (The Cruel Pokémon)
-* **Type:** 🔮 Psychic 🔮 / 🕊️ Flying 🕊️
+* **Type:** 🔮 Psychic 🔮 / 🌪️ Flying 🌪️
 * **Tera Type:** 🔮 Psychic 🔮
 * **Weak To:** 🐛 Bug, 👻 Ghost, 🌙 Dark
 * **Tera Useful Against:** 🥊 Fighting, ☠️ Poison
@@ -1358,7 +1359,7 @@ title: Pokémon Scarlett Roster
 #### [Slither Wing](https://pokemondb.net/pokedex/slither-wing/moves/9) (The Sunny Striker)
 * **Type:** 🐛 Bug 🐛 / 🥊 Fighting 🥊
 * **Tera Type:** 🐛 Bug 🐛
-* **Weak To:** 🕊️ Flying (4x), 🔥 Fire, 🔮 Psychic, ✨ Fairy
+* **Weak To:** 🌪️ Flying (4x), 🔥 Fire, 🔮 Psychic, ✨ Fairy
 * **Tera Useful Against:** 🌿 Grass, 🔮 Psychic, 🌙 Dark
 * **Role:** STAB Bug Attack Debuffer / Sun Setter
 * **Nature:** Adamant (+Attack, -Sp. Atk)
@@ -1373,7 +1374,7 @@ title: Pokémon Scarlett Roster
 #### [Volcarona](https://pokemondb.net/pokedex/volcarona/moves/9) (The Sun Moth)
 * **Type:** 🐛 Bug 🐛 / 🔥 Fire 🔥
 * **Tera Type:** 🐛 Bug 🐛
-* **Weak To:** 💎 Rock (4x), 💧 Water, 🕊️ Flying
+* **Weak To:** 💎 Rock (4x), 💧 Water, 🌪️ Flying
 * **Tera Useful Against:** 🌿 Grass, 🔮 Psychic, 🌙 Dark
 * **Role:** Special Tank / Sp. Def Buffer / Sustain
 * **Nature:** Modest (+Sp. Atk, -Attack)
@@ -1391,7 +1392,7 @@ title: Pokémon Scarlett Roster
 * **Type:** 💎 Rock 💎 / ⚡ Electric ⚡
 * **Tera Type:** 💎 Rock 💎
 * **Weak To:** ⛰️ Ground (4x), 🥊 Fighting, 💧 Water, 🌿 Grass
-* **Tera Useful Against:** 🔥 Fire, ❄️ Ice, 🕊️ Flying, 🐛 Bug
+* **Tera Useful Against:** 🔥 Fire, ❄️ Ice, 🌪️ Flying, 🐛 Bug
 * **Role:** Physical Setup Sweeper / Terrain Support
 * **Nature:** Adamant (+Attack, -Sp. Atk)
 * **Ability:** Quark Drive (Boosts highest stat in Electric Terrain)
@@ -1410,7 +1411,7 @@ title: Pokémon Scarlett Roster
 #### [Annihilape](https://pokemondb.net/pokedex/annihilape/moves/9) (The Rage Monkey)
 * **Type:** 🥊 Fighting 🥊 / 👻 Ghost 👻
 * **Tera Type:** 👻 Ghost 👻
-* **Weak To:** 🕊️ Flying, 🔮 Psychic, 👻 Ghost, ✨ Fairy
+* **Weak To:** 🌪️ Flying, 🔮 Psychic, 👻 Ghost, ✨ Fairy
 * **Tera Useful Against:** 🔮 Psychic, 👻 Ghost
 * **Role:** Physical Ramp-Up Attacker / Stat Drop Punisher
 * **Nature:** Adamant (+Attack, -Sp. Atk)
@@ -1495,7 +1496,7 @@ title: Pokémon Scarlett Roster
     * `Electric Terrain` (Ability Trigger)
 
 #### [Galarian Moltres](https://pokemondb.net/pokedex/moltres/moves/9) (The Malevolent Bird)
-* **Type:** 🌙 Dark 🌙 / 🕊️ Flying 🕊️
+* **Type:** 🌙 Dark 🌙 / 🌪️ Flying 🌪️
 * **Tera Type:** 🌙 Dark 🌙
 * **Weak To:** ⚡ Electric, ❄️ Ice, 💎 Rock, ✨ Fairy
 * **Tera Useful Against:** 🔮 Psychic, 👻 Ghost
