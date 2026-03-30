@@ -307,14 +307,15 @@ title: Pokémon Scarlett Roster
 
 ![Sun Doubles Roster](./sun_team.png)
 
-#### [Ninetales](https://pokemondb.net/pokedex/ninetales) (The Fox Pokémon)
+#### [Ninetales](https://pokemondb.net/pokedex/ninetales/moves/9) (The Fox Pokémon)
 * **Type:** 🔥 Fire 🔥
-* **Tera Type:** 🔥 Fire (Maximum Damage) or 🌿 Grass (Resists Ground/Rock/Water)
-* **Weak To:** 💧 Water, 🪨 Rock, 🏜️ Ground
+* **Tera Type:** 🔥 Fire 🔥 (Maximum Damage) / 🌿 Grass 🌿 (Resists Ground/Rock/Water)
+* **Weak To:** 💧 Water, 💎 Rock, ⛰️ Ground
+* **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel, 💧 Water, ⛰️ Ground, 💎 Rock
 * **Role:** Sun Setter / Disruption Support
 * **Nature:** Timid (+Speed, -Attack)
 * **Ability:** Drought (Sets Sun on entry)
-* **Held Item:** Heat Rock (Extends Sun to 8 turns) or Focus Sash (Survival)
+* **Held Item:** Heat Rock (Extends Sun to 8 turns) / Focus Sash (Survival)
 * **Moveset:**
     * `Heat Wave` (Spread STAB damage)
     * `Will-O-Wisp` (Burns physical attackers)
@@ -323,71 +324,73 @@ title: Pokémon Scarlett Roster
 
 #### [Venusaur](https://pokemondb.net/pokedex/venusaur/moves/9) (The Seed Pokémon)
 * **Type:** 🌿 Grass 🌿 / ☠️ Poison ☠️
-* **Tera Type:** 🔥 Fire 🔥 / ⛰️ Ground ⛰️
+* **Tera Type:** 🔥 Fire 🔥 (Boosts Weather Ball) / ⛰️ Ground ⛰️ (Coverage for Steel/Poison)
 * **Weak To:** 🔥 Fire, ❄️ Ice, 🕊️ Flying, 🔮 Psychic
 * **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel, ⚡ Electric, ☠️ Poison, 💎 Rock
 * **Role:** Special Chlorophyll Setup Sweeper
 * **Nature:** Modest (+Sp. Atk, -Attack)
 * **Ability:** Chlorophyll (Doubles Speed in Sun)
-* **Held Item:** Life Orb / Focus Sash
+* **Held Item:** Life Orb (Power) / Focus Sash (Guarantee Sleep Powder)
 * **Moveset:**
     * `Solar Beam` (Immediate 120 BP STAB in Sun)
     * `Sludge Bomb` (Poison STAB / Fairy Coverage) / `Sunny Day`
     * `Growth` (Sharp Attack and Sp. Atk Boost in Sun)
     * `Sleep Powder` (Inflicts Sleep)
 
-#### [Leafeon](https://pokemondb.net/pokedex/leafeon) (The Verdant Pokémon)
+#### [Leafeon](https://pokemondb.net/pokedex/leafeon/moves/9) (The Verdant Pokémon)
 * **Type:** 🌿 Grass 🌿
-* **Tera Type:** 🔥 Fire (Coverage and Resistance) or 🪨 Rock (Hits Fire/Flying/Bug)
-* **Weak To:** 🔥 Fire, ❄️ Ice, 🕊️ Flying, 🐛 Bug, 👤 Poison
+* **Tera Type:** 🔥 Fire 🔥 (Coverage and Resistance) / 💎 Rock 💎 (Hits Fire/Flying/Bug)
+* **Weak To:** 🔥 Fire, ❄️ Ice, 🕊️ Flying, 🐛 Bug, ☠️ Poison
+* **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel, 🔥 Fire, 🕊️ Flying
 * **Role:** Physical Setup Sweeper
 * **Nature:** Adamant (+Attack, -Sp. Atk)
 * **Ability:** Chlorophyll (Doubles Speed in Sun)
-* **Held Item:** Clear Amulet (Prevents Intimidate) or Life Orb (Power)
+* **Held Item:** Clear Amulet (Prevents Intimidate) / Life Orb (Power)
 * **Moveset:**
     * `Solar Blade` (Immediate 125 BP Physical STAB in Sun)
     * `Synthesis` (Heals 2/3 Max HP in Sun)
     * `Razor Leaf` (Spread STAB damage)
     * `Swords Dance` (Sharply raises Attack) / `Sunny Day`
 
-#### [Moltres](https://pokemondb.net/pokedex/moltres) (The Flame Pokémon)
+#### [Moltres](https://pokemondb.net/pokedex/moltres/moves/9) (The Flame Pokémon)
 * **Type:** 🔥 Fire 🔥 / 🕊️ Flying 🕊️
-* **Tera Type:** 🔥 Fire (Maximum Sun Damage) or 💎 Steel (Defensive Utility)
-* **Weak To:** 🪨 Rock (4x), ⚡ Electric, 💧 Water
+* **Tera Type:** 🔥 Fire 🔥 (Maximum Sun Damage) / ⚙️ Steel ⚙️ (Defensive Utility)
+* **Weak To:** 💎 Rock (4x), ⚡ Electric, 💧 Water
+* **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel, 💎 Rock, ✨ Fairy
 * **Role:** Special Sun Sweeper / Tailwind Supporter
 * **Nature:** Timid (+Speed, -Attack) or Modest (+Sp. Atk, -Attack)
 * **Ability:** Flame Body (30% chance to burn on contact)
-* **Held Item:** Heavy-Duty Boots (Ignore Stealth Rock) or Life Orb (Pure Power)
+* **Held Item:** Heavy-Duty Boots (Ignore Stealth Rock) / Life Orb (Pure Power)
 * **Moveset:**
     * `Heat Wave` (Powerful spread STAB boosted by Sun)
     * `Hurricane` / `Air Slash` (Strong Flying STAB / Higher accuracy)
     * `Solar Beam` (Immediate 120 BP coverage in Sun)
     * `Tailwind` / `Sunny Day`
 
-### Volcarona (The Sun Moth)
-* **Type:** Bug / Fire
-* **Tera Type:** 🔥 Fire 🔥
-* **Weak To:** Rock (4x), Water, Flying
-* **Tera Useful Against:** Ice, Steel, Grass, Bug
+#### [Volcarona](https://pokemondb.net/pokedex/volcarona/moves/9) (The Sun Moth)
+* **Type:** 🐛 Bug 🐛 / 🔥 Fire 🔥
+* **Tera Type:** 🔥 Fire 🔥 (Maximum Power)
+* **Weak To:** 💎 Rock (4x), 💧 Water, 🕊️ Flying
+* **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel
 * **Role:** Sun Sweeper / Sp. Atk Setup / Sustain
 * **Nature:** Modest (+Sp. Atk, -Attack)
 * **Ability:** Flame Body (Chance to burn on contact)
-* **Held Item:** Heavy-Duty Boots
+* **Held Item:** Heavy-Duty Boots (Ignore Stealth Rock)
 * **Moveset:**
     * `Quiver Dance` (Boosts Sp. Atk, Sp. Def, and Speed)
-    * `Heat Wave` (Hits Both Opponenets / Boosted by Sun)
-    * `Struggle Bug` (Hits Both Opponenets, Guaranteed Sp. Atk Drop)
+    * `Heat Wave` (Hits Both Opponents / Boosted by Sun)
+    * `Struggle Bug` (Hits Both Opponents, Guaranteed Sp. Atk Drop)
     * `Solar Beam` (Sun team only) / `Sunny Day` / `Hurricane` (Rain Team) / `Giga Drain` / `Air Slash` / `U-turn` / `Amnesia` / `Will-O-Wisp` / `Light Screen` / `Morning Sun` / `Whirlwind` (Free Spot)
 
-### Entei (The Solar Flare)
-* **Type:** Fire
-* **Tera Type:** 🔥 Fire 🔥
-* **Weak To:** Water, Rock, Ground
-* **Tera Useful Against:** Grass, Ice, Steel, Bug
+#### [Entei](https://pokemondb.net/pokedex/entei/moves/9) (The Solar Flare)
+* **Type:** 🔥 Fire 🔥
+* **Tera Type:** 🔥 Fire 🔥 (Maximum Power)
+* **Weak To:** 💧 Water, 💎 Rock, ⛰️ Ground
+* **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel
 * **Role:** Physical Wallbreaker / Burn Spreader
 * **Nature:** Adamant (+Attack, -Sp. Atk)
 * **Ability:** Inner Focus (Prevents flinching and ignores Intimidate)
-* **Held Item:** Choice Band
+* **Held Item:** Choice Band (Maximum Attack)
 * **Moveset:**
     * `Sacred Fire` (Signature STAB; 50% burn chance; boosted by Sun)
     * `Extreme Speed` (High-priority finishing move)
