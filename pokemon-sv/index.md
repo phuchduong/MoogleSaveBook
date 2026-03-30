@@ -48,7 +48,6 @@ title: Pokémon Scarlett Roster
     * `Hypnosis` (Inflicts Sleep)
     * `Mean Look` (Prevents Escape)
     * `Double Team` (Evasion Buff)
-
 #### [Hisuian Samurott](https://pokemondb.net/pokedex/samurott/moves/9) (Spike Setter)
 * **Type:** 💧 Water 💧 / 🌙 Dark 🌙
 * **Tera Type:** 💧 Water 💧
@@ -56,6 +55,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 🔥 Fire, ⛰️ Ground, 💎 Rock
 * **Role:** Physical Sharpness Attacker / Critical Hit Utility
 * **Nature:** Adamant (+Attack, -Special Attack)
+* **EVs:** 252 Atk / 4 SpD / 252 Spe (Maximizes Sharpness-boosted damage and outspeeds most NPC mid-tiers)
 * **Ability:** Sharpness (Powers up slicing moves by 50%)
 * **Held Item:** Scope Lens
 * **Moveset:**
@@ -70,6 +70,7 @@ title: Pokémon Scarlett Roster
 * **Weak To:** 🌙 Dark
 * **Role:** Money Farming / Special Support
 * **Nature:** Modest (+Special Attack, -Attack)
+* **EVs:** 252 SpA / 4 SpD / 252 Spe (Essential for moving first to use Happy Hour before finishing with Bitter Malice)
 * **Ability:** Illusion (Enters battle disguised as the last Pokemon in the party)
 * **Held Item:** Amulet Coin
 * **Moveset:**
@@ -85,6 +86,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 🌿 Grass, 🔮 Psychic, 🌙 Dark
 * **Role:** Physical Sharpness Attacker / Stealth Rock Setter
 * **Nature:** Adamant (+Attack, -Special Attack)
+* **EVs:** 252 Atk / 4 SpD / 252 Spe (Ensures Stone Axe lands first to set Rocks and deal massive Sharpness damage)
 * **Ability:** Sharpness (Powers up slicing moves by 50%)
 * **Held Item:** Razor Claw
 * **Moveset:**
@@ -100,6 +102,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** ⚪ Normal, ❄️ Ice, 💎 Rock, 🌙 Dark, ⚙️ Steel
 * **Role:** Physical Status Inflictor / Pivot
 * **Nature:** Adamant (+Attack, -Special Attack)
+* **EVs:** 252 Atk / 4 SpD / 252 Spe (Sneasler has a naturally high speed tier; this ensures you outpace nearly every NPC lead)
 * **Ability:** Poison Touch (May poison a target when the Pokémon makes contact)
 * **Held Item:** Leftovers
 * **Moveset:**
@@ -114,6 +117,7 @@ title: Pokémon Scarlett Roster
 * **Weak To:** ❄️ Ice (4x), 🔥 Fire, 🪁 Flying, 🐜 Bug
 * **Role:** Special Support / Status Inflictor
 * **Nature:** Calm (+Special Defense, -Attack)
+* **EVs:** 252 HP / 4 SpA / 252 SpD (Since Mycelium Might makes Spore go last anyway, invest in bulk to survive the hit before sleeping the opponent)
 * **Ability:** Mycelium Might (Status moves go last, but ignore opponent abilities)
 * **Held Item:** None
 * **Moveset:**
@@ -129,6 +133,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 💧 Water, 🌪️ Flying, ⚙️ Steel, ❄️ Ice
 * **Role:** Physical Setup Sweeper / Terrain Support / Pivot
 * **Nature:** Adamant (+Attack, -Special Attack)
+* **EVs:** 252 Atk / 4 SpD / 252 Spe (After one Shift Gear, this spread outspeeds the entire tournament roster)
 * **Ability:** Filter (Reduces super-effective damage)
 * **Held Item:** Air Balloon / Leftovers
 * **Moveset:**
@@ -148,6 +153,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 🌿 Grass, ⛰️ Ground, 🌪️ Flying, 🐲 Dragon
 * **Role:** Special Setup Sweeper / Snow & Screen Support
 * **Nature:** Modest (+Special Attack, -Attack)
+* **EVs:** 252 SpA / 4 SpD / 252 Spe (Ensures you set Aurora Veil before taking a heavy hit)
 * **Ability:** Snow Warning (Summons Snow upon entering battle)
 * **Held Item:** Icy Rock / Light Clay
 * **Moveset:**
@@ -162,6 +168,7 @@ title: Pokémon Scarlett Roster
 * **Weak To:** 🔥 Fire (4x), 🥊 Fighting (4x), ⛰️ Ground
 * **Role:** Physical Setup Sweeper / Snow Support
 * **Nature:** Adamant (+Attack, -Special Attack)
+* **EVs:** 252 Atk / 4 Def / 252 Spe (Capitalizes on Steel typing and physical pressure)
 * **Ability:** Snow Cloak (Boosts evasion in snow)
 * **Held Item:** Leftovers
 * **Moveset:**
@@ -177,6 +184,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 🌿 Grass, ⛰️ Ground, 🪁 Flying, 🐲 Dragon
 * **Role:** Special Attacker / Snow Support
 * **Nature:** Modest (+Special Attack, -Attack)
+* **EVs:** 252 HP / 252 SpA / 4 SpD (Bulky attacker spread to utilize the Snow Defense boost)
 * **Ability:** Snow Cloak (Boosts evasion in snow)
 * **Held Item:** Never-Melt Ice
 * **Moveset:**
@@ -191,6 +199,7 @@ title: Pokémon Scarlett Roster
 * **Weak To:** 🔥 Fire, 🥊 Fighting, ⛰️ Rock, ⚙️ Steel
 * **Role:** Special Tank / Stat Booster
 * **Nature:** Modest (+Special Attack, -Attack)
+* **EVs:** 252 HP / 252 SpA / 4 SpD (Maximizes its role as a massive special sponge)
 * **Ability:** Ice Body (Heals in snow) / Clear Body (Prevents stat drops)
 * **Held Item:** Leftovers / Assault Vest
 * **Moveset:**
@@ -205,6 +214,7 @@ title: Pokémon Scarlett Roster
 * **Weak To:** ⛰️ Rock (4x), 🔥 Fire, ⚡ Electric, ⚙️ Steel
 * **Role:** Speed Support / OHKO Finisher
 * **Nature:** Timid (+Speed, -Attack)
+* **EVs:** 252 HP / 4 SpA / 252 Spe (Speed is vital for the Mind Reader + Sheer Cold combo)
 * **Ability:** Snow Cloak (Boosts evasion in snow)
 * **Held Item:** Bright Powder / Focus Sash
 * **Moveset:**
@@ -220,6 +230,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** ⛰️ Ground, 🌪️ Flying, 🌿 Grass, 🐲 Dragon
 * **Role:** Snow Sweeper / Special Tank / Setup
 * **Nature:** Modest (+Special Attack, -Attack)
+* **EVs:** 4 HP / 252 SpA / 252 Spe (Standard setup sweeper spread to maximize Quiver Dance)
 * **Ability:** Ice Scales (Halves damage from special moves)
 * **Held Item:** Light Clay / Heavy-Duty Boots
 * **Moveset:**
@@ -239,6 +250,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 🐲 Dragon, 💧 Water, 🔥 Fire, ⚡ Electric
 * **Role:** High-Burst Critical Hit Sweeper
 * **Nature:** Modest (+Special Attack, -Attack)
+* **EVs:** 252 SpA / 4 SpD / 252 Spe (Maximizes offensive pressure to capitalize on Sniper crits)
 * **Ability:** Sniper (Powers up Critical Hits by 1.5x)
 * **Held Item:** Scope Lens
 * **Moveset:**
@@ -254,6 +266,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 🌿 Grass, 👊 Fighting, 🐜 Bug
 * **Role:** Physical Tank / Critical Hit Enabler
 * **Nature:** Modest (+Special Attack, -Attack)
+* **EVs:** 252 HP / 252 SpA / 4 Def (Balanced bulk to stack Stamina boosts while hitting hard)
 * **Ability:** Stamina (Raises Defense when hit by an attack)
 * **Held Item:** Leftovers / Power Herb
 * **Moveset:**
@@ -269,6 +282,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 🔥 Fire, ⚙️ Steel, ❄️ Ice (Resists Steel/Fire as Water)
 * **Role:** Speed Control / Special Rain Attacker
 * **Nature:** Timid (+Speed, -Attack)
+* **EVs:** 252 SpA / 4 SpD / 252 Spe (Ensures Tailwind is set quickly and maximizes Thunder/Hurricane damage)
 * **Ability:** Static (Chance to paralyze on contact)
 * **Held Item:** Safety Goggles / Life Orb
 * **Moveset:**
@@ -279,10 +293,11 @@ title: Pokémon Scarlett Roster
 
 #### Goodra (The Rain Tank)
 * **Type:** 🐲 Dragon 🐲
-* **Tera Type:** 💧 Water 💧 (Boosts power in rain and changes weaknesses) / ⚙️ Steel ⚙️ (Defensive utility)
+* **Tera Type:** 💧 Water 💧 (Boosts power in rain) / ⚙️ Steel ⚙️ (Defensive utility)
 * **Weak To:** 🐲 Dragon, ✨ Fairy, ❄️ Ice
 * **Role:** Special Tank / Rain Utility Attacker
 * **Nature:** Modest (+Special Attack, -Attack) / Calm (+Special Defense, -Attack)
+* **EVs:** 252 HP / 252 SpA / 4 SpD (Provides significant bulk while maintaining offensive presence)
 * **Ability:** Hydration (Heals status conditions at the end of each turn in rain) / Sap Sipper (Immunity to Grass moves)
 * **Held Item:** Leftovers / Assault Vest (For maximum special bulk)
 * **Moveset:**
@@ -293,10 +308,11 @@ title: Pokémon Scarlett Roster
 
 #### Hisuian Goodra (The Rain Shell)
 * **Type:** ⚙️ Steel ⚙️ / 🐲 Dragon 🐲
-* **Tera Type:** 💧 Water 💧 (Boosts Water moves and provides rain synergy) / ⚙️ Steel ⚙️ (Maximizes defensive bulk)
+* **Tera Type:** 💧 Water 💧 (Boosts Water moves) / ⚙️ Steel ⚙️ (Maximizes defensive bulk)
 * **Weak To:** 👊 Fighting, ⛰️ Ground
 * **Role:** Special Tank / Rain Utility Attacker
 * **Nature:** Modest (+Special Attack, -Attack) / Quiet (+Special Attack, -Speed)
+* **EVs:** 252 HP / 252 SpA / 4 Def (Optimizes the Steel typing's natural resistances and special power)
 * **Ability:** Hydration (Heals all status conditions at the end of each turn while it is raining)
 * **Held Item:** Leftovers / Assault Vest (For extreme special bulk)
 * **Moveset:**
@@ -316,6 +332,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel, 💧 Water, ⛰️ Ground, 💎 Rock
 * **Role:** Sun Setter / Disruption Support
 * **Nature:** Timid (+Speed, -Attack)
+* **EVs:** 252 SpA / 4 SpD / 252 Spe (Maximizes speed to set Will-O-Wisp or Sun before being hit)
 * **Ability:** Drought (Sets Sun on entry)
 * **Held Item:** Heat Rock (Extends Sun to 8 turns) / Focus Sash (Survival)
 * **Moveset:**
@@ -331,6 +348,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel, ⚡ Electric, ☠️ Poison, 💎 Rock
 * **Role:** Special Chlorophyll Setup Sweeper
 * **Nature:** Modest (+Special Attack, -Attack)
+* **EVs:** 252 SpA / 4 SpD / 252 Spe (Chlorophyll makes this extremely fast, ensuring it outspeeds almost everything in Sun)
 * **Ability:** Chlorophyll (Doubles Speed in Sun)
 * **Held Item:** Life Orb (Power) / Focus Sash (Guarantee Sleep Powder)
 * **Moveset:**
@@ -346,6 +364,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel, 🔥 Fire, 🌪️ Flying
 * **Role:** Physical Setup Sweeper
 * **Nature:** Adamant (+Attack, -Special Attack)
+* **EVs:** 252 Atk / 4 Def / 252 Spe (Maximizes physical wallbreaking power under Chlorophyll)
 * **Ability:** Chlorophyll (Doubles Speed in Sun)
 * **Held Item:** Clear Amulet (Prevents Intimidate) / Life Orb (Power)
 * **Moveset:**
@@ -361,6 +380,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel, 💎 Rock, ✨ Fairy
 * **Role:** Special Sun Sweeper / Tailwind Supporter
 * **Nature:** Timid (+Speed, -Attack) / Modest (+Special Attack, -Attack)
+* **EVs:** 252 SpA / 4 SpD / 252 Spe (Standard offensive spread to maximize Sun-boosted Heat Waves)
 * **Ability:** Flame Body (30% chance to burn on contact)
 * **Held Item:** Heavy-Duty Boots (Ignore Stealth Rock) / Life Orb (Pure Power)
 * **Moveset:**
@@ -376,6 +396,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel
 * **Role:** Sun Sweeper / Special Attack Setup / Sustain
 * **Nature:** Modest (+Special Attack, -Attack)
+* **EVs:** 4 HP / 252 SpA / 252 Spe (Optimizes Quiver Dance boosts for a total sweep)
 * **Ability:** Flame Body (Chance to burn on contact)
 * **Held Item:** Heavy-Duty Boots (Ignore Stealth Rock)
 * **Moveset:**
@@ -391,6 +412,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel
 * **Role:** Physical Wallbreaker / Burn Spreader
 * **Nature:** Adamant (+Attack, -Special Attack)
+* **EVs:** 252 Atk / 4 SpD / 252 Spe (Maximizes the raw power of Choice Banded Sacred Fire)
 * **Ability:** Inner Focus (Prevents flinching and ignores Intimidate)
 * **Held Item:** Choice Band (Maximum Attack)
 * **Moveset:**
@@ -406,6 +428,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel
 * **Role:** Physical Tank / Burn Support / Weather Utility
 * **Nature:** Adamant (+Attack, -Special Attack)
+* **EVs:** 252 HP / 156 Atk / 100 Spe (Bulky spread that triggers Protosynthesis Attack boost while outspeeding key threats)
 * **Ability:** Protosynthesis (Boosts highest stat in Sun / with Booster Energy)
 * **Held Item:** Leftovers
 * **Moveset:**
@@ -423,6 +446,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 💧 Water, 🌪️ Flying
 * **Role:** Special Electric Attacker / Weather & Status Support
 * **Nature:** Modest (+Special Attack, -Attack)
+* **EVs:** 252 HP / 252 SpA / 4 SpD (Maximizes natural bulk to safely fire off priority Thunderclaps)
 * **Ability:** Protosynthesis (Boosts highest stat in Sun / with Booster Energy)
 * **Held Item:** Shell Bell
 * **Moveset:**
@@ -438,6 +462,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 🔥 Fire, ⛰️ Ground
 * **Role:** High-Speed Special Attacker / Terrain Support
 * **Nature:** Timid (+Speed, -Attack)
+* **EVs:** 252 SpA / 4 SpD / 252 Spe (Standard lead spread to establish Electric Terrain and outspeed threats)
 * **Ability:** Quark Drive (Boosts highest stat in Electric Terrain / with Booster Energy)
 * **Held Item:** Booster Energy / Terrain Extender
 * **Moveset:**
@@ -453,6 +478,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 🌑 Dark, ⚙️ Steel
 * **Role:** Fast Physical Attacker / Terrain Support / Shield Breaker
 * **Nature:** Jolly (+Speed, -Special Attack)
+* **EVs:** 252 Atk / 4 SpD / 252 Spe (Capitalizes on its elite speed tier to bypass Protection with Mighty Cleave)
 * **Ability:** Quark Drive (Boosts highest stat in Electric Terrain / with Booster Energy)
 * **Held Item:** Booster Energy / Focus Sash
 * **Moveset:**
@@ -467,6 +493,7 @@ title: Pokémon Scarlett Roster
 * **Weak To:** 💧 Water, 🌿 Grass, ❄️ Ice, ⛰️ Ground
 * **Role:** Special Speed Sweeper / Status Support
 * **Nature:** Timid (+Speed, -Attack)
+* **EVs:** 252 SpA / 4 SpD / 252 Spe (Provides maximum speed for pivoting and spreading paralysis)
 * **Ability:** Protosynthesis (Boosts highest stat in Sun / with Booster Energy)
 * **Held Item:** Booster Energy
 * **Moveset:**
@@ -483,6 +510,7 @@ title: Pokémon Scarlett Roster
 * **Weak To:** 🥊 Fighting
 * **Role:** Special Wallbreaker / Nuke
 * **Nature:** Timid (+Speed, -Attack) / Modest (+Special Attack, -Attack)
+* **EVs:** 252 SpA / 4 SpD / 252 Spe (Maximizes offensive pressure and speed tier)
 * **Ability:** Adaptability (Boosts Normal moves from 1.5x to 2x)
 * **Held Item:** Life Orb / Silk Scarf / Focus Sash
 * **Moveset:**
@@ -497,6 +525,7 @@ title: Pokémon Scarlett Roster
 * **Weak To:** ⛰️ Ground, 🌙 Dark, 👻 Ghost
 * **Role:** Trick Room Setter / Mixed Tank
 * **Nature:** Quiet (+Special Attack, -Speed)
+* **EVs:** 252 HP / 252 SpA / 4 Def (Optimizes bulk and power under Trick Room)
 * **Ability:** Regenerator (Heals 1/3 HP on switch out)
 * **Held Item:** Quick Claw / Mental Herb
 * **Moveset:**
@@ -512,6 +541,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 🔥 Fire, ⚡ Electric, ☠️ Poison, 💎 Rock, ⚙️ Steel
 * **Role:** Physical Guts Sweeper / Heavy Hitter
 * **Nature:** Adamant (+Attack, -Special Attack)
+* **EVs:** 252 HP / 252 Atk / 4 SpD (Maximizes survivability and Guts-boosted Facade damage)
 * **Ability:** Guts (Boosts Attack by 50% if the Pokémon has a status condition)
 * **Held Item:** Flame Orb
 * **Moveset:**
@@ -527,6 +557,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** ⚪ Normal
 * **Role:** Special Setup Tank / Unstoppable Special Attacker
 * **Nature:** Modest (+Special Attack, -Attack)
+* **EVs:** 252 HP / 252 SpA / 4 SpD (Provides necessary bulk for Calm Mind setup)
 * **Ability:** Mind's Eye (Can hit Ghost-types with Normal/Fighting moves; ignores accuracy drops)
 * **Held Item:** Leftovers
 * **Moveset:**
@@ -541,6 +572,7 @@ title: Pokémon Scarlett Roster
 * **Weak To:** ⛰️ Ground, 🌙 Dark, 👻 Ghost
 * **Role:** Weather Setter / Special Nuke / Pivot
 * **Nature:** Quiet (+Special Attack, -Speed)
+* **EVs:** 252 HP / 252 SpA / 4 SpD (Standard bulky pivot spread for maximum impact)
 * **Ability:** Regenerator (Heals 1/3 HP on switch out)
 * **Held Item:** Mental Herb / Assault Vest
 * **Moveset:**
@@ -555,6 +587,7 @@ title: Pokémon Scarlett Roster
 * **Weak To:** 🥊 Fighting (4x), ⚙️ Steel (4x), 🔥 Fire, 💧 Water, ⛰️ Ground, 🌿 Grass
 * **Role:** Physical Tank / Defensive Wallbreaker
 * **Nature:** Impish (+Defense, -Special Attack)
+* **EVs:** 252 HP / 252 Def / 4 Atk (Maximizes physical walling and Body Press output)
 * **Ability:** Ice Body (Heals 1/16 HP every turn in snow)
 * **Held Item:** Leftovers / Rocky Helmet
 * **Moveset:**
@@ -570,6 +603,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 🌿 Grass, ✨ Fairy
 * **Role:** Special Trick Room Sweeper / Adaptability Nuke
 * **Nature:** Quiet (+Special Attack, -Speed)
+* **EVs:** 252 HP / 252 SpA / 4 SpD (Optimizes Adaptability boosted special attacks)
 * **Ability:** Adaptability (Increases STAB multiplier from 1.5x to 2x)
 * **Held Item:** Life Orb / Black Sludge
 * **Moveset:**
@@ -585,6 +619,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** ❄️ Ice, 💎 Rock, ✨ Fairy
 * **Role:** Physical Bruiser / Trick Room Support / Spread Move Shield
 * **Nature:** Adamant (+Attack, -Special Attack)
+* **EVs:** 252 HP / 252 Atk / 4 SpD (Balanced bulk and power for lead or support)
 * **Ability:** Full Metal Body (Prevents stat drops)
 * **Held Item:** Leftovers
 * **Moveset:**
@@ -600,6 +635,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 💧 Water, ⛰️ Ground, 💎 Rock
 * **Role:** Special Sustain Attacker / Attack Debuffer
 * **Nature:** Timid (+Speed, -Attack)
+* **EVs:** 252 HP / 252 SpA / 4 Def (Prioritizes survival to benefit from Matcha Gotcha healing)
 * **Ability:** Heatproof (Halves damage from Fire-type moves)
 * **Held Item:** Shell Bell
 * **Moveset:**
@@ -614,6 +650,7 @@ title: Pokémon Scarlett Roster
 * **Weak To:** ✨ Fairy (4x), 🐲 Dragon, 🔮 Psychic, 🌪️ Flying, ❄️ Ice
 * **Role:** Mixed Setup Sweeper
 * **Nature:** Naive (+Speed, -Special Defense)
+* **EVs:** 252 SpA / 4 Atk / 252 Spe (Standard fast attacker to sweep after a boost)
 * **Ability:** Soundproof (Immunity to sound moves) / Bulletproof (Immunity to ball/bomb moves)
 * **Held Item:** Throat Spray (Boosts Special Attack after a sound move) / Leftovers
 * **Moveset:**
@@ -628,6 +665,7 @@ title: Pokémon Scarlett Roster
 * **Weak To:** 🌑 Dark (4x), 👻 Ghost (4x)
 * **Role:** Special Setup Sweeper / Full HP Tank
 * **Nature:** Timid (+Speed, -Attack)
+* **EVs:** 252 SpA / 4 SpD / 252 Spe (Maintains high speed for sweeping versatility)
 * **Ability:** Shadow Shield (Reduces damage taken by half when at full HP)
 * **Held Item:** Leftovers / Life Orb
 * **Moveset:**
@@ -644,6 +682,7 @@ title: Pokémon Scarlett Roster
 * **Weak To:** ⚡ Electric, ❄️ Ice, 💎 Rock, 👻 Ghost, 🌙 Dark
 * **Role:** Evasive Baton Pass Lead / Stall Support
 * **Nature:** Calm (+Special Defense, -Attack) / Bold (+Defense, -Attack)
+* **EVs:** 12 HP / 244 Def / 252 SpD (Optimizes Sitrus Berry and bulk)
 * **Ability:** Unburden (Doubles Speed when the held item is consumed)
 * **Held Item:** Sitrus Berry (For longevity and Unburden activation)
 * **Moveset:**
@@ -658,6 +697,7 @@ title: Pokémon Scarlett Roster
 * **Weak To:** ⚡ Electric, 🌿 Grass
 * **Role:** Defensive Stat Passer / HP Tank
 * **Nature:** Bold (+Defense, -Attack) / Calm (+Special Defense, -Attack)
+* **EVs:** 252 HP / 252 Def / 4 SpD (Maximizes physical bulk and recovery)
 * **Ability:** Water Absorb (Heals when hit by Water moves)
 * **Held Item:** Leftovers (Passive recovery) / Mental Herb (Avoids Taunt)
 * **Moveset:**
@@ -672,6 +712,7 @@ title: Pokémon Scarlett Roster
 * **Weak To:** 🐛 Bug, 👻 Ghost, 🌑 Dark
 * **Role:** Special Setup Sweeper / Baton Pass Pivot
 * **Nature:** Timid (+Speed, -Attack)
+* **EVs:** 252 SpA / 4 SpD / 252 Spe (Standard sweeper spread to outpace threats)
 * **Ability:** Magic Bounce (Reflects non-attacking moves)
 * **Held Item:** Leftovers
 * **Moveset:**
@@ -689,6 +730,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 🥊 Fighting, 🐛 Bug, ☠️ Poison
 * **Role:** Primary Physical Sweeper / Heavy Hitter
 * **Nature:** Adamant (+Attack, -Special Attack)
+* **EVs:** 252 Atk / 4 SpD / 252 Spe (Maximizes immediate offensive pressure)
 * **Ability:** Slow Start (Suppressed by Galarian Weezing)
 * **Held Item:** Clear Amulet (Prevents Intimidate)
 * **Moveset:**
@@ -703,6 +745,7 @@ title: Pokémon Scarlett Roster
 * **Tera Useful Against:** 🐲 Dragon, ❄️ Ice, 💎 Rock, ✨ Fairy
 * **Role:** Ability Negation / Status Support / Disruptor
 * **Nature:** Bold (+Defense, -Attack)
+* **EVs:** 252 HP / 252 Def / 4 SpA (Maximizes physical tankiness to keep Gas active)
 * **Ability:** Neutralizing Gas (Essential for Regigigas)
 * **Held Item:** Black Sludge
 * **Moveset:**
