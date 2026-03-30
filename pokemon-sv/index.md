@@ -48,6 +48,7 @@ title: Pokémon Scarlett Roster
     * `Hypnosis` (Inflicts Sleep)
     * `Mean Look` (Prevents Escape)
     * `Double Team` (Evasion Buff)
+
 #### [Hisuian Samurott](https://pokemondb.net/pokedex/samurott/moves/9) (Spike Setter)
 * **Type:** 💧 Water 💧 / 🌙 Dark 🌙
 * **Tera Type:** 💧 Water 💧
@@ -126,25 +127,9 @@ title: Pokémon Scarlett Roster
     * `Earth Power` (Special Ground STAB)
     * `Hex` (Ghost Coverage / Double damage on status) / `Sludge Bomb`
 
-#### [Revavroom](https://pokemondb.net/pokedex/revavroom/moves/9) (The Multi-Cylinder Pokémon)
-* **Type:** ⚙️ Steel ⚙️ / ☠️ Poison ☠️
-* **Tera Type:** ⚡ Electric ⚡ / 🔥 Fire 🔥
-* **Weak To:** ⛰️ Ground (4x), 🔥 Fire
-* **Tera Useful Against:** 💧 Water, 🌪️ Flying, ⚙️ Steel, ❄️ Ice
-* **Role:** Physical Setup Sweeper / Terrain Support / Pivot
-* **Nature:** Adamant (+Attack, -Special Attack)
-* **EVs:** 252 Atk / 4 SpD / 252 Spe (After one Shift Gear, this spread outspeeds the entire tournament roster)
-* **Ability:** Filter (Reduces super-effective damage)
-* **Held Item:** Air Balloon / Leftovers
-* **Moveset:**
-    * `Shift Gear` (Signature Move / Sharp Speed & Attack Boost)
-    * `Spin Out` (High Power Steel STAB) / `Iron Head`
-    * `Gunk Shot` (High Power Poison STAB) / `Poison Jab`
-    * `Parting Shot` (Pivoting Utility) / `Magnet Rise` (Ground Immunity)
-
 ## ❄️ Snow Doubles Roster
 
-![Snow Doubles Roster](./snow_team.png)
+![Snow Doubles Roster](./snow_team2.png)
 
 #### [Alolan Ninetales](https://pokemondb.net/pokedex/ninetales/moves/9) (The Fox Pokémon)
 * **Type:** ❄️ Ice ❄️ / ✨ Fairy ✨
@@ -241,7 +226,7 @@ title: Pokémon Scarlett Roster
 
 ## 🌧️ Rain Doubles Roster
 
-![Rain Doubles Roster](./rain_team.png)
+![Rain Doubles Roster](./rain_team2.png)
 
 #### [Kingdra](https://pokemondb.net/pokedex/kingdra) (The Dragon Pokémon)
 * **Type:** 💧 Water 💧 / 🐲 Dragon 🐲
@@ -323,7 +308,7 @@ title: Pokémon Scarlett Roster
 
 ## ☀️ Sun Doubles Roster
 
-![Sun Doubles Roster](./sun_team.png)
+![Sun Doubles Roster](./sun_team2.png)
 
 #### [Ninetales](https://pokemondb.net/pokedex/ninetales/moves/9) (The Fox Pokémon)
 * **Type:** 🔥 Fire 🔥
@@ -439,6 +424,8 @@ title: Pokémon Scarlett Roster
 
 ## ⚡ Electric Terrain Doubles Roster
 
+![Electric Terrain Doubles Roster](./electric_terrain.png)
+
 #### [Raging Bolt](https://pokemondb.net/pokedex/raging-bolt/moves/9) (The Paradox Pokémon)
 * **Type:** ⚡ Electric ⚡ / 🐲 Dragon 🐲
 * **Tera Type:** ⚡ Electric ⚡
@@ -503,6 +490,8 @@ title: Pokémon Scarlett Roster
     * `Earth Power` (Ground STAB / Speed Control)
 
 ## ⏳ Trick Room Roster
+
+![Trick Room Roster](./trick_room.png)
 
 #### [Porygon-Z](https://pokemondb.net/pokedex/porygon-z/moves/9) (The Glitched Attacker)
 * **Type:** ⚪ Normal ⚪
@@ -676,6 +665,8 @@ title: Pokémon Scarlett Roster
 
 ## 🏃 Baton Pass Roster
 
+![Baton Pass Roster](./baton_pass.png)
+
 #### [Drifblim](https://pokemondb.net/pokedex/drifblim) (The Blimp Wall)
 * **Type:** 👻 Ghost 👻 / 🌪️ Flying 🌪️
 * **Tera Type:** 🌿 Grass 🌿 (Resists Electric/Water/Ground) / ⚙️ Steel ⚙️ (Immune to Poison/Sandstorm)
@@ -722,6 +713,8 @@ title: Pokémon Scarlett Roster
     * `Morning Sun` (Reliable HP recovery) / `Dazzling Gleam` / `Shadow Ball` / `Power Gem`
 
 ### ☁️ Gas & Giant Doubles Roster
+
+![Gas & Giant Doubles Roster](./gas_giant.png)
 
 #### [Regigigas](https://pokemondb.net/pokedex/regigigas/moves/9) (The Unbound Giant)
 * **Type:** ⚪ Normal ⚪
@@ -1586,6 +1579,22 @@ title: Pokémon Scarlett Roster
     * `Psychic Fangs` / `Zen Headbutt` (Psychic STAB)
     * `Hone Claws` (Attack & Accuracy Boost) / `Earthquake`
     * `Reflect` / `Light Screen` / `Iron Defense` (Physical Wall) / `Magnet Rise`
+
+#### [Revavroom](https://pokemondb.net/pokedex/revavroom/moves/9) (The Multi-Cylinder Pokémon)
+* **Type:** ⚙️ Steel ⚙️ / ☠️ Poison ☠️
+* **Tera Type:** ⚡ Electric ⚡ / 🔥 Fire 🔥
+* **Weak To:** ⛰️ Ground (4x), 🔥 Fire
+* **Tera Useful Against:** 💧 Water, 🌪️ Flying, ⚙️ Steel, ❄️ Ice
+* **Role:** Physical Setup Sweeper / Terrain Support / Pivot
+* **Nature:** Adamant (+Attack, -Special Attack)
+* **EVs:** 252 Atk / 4 SpD / 252 Spe (After one Shift Gear, this spread outspeeds the entire tournament roster)
+* **Ability:** Filter (Reduces super-effective damage)
+* **Held Item:** Air Balloon / Leftovers
+* **Moveset:**
+    * `Shift Gear` (Signature Move / Sharp Speed & Attack Boost)
+    * `Spin Out` (High Power Steel STAB) / `Iron Head`
+    * `Gunk Shot` (High Power Poison STAB) / `Poison Jab`
+    * `Parting Shot` (Pivoting Utility) / `Magnet Rise` (Ground Immunity)
 
 ### ⚙️📉 STAB Debuffer Steel ⚙️
 -
