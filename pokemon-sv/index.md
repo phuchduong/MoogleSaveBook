@@ -518,10 +518,25 @@ title: Pokémon Scarlett Roster
 * **Ability:** Regenerator (Heals 1/3 HP on switch out)
 * **Held Item:** Quick Claw / Mental Herb
 * **Moveset:**
-    * `Trick Room` (Essential Field Control)
+    * `Trick Room` (Essential Field Control) / `Psychic Terrain`
     * `Shell Side Arm` (Signature Poison STAB / Adaptive Damage)
     * `Psychic` / `Expanding Force` (Special Psychic STAB)
     * `Flamethrower` (Fire Coverage for Steel types) / `Nasty Plot` / `Rain Dance` / `Slack Off` / `Heal Pulse`
+
+#### [Cresselia](https://pokemondb.net/pokedex/cresselia) (The Lunar Terrain Driver)
+* **Type:** 🔮 Psychic 🔮
+* **Tera Type:** 🧚 Fairy 🧚 / ⚙️ Steel ⚙️
+* **Weak To:** 🪲 Bug, 🌙 Dark, 👻 Ghost
+* **Role:** Trick Room Setter / Terrain Sweeper
+* **Nature:** Quiet (+Special Attack, -Speed)
+* **EVs:** 252 HP / 252 SpA / 4 SpD (Maximizes damage output while maintaining natural bulk)
+* **Ability:** Levitate (Immune to Ground type moves)
+* **Held Item:** Mental Herb / Life Orb
+* **Moveset:**
+    * `Psychic` / `Expanding Force` (Primary STAB; hits both opponents for massive damage in Terrain)
+    * `Trick Room` (Essential Field Control for slow rosters)
+    * `Psychic Terrain` (Enables Expanding Force and protects from priority)
+    * `Dazzling Gleam` / `Lunar Blessing` (Team recovery and status cleanse)
 
 #### [Ursaluna](https://pokemondb.net/pokedex/ursaluna/moves/9) (The Peat Pokémon)
 * **Type:** ⛰️ Ground ⛰️ / ⚪ Normal ⚪
@@ -712,6 +727,36 @@ title: Pokémon Scarlett Roster
     * `Calm Mind` (Raises Special Attack and Special Defense) / `Psychic Terrain`
     * `Morning Sun` (Reliable HP recovery) / `Dazzling Gleam` / `Shadow Ball` / `Power Gem`
 
+#### [Garganacl](https://pokemondb.net/pokedex/garganacl) (The Unstoppable Wall)
+* **Type:** ⛰️ Rock ⛰️
+* **Tera Type:** 👻 Ghost 👻 / 💧 Water 💧 / ☠️ Poison ☠️
+* **Weak To:** 💧 Water, 🌿 Grass, 👊 Fighting, ⛰️ Ground, ⚙️ Steel
+* **Role:** Defensive Wall / Passive Damage Dealer
+* **Nature:** Careful (+Special Defense, -Special Attack)
+* **EVs:** 252 HP / 4 Def / 252 SpD (Maximizes longevity to stall out Salt Cure damage)
+* **Ability:** Purifying Salt (Protects from status conditions and halves Ghost type damage)
+* **Held Item:** Leftovers / Rocky Helmet
+* **Moveset:**
+    * `Salt Cure` (Signature Move; deals 1/8 HP damage every turn, 1/4 to Steel/Water types)
+    * `Recover` (Essential 50% HP recovery for sustain)
+    * `Protect` / `Iron Defense` / `Sandstorm`
+    * `Stone Edge` / `Body Press` (Uses Defense stat for damage) / `Stealth Rock` / `Wide Guard`
+
+#### [Blaziken](https://pokemondb.net/pokedex/blaziken) (The Speed Passing Catalyst)
+* **Type:** 🔥 Fire 🔥 / 👊 Fighting 👊
+* **Tera Type:** ⚙️ Steel ⚙️ / 👻 Ghost 👻
+* **Weak To:** 💧 Water, ⛰️ Ground, 🔮 Psychic, 🕊️ Flying
+* **Role:** Speed Boost Sweeper / Baton Pass Pivot
+* **Nature:** Jolly (+Speed, -Special Attack)
+* **EVs:** 252 Atk / 4 Def / 252 Spe (Maximizes offensive pressure while ensuring Speed outscales opponents)
+* **Ability:** Speed Boost (Increases Speed by 1 stage at the end of every turn)
+* **Held Item:** Focus Sash / Leftovers
+* **Moveset:**
+    * `Baton Pass` (Passes Speed boosts and stat changes to a teammate)
+    * `Protect` (Guarantees at least one free Speed boost turn)
+    * `Swords Dance` (Boosts Attack to pass a lethal threat to physical partners)
+    * `Flare Blitz` (High damage STAB to prevent being passive) / `Close Combat` / `Substitute`
+
 ### ☁️ Gas & Giant Doubles Roster
 
 ![Gas & Giant Doubles Roster](./gas_giant.png)
@@ -746,6 +791,25 @@ title: Pokémon Scarlett Roster
     * `Sludge Bomb` (Poison STAB) / `Sludge Wave`
     * `Heat Wave` / `Will-O-Wisp` (Burns Physical Threats)
     * `Misty Terrain` / `Protect`
+
+### ☁️ Earthquake Doubles Roster
+
+<!-- ![Earthquake Doubles Roster](./earthquake.png) -->
+
+#### [Orthwurm](https://pokemondb.net/pokedex/orthwurm) (The Earthquake Sponge)
+* **Type:** ⚙️ Steel ⚙️
+* **Tera Type:** 🔥 Fire 🔥 / 👊 Fighting 👊 / 👻 Ghost 👻
+* **Weak To:** 🔥 Fire, 👊 Fighting, ⛰️ Ground (Ability Nullified)
+* **Role:** Support Pivot / Shed Tail Lead
+* **Nature:** Impish (+Defense, -Special Attack)
+* **EVs:** 252 HP / 252 Def / 4 SpD (Maximizes physical bulk to survive contact moves)
+* **Ability:** Earth Eater (Heals 1/4 HP when hit by Ground type moves)
+* **Held Item:** Sitrus Berry / Leftovers
+* **Moveset:**
+    * `Smack Down`
+    * `Iron Defense` (Boosts survivability and Body Press damage)
+    * `Body Press` (Main source of damage using high base Defense)
+    * `Shed Tail` / `Helping Hand` / `Protect` / `Sandstorm`
 
 ## 💎 Terra Raid Roster
 
