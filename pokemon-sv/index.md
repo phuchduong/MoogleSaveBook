@@ -12,6 +12,7 @@ title: Pokémon Scarlett Roster
 **Section Links:**
 
 * [⚔️ Singles Roster](#%EF%B8%8F-singles-roster)
+* [👯 General Doubles Roster](#%EF%B8%8F-general-doubles-roster)
 * [❄️ Snow Doubles Roster](#%EF%B8%8F-snow-doubles-roster)
 * [🌧️ Rain Doubles Roster](#%EF%B8%8F-rain-doubles-roster)
 * [☀️ Sun Doubles Roster](#%EF%B8%8F-sun-doubles-roster)
@@ -126,6 +127,56 @@ title: Pokémon Scarlett Roster
     * `Giga Drain` (Special Grass STAB)
     * `Earth Power` (Special Ground STAB)
     * `Hex` (Ghost Coverage / Double damage on status) / `Sludge Bomb`
+
+## 👯 General Doubles Roster
+
+#### [Sinistcha](https://pokemondb.net/pokedex/sinistcha/moves/9) (The Matcha Pokémon)
+* **Type:** 🌿 Grass 🌿 / 👻 Ghost 👻
+* **Tera Type:** 🌿 Grass 🌿
+* **Weak To:** 🔥 Fire, ❄️ Ice, 🌪️ Flying, 👻 Ghost, 🌙 Dark
+* **Tera Useful Against:** 💧 Water, ⛰️ Ground, 💎 Rock
+* **Role:** Special Sustain Attacker / Attack Debuffer
+* **Nature:** Timid (+Speed, -Attack)
+* **EVs:** 252 HP / 252 SpA / 4 Def (Prioritizes survival to benefit from Matcha Gotcha healing)
+* **Ability:** Heatproof (Halves damage from Fire-type moves)
+* **Held Item:** Shell Bell
+* **Moveset:**
+    * `Matcha Gotcha` (Signature Grass STAB / Healing & 20% Burn Chance)
+    * `Shadow Ball` (Standard Ghost STAB / Special Defense Drop Chance)
+    * `Nasty Plot` (Sharp Special Attack Boost) / `Reflect`
+    * `Strength Sap` (Healing / Lowers Opponent's Attack) / `Trick Room`
+
+#### [Terapagos](https://pokemondb.net/pokedex/terapagos/moves/9) (The Stellar Guardian)
+* **Type:** ⚪ Normal ⚪ (Stellar when Terastalized)
+* **Tera Type:** ⭐ Stellar ⭐
+* **Weak To:** 🥊 Fighting
+* **Tera Useful Against:** 🐲 Dragon, 🔥 Fire, 💧 Water, ⚡ Electric (Tera Shell ensures resistance at full HP)
+* **Role:** Special Stellar Sweeper / Spread Attacker
+* **Nature:** Modest (+Special Attack, -Attack)
+* **EVs:** 252 HP / 252 SpA / 4 SpD (Maximizes offensive pressure while utilizing Tera Shell bulk)
+* **Ability:** Tera Shell (At full HP, all incoming moves are not very effective) / Teraform Zero (Clears weather and terrain upon Terastalizing)
+* **Held Item:** Leftovers / Choice Specs
+* **Moveset:**
+    * `Tera Starstorm` (Signature Move / Becomes Stellar-type spread move when Terastalized)
+    * `Earth Power` (Special Ground Coverage / Special Defense Drop Chance)
+    * `Calm Mind` (Special Attack and Special Defense Setup)
+    * `Protect` (Essential for Doubles positioning) / `Ice Beam` (Free Spot)
+
+#### [Serperior](https://pokemondb.net/pokedex/serperior/moves/9) (The Coil King)
+* **Type:** 🌿 Grass 🌿
+* **Tera Type:** 🌿 Grass 🌿
+* **Weak To:** 🔥 Fire, ❄️ Ice, 🪁 Flying, 🐜 Bug, ☠️ Poison
+* **Tera Useful Against:** 💧 Water, ⛰️ Ground, 💎 Rock
+* **Role:** Mixed Physical Tank / Status Support
+* **Nature:** Impish (+Defense, -Special Attack)
+* **EVs:** 252 HP / 252 Def / 4 Atk
+* **Ability:** Contrary (Reverses stat changes; causes Leaf Storm to boost Special Attack)
+* **Held Item:** Leftovers
+* **Moveset:**
+    * `Leaf Storm` (High power Grass STAB; boosts Special Attack by 2 stages due to Contrary)
+    * `Giga Drain` (Special Grass STAB; provides reliable HP restoration to maintain bulk)
+    * `Dragon Pulse` (Coverage) / `Coil` (Does not work with contracy. Boosts Attack, Defense, and Accuracy)
+    * `Glare` (100% accuracy Paralysis support to slow down opponents)
 
 ## ❄️ Snow Doubles Roster
 
@@ -632,22 +683,6 @@ title: Pokémon Scarlett Roster
     * `Psychic Fangs` (Psychic STAB / Breaks Screens)
     * `Noble Roar` / `Cosmic Power` / `Wide Guard` (Protects Team from Spread Moves) / `Flare Blitz` / `Wild Charge` / `Crunch` / `Close Combat` / `Stone Edge`
 
-#### [Sinistcha](https://pokemondb.net/pokedex/sinistcha/moves/9) (The Matcha Pokémon)
-* **Type:** 🌿 Grass 🌿 / 👻 Ghost 👻
-* **Tera Type:** 🌿 Grass 🌿
-* **Weak To:** 🔥 Fire, ❄️ Ice, 🌪️ Flying, 👻 Ghost, 🌙 Dark
-* **Tera Useful Against:** 💧 Water, ⛰️ Ground, 💎 Rock
-* **Role:** Special Sustain Attacker / Attack Debuffer
-* **Nature:** Timid (+Speed, -Attack)
-* **EVs:** 252 HP / 252 SpA / 4 Def (Prioritizes survival to benefit from Matcha Gotcha healing)
-* **Ability:** Heatproof (Halves damage from Fire-type moves)
-* **Held Item:** Shell Bell
-* **Moveset:**
-    * `Matcha Gotcha` (Signature Grass STAB / Healing & 20% Burn Chance)
-    * `Shadow Ball` (Standard Ghost STAB / Special Defense Drop Chance)
-    * `Nasty Plot` (Sharp Special Attack Boost) / `Reflect`
-    * `Strength Sap` (Healing / Lowers Opponent's Attack) / `Trick Room`
-
 #### [Kommo-o](https://pokemondb.net/pokedex/kommo-o) (The Clangorous Sweeper)
 * **Type:** 🐲 Dragon 🐲 / 🥊 Fighting 🥊
 * **Tera Type:** ⚪ Normal ⚪ (Boosts Boomburst) / 🥊 Fighting 🥊 (Boosts Close Combat)
@@ -677,6 +712,38 @@ title: Pokémon Scarlett Roster
     * `Psyshock` (Psychic STAB / Hits physical defense) / `Psychic` / `Expanding Force`
     * `Charge Beam` / `Heat Wave` / `Moonblast` / `Calm Mind` / `Roost` / `Night Daze` / `Air Slash` / `Focus Blast` / `Light Screen` / `Reflect` / `Rain Dance` / `Sunny Day`  / `Ice Beam`
     * `Trick Room`
+
+#### [Malamar](https://pokemondb.net/pokedex/malamar/moves/9) (The Contrary Sweeper)
+* **Type:** 🔮 Psychic 🔮 / 🌙 Dark 🌙
+* **Tera Type:** 💥 Fighting 💥 / 🌙 Dark 🌙
+* **Weak To:** 🐛 Bug (4x), ✨ Fairy
+* **Tera Useful Against:** ⚙️ Steel, 💎 Rock, ❄️ Ice
+* **Role:** Physical Trick Room Sweeper / Stat Reverser
+* **Nature:** Brave (+Attack, -Speed)
+* **EVs:** 252 HP / 252 Atk / 4 SpD (Maximizes bulk and power while ensuring minimal speed for Trick Room)
+* **Ability:** Contrary (Reverses all stat changes; e.g., Superpower raises Attack and Defense)
+* **Held Item:** Leftovers / Tanga Berry
+* **Moveset:**
+    * `Superpower` (Fighting Coverage / Boosts Attack and Defense via Contrary)
+    * `Night Slash` (Physical Dark STAB / High Critical Hit Ratio)
+    * `Psycho Cut` (Physical Psychic STAB / High Critical Hit Ratio)
+    * `Trick Room` (Essential Field Control) / `Topsy-Turvy` (Reverses opponent stat boosts) / `Terra Blast` (Stat boost with contrary and stella terra type)
+
+#### [Magcargo](https://pokemondb.net/pokedex/magcargo/moves/9) (The Lava Pokémon)
+* **Type:** 🔥 Fire 🔥 / 💎 Rock 💎
+* **Tera Type:** 🔥 Fire 🔥
+* **Weak To:** 💧 Water (4x), ⛰️ Ground (4x), 🥊 Fighting, 💎 Rock
+* **Tera Useful Against:** 🌿 Grass, ❄️ Ice, 🐛 Bug, ⚙️ Steel
+* **Role:** Special Trick Room Sweeper / Sun Tank
+* **Nature:** Quiet (+Special Attack, -Speed)
+* **EVs:** 252 HP / 252 SpA / 4 SpD (Maximizes offensive pressure and bulk for Trick Room positioning)
+* **Ability:** Flame Body (30% chance to burn on contact)
+* **Held Item:** Life Orb / Focus Sash
+* **Moveset:**
+    * `Heat Wave` / `Lava Plume` (Fire stab)
+    * `Ancient Power` / `Power Gem` (Rock STAB)
+    * `Earth Power` (Ground coverage for mirror Fire or Steel types)
+    * `Shell Smash` (Sharp Offensive Boost) / `Recover` (Reliable Sustain)
 
 ## 🏃 Baton Pass Roster
 
