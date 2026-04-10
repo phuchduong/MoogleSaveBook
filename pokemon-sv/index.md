@@ -12,7 +12,7 @@ title: Pokémon Scarlett Roster
 **Section Links:**
 
 * [⚔️ Singles Roster](#%EF%B8%8F-singles-roster)
-* [👯 General Doubles Roster](#%EF%B8%8F-general-doubles-roster)
+* [👯 General Doubles Roster](#-general-doubles-roster)
 * [❄️ Snow Doubles Roster](#%EF%B8%8F-snow-doubles-roster)
 * [🌧️ Rain Doubles Roster](#%EF%B8%8F-rain-doubles-roster)
 * [☀️ Sun Doubles Roster](#%EF%B8%8F-sun-doubles-roster)
