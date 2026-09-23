@@ -1,7 +1,7 @@
 """
 Author: Phuc H Duong (https://github.com/phuchduong)
-Purpose: Randomly selects an installed Steam game and displays its official vertical cover art 
-         from local Steam cache files or Steam CDN fallback inside a Tkinter GUI.
+Purpose: Randomly selects an installed Steam game using a 3D vertical wheel-scroll
+         animator and displays its official cover art inside a Tkinter GUI.
 Date Created: September 23, 2026
 Last Updated: September 23, 2026
 Platform: Windows
@@ -10,6 +10,7 @@ Platform: Windows
 import io
 import os
 import re
+import math
 import random
 import glob
 import winreg
@@ -21,93 +22,112 @@ from PIL import Image, ImageTk
 
 def get_steam_path() -> str:
     """Finds Steam installation path from the Windows Registry."""
-    print("\n--- DEBUG: Locating Steam Installation ---")
     try:
         key = winreg.OpenKey(
             winreg.HKEY_CURRENT_USER, r"Software\Valve\Steam"
         )
         steam_path, _ = winreg.QueryValueEx(key, "SteamPath")
         winreg.CloseKey(key)
-        norm_path = os.path.normpath(steam_path)
-        print(f"[+] Found Steam path in Registry: {norm_path}")
-        return norm_path
-    except Exception as err:
-        print(f"[-] Could not read Registry key: {err}")
+        return os.path.normpath(steam_path)
+    except Exception:
         default_path = r"C:\Program Files (x86)\Steam"
-        if os.path.exists(default_path):
-            print(f"[+] Falling back to default path: {default_path}")
-            return default_path
-        else:
-            print(f"[-] Default path does not exist: {default_path}")
-            return ""
+        return default_path if os.path.exists(default_path) else ""
 
 
-class SteamGridPickerApp:
+class SteamWheelPickerApp:
 
     def __init__(self, root: tk.Tk):
         self.root = root
         self.steam_root = get_steam_path()
         self.games_data = []
+        self.is_spinning = False
 
-        self.root.title("Steam Random Game Picker")
-        self.root.geometry("450x650")
+        # Wheel animation parameters
+        self.item_height = 45  # Vertical spacing per game
+        self.scroll_offset = 0.0  # Continuous pixel offset
+        self.selected_index = 0
+
+        self.root.title("Steam Game Wheel Picker")
+        self.root.geometry("820x550")
         self.root.resizable(False, False)
 
-        # Container Frame using Grid layout
-        container = tk.Frame(root, padx=20, pady=20)
-        container.pack(fill=tk.BOTH, expand=True)
+        main_container = tk.Frame(root, bg="#171a21", padx=15, pady=15)
+        main_container.pack(fill=tk.BOTH, expand=True)
 
-        container.columnconfigure(0, weight=1)
+        # ---------------- LEFT PANEL: Vertical Wheel Drum ----------------
+        left_frame = tk.Frame(main_container, bg="#171a21")
+        left_frame.pack(side=tk.LEFT, padx=10, fill=tk.Y)
 
-        # 1. Header Title
-        self.header_label = tk.Label(
-            container, text="Random Steam Game Picker", font=("Segoe UI", 14, "bold")
-        )
-        self.header_label.grid(row=0, column=0, pady=(0, 5), sticky="ew")
-
-        # 2. Selected Game Name Title
-        self.title_label = tk.Label(
-            container,
-            text="Loading games...",
-            font=("Segoe UI", 11, "bold"),
-            wraplength=400,
-            justify="center",
-            fg="#2c3e50",
-            height=2,
-        )
-        self.title_label.grid(row=1, column=0, pady=5, sticky="ew")
-
-        # 3. Interactive Canvas Display Area (260x390)
-        self.canvas = tk.Canvas(
-            container, width=260, height=390, bg="#1b2838", highlightthickness=1, highlightbackground="#2a475e"
-        )
-        self.canvas.grid(row=2, column=0, pady=10)
-
-        # 4. Action Button
-        self.pick_button = tk.Button(
-            container,
-            text="ROLL GAME",
-            font=("Segoe UI", 12, "bold"),
+        wheel_title = tk.Label(
+            left_frame,
+            text="Steam Library Wheel",
+            font=("Segoe UI", 14, "bold"),
+            fg="#66c0f4",
             bg="#171a21",
+        )
+        wheel_title.pack(pady=(0, 10))
+
+        # Vertical Wheel Canvas
+        self.wheel_canvas = tk.Canvas(
+            left_frame,
+            width=360,
+            height=360,
+            bg="#1b2838",
+            highlightthickness=2,
+            highlightbackground="#2a475e",
+        )
+        self.wheel_canvas.pack()
+
+        # Spin Button
+        self.spin_button = tk.Button(
+            left_frame,
+            text="SPIN WHEEL",
+            font=("Segoe UI", 12, "bold"),
+            bg="#1b2838",
             fg="#66c0f4",
             activebackground="#2a475e",
             activeforeground="#ffffff",
-            padx=25,
-            pady=10,
+            padx=20,
+            pady=8,
             cursor="hand2",
-            command=self.pick_random_game,
+            command=self.start_wheel_spin,
         )
-        self.pick_button.grid(row=3, column=0, pady=(10, 0))
+        self.spin_button.pack(pady=15)
+
+        # ---------------- RIGHT PANEL: Game Cover Art ----------------
+        right_frame = tk.Frame(main_container, bg="#171a21")
+        right_frame.pack(side=tk.RIGHT, padx=10, fill=tk.BOTH, expand=True)
+
+        self.title_label = tk.Label(
+            right_frame,
+            text="Spin to pick a game!",
+            font=("Segoe UI", 12, "bold"),
+            wraplength=380,
+            justify="center",
+            fg="#c6d4df",
+            bg="#171a21",
+            height=2,
+        )
+        self.title_label.pack(pady=(0, 5))
+
+        # Cover Display Canvas (240x360)
+        self.cover_canvas = tk.Canvas(
+            right_frame,
+            width=240,
+            height=360,
+            bg="#1b2838",
+            highlightthickness=1,
+            highlightbackground="#2a475e",
+        )
+        self.cover_canvas.pack(pady=5)
 
         self.tk_image = None
-        self.load_installed_games()
 
-        # Automatically roll the first game upon startup
-        if self.games_data:
-            self.pick_random_game()
+        self.load_installed_games()
+        self.draw_wheel()
 
     def get_library_paths(self) -> list[str]:
-        """Reads libraryfolders.vdf to find all Steam library locations."""
+        """Reads libraryfolders.vdf to locate Steam library paths."""
         libraries = []
         if not self.steam_root:
             return libraries
@@ -133,7 +153,7 @@ class SteamGridPickerApp:
         return libraries
 
     def find_cover_art(self, appid: str) -> str:
-        """Searches local cache for artwork."""
+        """Searches local cache for vertical cover artwork."""
         if not appid or not self.steam_root:
             return ""
 
@@ -159,7 +179,7 @@ class SteamGridPickerApp:
         return ""
 
     def fetch_remote_cover(self, appid: str) -> Image.Image | None:
-        """Fetches cover image from Steam CDN if local art is missing."""
+        """Fetches cover image from Steam CDN as fallback."""
         if not appid:
             return None
 
@@ -172,7 +192,6 @@ class SteamGridPickerApp:
             try:
                 req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
                 with urllib.request.urlopen(req, timeout=2.5) as resp:
-                    print(f"[+] Downloaded remote cover for AppID {appid}")
                     return Image.open(io.BytesIO(resp.read()))
             except Exception:
                 continue
@@ -217,28 +236,143 @@ class SteamGridPickerApp:
         if not self.games_data:
             self.title_label.config(text="No installed games found.")
 
-    def render_fallback_card(self, game_name: str, appid: str) -> None:
-        """Draws a custom placeholder card directly on the Canvas if image fails."""
-        self.canvas.delete("all")
-        self.canvas.create_rectangle(10, 10, 250, 380, outline="#66c0f4", width=2)
-        self.canvas.create_text(
-            130, 160, text=game_name, fill="#ffffff", font=("Segoe UI", 12, "bold"), width=220, justify="center"
-        )
-        self.canvas.create_text(
-            130, 230, text=f"AppID: {appid}", fill="#c6d4df", font=("Segoe UI", 9)
-        )
+    def draw_wheel(self) -> None:
+        """Renders the vertical drum picker with cylindrical projection effects."""
+        self.wheel_canvas.delete("all")
 
-    def pick_random_game(self) -> None:
-        """Selects a random game and updates canvas."""
-        if not self.games_data:
+        canvas_width = 360
+        canvas_height = 360
+        center_y = canvas_height / 2
+        total_games = len(self.games_data)
+
+        if total_games == 0:
             return
 
-        selected = random.choice(self.games_data)
-        game_name = selected["name"]
-        cover_path = selected["cover_path"]
-        appid = selected["appid"]
+        # Selection Focus Box Overlay
+        box_h = 50
+        self.wheel_canvas.create_rectangle(
+            15,
+            center_y - box_h / 2,
+            canvas_width - 15,
+            center_y + box_h / 2,
+            fill="#2a475e",
+            outline="#66c0f4",
+            width=2,
+        )
 
-        print(f"\n[+] Selected: {game_name} (AppID: {appid})")
+        # Range of visible rows relative to center
+        visible_range = 5
+
+        # Calculate base floating index aligned with center line
+        center_index_float = self.scroll_offset / self.item_height
+
+        for offset in range(-visible_range, visible_range + 1):
+            # Base integer index for this slot
+            idx = (math.floor(center_index_float) + offset) % total_games
+            game = self.games_data[idx]
+
+            # Calculate Y position relative to canvas center
+            y_pos = center_y + (offset - (center_index_float % 1)) * self.item_height
+
+            # Cylinder Projection Curve [-1.0, 1.0]
+            norm_y = (y_pos - center_y) / (center_y * 0.95)
+
+            if -1.0 <= norm_y <= 1.0:
+                # 3D Angle Calculation
+                angle = norm_y * (math.pi / 2.3)
+                cos_val = math.cos(angle)
+
+                # Distance-based scale and fade
+                font_size = max(8, int(13 * cos_val))
+                opacity_factor = max(0.2, cos_val ** 2)
+
+                # Highlight selected middle item
+                if abs(y_pos - center_y) < (self.item_height / 2):
+                    color = "#ffffff"
+                    font_style = ("Segoe UI", 12, "bold")
+                else:
+                    # Grayscale shading for top/bottom items
+                    gray_val = int(198 * opacity_factor)
+                    color = f"#{gray_val:02x}{gray_val:02x}{gray_val:02x}"
+                    font_style = ("Segoe UI", font_size)
+
+                game_text = game["name"]
+                if len(game_text) > 32:
+                    game_text = game_text[:30] + ".."
+
+                self.wheel_canvas.create_text(
+                    canvas_width / 2,
+                    y_pos,
+                    text=game_text,
+                    fill=color,
+                    font=font_style,
+                    justify="center",
+                )
+
+        # Draw Selection Arrows on Left & Right Margins
+        self.wheel_canvas.create_polygon(
+            22, center_y - 8, 22, center_y + 8, 32, center_y, fill="#66c0f4"
+        )
+        self.wheel_canvas.create_polygon(
+            canvas_width - 22, center_y - 8, canvas_width - 22, center_y + 8, canvas_width - 32, center_y, fill="#66c0f4"
+        )
+
+    def start_wheel_spin(self) -> None:
+        """Triggers vertical wheel spin animation."""
+        if not self.games_data or self.is_spinning:
+            return
+
+        self.is_spinning = True
+        self.spin_button.config(state=tk.DISABLED)
+
+        # Pick random target game index from full 84-game pool
+        self.selected_index = random.randint(0, len(self.games_data) - 1)
+
+        total_games = len(self.games_data)
+        full_rotations = random.randint(3, 5)
+
+        # Calculate exact target distance to land target game in center
+        current_idx_float = self.scroll_offset / self.item_height
+        target_idx_float = current_idx_float + (full_rotations * total_games) + (self.selected_index - (current_idx_float % total_games))
+        
+        target_offset = target_idx_float * self.item_height
+        initial_velocity = random.uniform(35.0, 50.0)
+
+        self._animate_scroll(initial_velocity, target_offset)
+
+    def _animate_scroll(self, velocity: float, target_offset: float) -> None:
+        """Calculates friction deceleration and centers target game."""
+        distance_left = target_offset - self.scroll_offset
+
+        if distance_left > 1.0 and velocity > 0.5:
+            # Step offset scaled by velocity
+            step = min(velocity, distance_left)
+            self.scroll_offset += step
+            self.draw_wheel()
+
+            # Live preview title updates during fast scroll
+            current_idx = int((self.scroll_offset / self.item_height)) % len(self.games_data)
+            self.title_label.config(text=self.games_data[current_idx]["name"])
+
+            # Friction decay
+            next_velocity = velocity * 0.97
+            self.root.after(16, self._animate_scroll, next_velocity, target_offset)
+        else:
+            # Snap directly to target position
+            self.scroll_offset = target_offset
+            self.draw_wheel()
+            self.is_spinning = False
+            self.spin_button.config(state=tk.NORMAL)
+
+            selected_game = self.games_data[self.selected_index]
+            self.display_selected_game(selected_game)
+
+    def display_selected_game(self, game: dict) -> None:
+        """Loads and displays cover art for selected game."""
+        game_name = game["name"]
+        cover_path = game["cover_path"]
+        appid = game["appid"]
+
         self.title_label.config(text=game_name)
 
         img = None
@@ -253,24 +387,32 @@ class SteamGridPickerApp:
 
         if img:
             try:
-                img = img.resize((260, 390), Image.Resampling.LANCZOS)
+                img = img.resize((240, 360), Image.Resampling.LANCZOS)
                 self.tk_image = ImageTk.PhotoImage(img)
-                self.canvas.delete("all")
-                self.canvas.create_image(0, 0, anchor=tk.NW, image=self.tk_image)
-            except Exception as err:
-                print(f"[-] Canvas render error: {err}")
+                self.cover_canvas.delete("all")
+                self.cover_canvas.create_image(0, 0, anchor=tk.NW, image=self.tk_image)
+            except Exception:
                 self.render_fallback_card(game_name, appid)
         else:
-            print("[-] Image unavailable. Drawing canvas fallback card.")
             self.render_fallback_card(game_name, appid)
+
+    def render_fallback_card(self, game_name: str, appid: str) -> None:
+        """Draws fallback placeholder card if artwork is unavailable."""
+        self.cover_canvas.delete("all")
+        self.cover_canvas.create_rectangle(10, 10, 230, 350, outline="#66c0f4", width=2)
+        self.cover_canvas.create_text(
+            120, 150, text=game_name, fill="#ffffff", font=("Segoe UI", 11, "bold"), width=200, justify="center"
+        )
+        self.cover_canvas.create_text(
+            120, 220, text=f"AppID: {appid}", fill="#c6d4df", font=("Segoe UI", 9)
+        )
 
 
 def main():
     root = tk.Tk()
-    app = SteamGridPickerApp(root)
+    app = SteamWheelPickerApp(root)
     root.mainloop()
 
 
 if __name__ == "__main__":
     main()
-
