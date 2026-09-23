@@ -1,7 +1,7 @@
 """
 Author: Phuc H Duong (https://github.com/phuchduong)
-Purpose: Randomly selects an installed Steam game using a 3D vertical wheel-scroll
-         animator and displays its official cover art inside a Tkinter GUI.
+Purpose: Randomly selects an installed Steam game using a synchronized 3D 
+         vertical wheel-scroll animator with accurate ease-out landing.
 Date Created: September 23, 2026
 Last Updated: September 23, 2026
 Platform: Windows
@@ -17,7 +17,7 @@ import winreg
 import urllib.request
 import tkinter as tk
 from tkinter import messagebox
-from PIL import Image, ImageTk
+from PIL import Image, ImageTk, ImageOps
 
 
 def get_steam_path() -> str:
@@ -43,9 +43,15 @@ class SteamWheelPickerApp:
         self.is_spinning = False
 
         # Wheel animation parameters
-        self.item_height = 45  # Vertical spacing per game
-        self.scroll_offset = 0.0  # Continuous pixel offset
+        self.item_height = 45
+        self.scroll_offset = 0.0
         self.selected_index = 0
+
+        # Animation timing control
+        self.anim_start_offset = 0.0
+        self.anim_target_offset = 0.0
+        self.anim_step = 0
+        self.anim_total_steps = 120  # ~2 seconds at 60 FPS (16ms per frame)
 
         self.root.title("Steam Game Wheel Picker")
         self.root.geometry("820x550")
@@ -110,11 +116,13 @@ class SteamWheelPickerApp:
         )
         self.title_label.pack(pady=(0, 5))
 
-        # Cover Display Canvas (240x360)
+        # Canvas bounding box (280x360)
+        self.canvas_w = 280
+        self.canvas_h = 360
         self.cover_canvas = tk.Canvas(
             right_frame,
-            width=240,
-            height=360,
+            width=self.canvas_w,
+            height=self.canvas_h,
             bg="#1b2838",
             highlightthickness=1,
             highlightbackground="#2a475e",
@@ -153,7 +161,7 @@ class SteamWheelPickerApp:
         return libraries
 
     def find_cover_art(self, appid: str) -> str:
-        """Searches local cache for vertical cover artwork."""
+        """Searches local cache for artwork files."""
         if not appid or not self.steam_root:
             return ""
 
@@ -248,7 +256,6 @@ class SteamWheelPickerApp:
         if total_games == 0:
             return
 
-        # Selection Focus Box Overlay
         box_h = 50
         self.wheel_canvas.create_rectangle(
             15,
@@ -260,38 +267,27 @@ class SteamWheelPickerApp:
             width=2,
         )
 
-        # Range of visible rows relative to center
         visible_range = 5
-
-        # Calculate base floating index aligned with center line
         center_index_float = self.scroll_offset / self.item_height
 
         for offset in range(-visible_range, visible_range + 1):
-            # Base integer index for this slot
             idx = (math.floor(center_index_float) + offset) % total_games
             game = self.games_data[idx]
 
-            # Calculate Y position relative to canvas center
             y_pos = center_y + (offset - (center_index_float % 1)) * self.item_height
-
-            # Cylinder Projection Curve [-1.0, 1.0]
             norm_y = (y_pos - center_y) / (center_y * 0.95)
 
             if -1.0 <= norm_y <= 1.0:
-                # 3D Angle Calculation
                 angle = norm_y * (math.pi / 2.3)
                 cos_val = math.cos(angle)
 
-                # Distance-based scale and fade
                 font_size = max(8, int(13 * cos_val))
                 opacity_factor = max(0.2, cos_val ** 2)
 
-                # Highlight selected middle item
                 if abs(y_pos - center_y) < (self.item_height / 2):
                     color = "#ffffff"
                     font_style = ("Segoe UI", 12, "bold")
                 else:
-                    # Grayscale shading for top/bottom items
                     gray_val = int(198 * opacity_factor)
                     color = f"#{gray_val:02x}{gray_val:02x}{gray_val:02x}"
                     font_style = ("Segoe UI", font_size)
@@ -309,7 +305,6 @@ class SteamWheelPickerApp:
                     justify="center",
                 )
 
-        # Draw Selection Arrows on Left & Right Margins
         self.wheel_canvas.create_polygon(
             22, center_y - 8, 22, center_y + 8, 32, center_y, fill="#66c0f4"
         )
@@ -318,49 +313,63 @@ class SteamWheelPickerApp:
         )
 
     def start_wheel_spin(self) -> None:
-        """Triggers vertical wheel spin animation."""
+        """Triggers synchronized easing animation directly to selected game."""
         if not self.games_data or self.is_spinning:
             return
 
         self.is_spinning = True
         self.spin_button.config(state=tk.DISABLED)
 
-        # Pick random target game index from full 84-game pool
-        self.selected_index = random.randint(0, len(self.games_data) - 1)
-
         total_games = len(self.games_data)
+        self.selected_index = random.randint(0, total_games - 1)
+
+        # Current continuous position
+        self.anim_start_offset = self.scroll_offset
+
+        # Number of full wheel rotations before stopping (3 to 5 full loops)
         full_rotations = random.randint(3, 5)
 
-        # Calculate exact target distance to land target game in center
-        current_idx_float = self.scroll_offset / self.item_height
-        target_idx_float = current_idx_float + (full_rotations * total_games) + (self.selected_index - (current_idx_float % total_games))
+        # Calculate exact target offset so winning item lands precisely in center box
+        current_item_index = self.anim_start_offset / self.item_height
         
-        target_offset = target_idx_float * self.item_height
-        initial_velocity = random.uniform(35.0, 50.0)
+        # Calculate extra slots needed to reach target index
+        slots_to_target = (self.selected_index - (current_item_index % total_games)) % total_games
+        total_slots_to_move = (full_rotations * total_games) + slots_to_target
 
-        self._animate_scroll(initial_velocity, target_offset)
+        self.anim_target_offset = self.anim_start_offset + (total_slots_to_move * self.item_height)
+        
+        self.anim_step = 0
+        self.anim_total_steps = 130  # ~2.1 seconds smooth easing animation
 
-    def _animate_scroll(self, velocity: float, target_offset: float) -> None:
-        """Calculates friction deceleration and centers target game."""
-        distance_left = target_offset - self.scroll_offset
+        self._animate_easing()
 
-        if distance_left > 1.0 and velocity > 0.5:
-            # Step offset scaled by velocity
-            step = min(velocity, distance_left)
-            self.scroll_offset += step
+    def _animate_easing(self) -> None:
+        """Uses Cubic Ease-Out curve for a seamless transition without jumps."""
+        if self.anim_step <= self.anim_total_steps:
+            # Normalized progress t from 0.0 to 1.0
+            t = self.anim_step / self.anim_total_steps
+
+            # Cubic Ease-Out formula: 1 - (1 - t)^3
+            ease_out = 1.0 - math.pow(1.0 - t, 3)
+
+            # Interpolate offset
+            self.scroll_offset = self.anim_start_offset + (
+                (self.anim_target_offset - self.anim_start_offset) * ease_out
+            )
+
             self.draw_wheel()
 
-            # Live preview title updates during fast scroll
-            current_idx = int((self.scroll_offset / self.item_height)) % len(self.games_data)
+            # Update live header label during spin
+            current_idx = int(round(self.scroll_offset / self.item_height)) % len(self.games_data)
             self.title_label.config(text=self.games_data[current_idx]["name"])
 
-            # Friction decay
-            next_velocity = velocity * 0.97
-            self.root.after(16, self._animate_scroll, next_velocity, target_offset)
+            self.anim_step += 1
+            self.root.after(16, self._animate_easing)
         else:
-            # Snap directly to target position
-            self.scroll_offset = target_offset
+            # Lock precisely to target offset at the end
+            self.scroll_offset = self.anim_target_offset
             self.draw_wheel()
+
             self.is_spinning = False
             self.spin_button.config(state=tk.NORMAL)
 
@@ -368,7 +377,7 @@ class SteamWheelPickerApp:
             self.display_selected_game(selected_game)
 
     def display_selected_game(self, game: dict) -> None:
-        """Loads and displays cover art for selected game."""
+        """Loads and displays cover art preserving aspect ratio."""
         game_name = game["name"]
         cover_path = game["cover_path"]
         appid = game["appid"]
@@ -387,10 +396,18 @@ class SteamWheelPickerApp:
 
         if img:
             try:
-                img = img.resize((240, 360), Image.Resampling.LANCZOS)
-                self.tk_image = ImageTk.PhotoImage(img)
+                fitted_img = ImageOps.contain(
+                    img, (self.canvas_w, self.canvas_h), method=Image.Resampling.LANCZOS
+                )
+                self.tk_image = ImageTk.PhotoImage(fitted_img)
                 self.cover_canvas.delete("all")
-                self.cover_canvas.create_image(0, 0, anchor=tk.NW, image=self.tk_image)
+                
+                self.cover_canvas.create_image(
+                    self.canvas_w / 2,
+                    self.canvas_h / 2,
+                    anchor=tk.CENTER,
+                    image=self.tk_image,
+                )
             except Exception:
                 self.render_fallback_card(game_name, appid)
         else:
@@ -399,12 +416,12 @@ class SteamWheelPickerApp:
     def render_fallback_card(self, game_name: str, appid: str) -> None:
         """Draws fallback placeholder card if artwork is unavailable."""
         self.cover_canvas.delete("all")
-        self.cover_canvas.create_rectangle(10, 10, 230, 350, outline="#66c0f4", width=2)
+        self.cover_canvas.create_rectangle(10, 10, self.canvas_w - 10, self.canvas_h - 10, outline="#66c0f4", width=2)
         self.cover_canvas.create_text(
-            120, 150, text=game_name, fill="#ffffff", font=("Segoe UI", 11, "bold"), width=200, justify="center"
+            self.canvas_w / 2, 150, text=game_name, fill="#ffffff", font=("Segoe UI", 11, "bold"), width=self.canvas_w - 40, justify="center"
         )
         self.cover_canvas.create_text(
-            120, 220, text=f"AppID: {appid}", fill="#c6d4df", font=("Segoe UI", 9)
+            self.canvas_w / 2, 220, text=f"AppID: {appid}", fill="#c6d4df", font=("Segoe UI", 9)
         )
 
 
